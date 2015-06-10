@@ -1,0 +1,994 @@
+[05:43:35] [main/INFO]: Setting user: BogdanG
+[05:43:43] [Client thread/INFO]: LWJGL Version: 2.9.4
+[05:44:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:weather2, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, ChromaHills-128x_1.7v11.zip
+[05:44:25] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[05:44:25] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[05:45:52] [Sound Library Loader/INFO]: Sound engine started
+[05:45:53] [Client thread/WARN]: File nevermine:sounds/AuguryTransfer.ogg does not exist, cannot add it to event nevermine:AuguryTransfer
+[05:45:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2715_null.png, java.io.FileNotFoundException
+[05:46:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Diamond Ore.png, java.io.FileNotFoundException
+[05:46:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Coal Ore.png, java.io.FileNotFoundException
+[05:46:13] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Emerald Ore.png, java.io.FileNotFoundException
+[05:46:16] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null tile.monsterStoneEgg.name.png, java.io.FileNotFoundException
+[05:46:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2709_null.png, java.io.FileNotFoundException
+[05:46:19] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2710_null.png, java.io.FileNotFoundException
+[05:46:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2699_tile.igneousStone.png, java.io.FileNotFoundException
+[05:46:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Gold Ore.png, java.io.FileNotFoundException
+[05:46:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Redstone Ore.png, java.io.FileNotFoundException
+[05:46:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2705_tile.sedimentaryStone.png, java.io.FileNotFoundException
+[05:46:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2707_null.png, java.io.FileNotFoundException
+[05:46:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2714_null.png, java.io.FileNotFoundException
+[05:46:31] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2719_null.png, java.io.FileNotFoundException
+[05:46:31] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2708_null.png, java.io.FileNotFoundException
+[05:46:32] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2716_null.png, java.io.FileNotFoundException
+[05:46:33] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[05:46:33] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2712_null.png, java.io.FileNotFoundException
+[05:46:35] [Client thread/ERROR]: Using missing texture, unable to load extrautils:textures/blocks/enderQuarryUpgrade.png, java.io.FileNotFoundException
+[05:46:39] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/futura/WIP/controllerWIP-ctm.png, java.io.FileNotFoundException
+[05:46:39] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Lapis Lazuli Ore.png, java.io.FileNotFoundException
+[05:46:41] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1474_bookshelf.png, java.io.FileNotFoundException
+[05:46:41] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2706_null.png, java.io.FileNotFoundException
+[05:46:44] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2713_null.png, java.io.FileNotFoundException
+[05:46:44] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Iron Ore.png, java.io.FileNotFoundException
+[05:46:50] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2717_null.png, java.io.FileNotFoundException
+[05:46:50] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2718_null.png, java.io.FileNotFoundException
+[05:46:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2711_null.png, java.io.FileNotFoundException
+[05:46:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2702_tile.metamorphicStone.png, java.io.FileNotFoundException
+[05:46:57] [Client thread/INFO]: Created: 8192x4096 textures/blocks-atlas
+[05:47:04] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6261_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[05:47:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png, java.io.FileNotFoundException
+[05:47:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png, java.io.FileNotFoundException
+[05:47:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png, java.io.FileNotFoundException
+[05:47:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png, java.io.FileNotFoundException
+[05:47:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png, java.io.FileNotFoundException
+[05:47:10] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6278_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[05:47:13] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/items/upgrade_reversion.png, java.io.FileNotFoundException
+[05:47:13] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[05:52:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:weather2, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Carpenter's Blocks Cached Resources, ChromaHills-128x_1.7v11.zip
+[05:52:09] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[05:52:09] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[05:52:15] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/3_sec.png, java.io.FileNotFoundException
+[05:52:15] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Emerald Ore.png, java.io.FileNotFoundException
+[05:52:16] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/7_sec.png, java.io.FileNotFoundException
+[05:52:16] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/0_sec.png, java.io.FileNotFoundException
+[05:52:16] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2709_null.png, java.io.FileNotFoundException
+[05:52:16] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2710_null.png, java.io.FileNotFoundException
+[05:52:16] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2699_tile.igneousStone.png, java.io.FileNotFoundException
+[05:52:17] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Redstone Ore.png, java.io.FileNotFoundException
+[05:52:17] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2705_tile.sedimentaryStone.png, java.io.FileNotFoundException
+[05:52:17] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2707_null.png, java.io.FileNotFoundException
+[05:52:17] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2714_null.png, java.io.FileNotFoundException
+[05:52:17] [Client thread/ERROR]: Using missing texture, unable to load extrautils:textures/blocks/enderQuarryUpgrade.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/4_sec.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/futura/WIP/controllerWIP-ctm.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_3.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_4.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_5.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_6.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_0.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_1.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_2.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_8.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_7.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_9.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1474_bookshelf.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected2/0_sec.png, java.io.FileNotFoundException
+[05:52:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2706_null.png, java.io.FileNotFoundException
+[05:52:19] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/8_sec.png, java.io.FileNotFoundException
+[05:52:19] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2717_null.png, java.io.FileNotFoundException
+[05:52:19] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2718_null.png, java.io.FileNotFoundException
+[05:52:20] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/9_sec.png, java.io.FileNotFoundException
+[05:52:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2702_tile.metamorphicStone.png, java.io.FileNotFoundException
+[05:52:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2715_null.png, java.io.FileNotFoundException
+[05:52:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Diamond Ore.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Coal Ore.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/5_sec.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_10.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_11.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_16.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_12.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_13.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_14.png, java.io.FileNotFoundException
+[05:52:21] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_15.png, java.io.FileNotFoundException
+[05:52:22] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null tile.monsterStoneEgg.name.png, java.io.FileNotFoundException
+[05:52:22] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/WindVane.png, java.io.FileNotFoundException
+[05:52:22] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/1_sec.png, java.io.FileNotFoundException
+[05:52:23] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Gold Ore.png, java.io.FileNotFoundException
+[05:52:23] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/6_sec.png, java.io.FileNotFoundException
+[05:52:24] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/Anemometer.png, java.io.FileNotFoundException
+[05:52:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2719_null.png, java.io.FileNotFoundException
+[05:52:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2708_null.png, java.io.FileNotFoundException
+[05:52:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2716_null.png, java.io.FileNotFoundException
+[05:52:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[05:52:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2712_null.png, java.io.FileNotFoundException
+[05:52:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_3018_Slab.png, java.io.FileNotFoundException
+[05:52:25] [Client thread/ERROR]: Using missing texture, unable to load bluepower:textures/blocks/machines/igniter_side_0.png, java.io.FileNotFoundException
+[05:52:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Lapis Lazuli Ore.png, java.io.FileNotFoundException
+[05:52:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2713_null.png, java.io.FileNotFoundException
+[05:52:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Iron Ore.png, java.io.FileNotFoundException
+[05:52:26] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/2_sec.png, java.io.FileNotFoundException
+[05:52:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2711_null.png, java.io.FileNotFoundException
+[05:52:27] [Client thread/INFO]: Created: 8192x4096 textures/blocks-atlas
+[05:52:37] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6261_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[05:52:38] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png, java.io.FileNotFoundException
+[05:52:38] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png, java.io.FileNotFoundException
+[05:52:38] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png, java.io.FileNotFoundException
+[05:52:38] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png, java.io.FileNotFoundException
+[05:52:38] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png, java.io.FileNotFoundException
+[05:52:38] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6278_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[05:52:39] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/items/upgrade_reversion.png, java.io.FileNotFoundException
+[05:52:39] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[05:52:42] [Sound Library Loader/INFO]: Sound engine started
+[05:52:42] [Client thread/WARN]: File nevermine:sounds/AuguryTransfer.ogg does not exist, cannot add it to event nevermine:AuguryTransfer
+[05:53:14] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[05:53:14] [Server thread/INFO]: Generating keypair
+[05:53:15] [Server thread/INFO]: Converting map!
+[05:53:15] [Server thread/INFO]: Scanning folders...
+[05:53:15] [Server thread/INFO]: Total conversion count is 0
+[05:53:21] [Server thread/WARN]: Unable to find spawn biome
+[05:53:21] [Server thread/WARN]: Unable to find spawn biome
+[05:53:22] [Server thread/INFO]: Preparing start region for level 0
+[05:53:25] [Server thread/INFO]: Preparing spawn area: 4%
+[05:53:32] [Server thread/INFO]: Preparing spawn area: 4%
+[05:53:33] [Server thread/INFO]: Preparing spawn area: 6%
+[05:53:36] [Server thread/INFO]: Preparing spawn area: 8%
+[05:53:37] [Server thread/INFO]: Preparing spawn area: 11%
+[05:53:38] [Server thread/INFO]: Preparing spawn area: 13%
+[05:53:39] [Server thread/INFO]: Preparing spawn area: 15%
+[05:53:40] [Server thread/INFO]: Preparing spawn area: 21%
+[05:53:41] [Server thread/INFO]: Preparing spawn area: 23%
+[05:53:44] [Server thread/INFO]: Preparing spawn area: 24%
+[05:53:45] [Server thread/INFO]: Preparing spawn area: 25%
+[05:53:46] [Server thread/INFO]: Preparing spawn area: 27%
+[05:53:47] [Server thread/INFO]: Preparing spawn area: 34%
+[05:53:48] [Server thread/INFO]: Preparing spawn area: 36%
+[05:53:49] [Server thread/INFO]: Preparing spawn area: 38%
+[05:53:50] [Server thread/INFO]: Preparing spawn area: 45%
+[05:53:58] [Server thread/INFO]: Preparing spawn area: 48%
+[05:53:59] [Server thread/INFO]: Preparing spawn area: 49%
+[05:54:00] [Server thread/INFO]: Preparing spawn area: 56%
+[05:54:01] [Server thread/INFO]: Preparing spawn area: 60%
+[05:54:02] [Server thread/INFO]: Preparing spawn area: 61%
+[05:54:03] [Server thread/INFO]: Preparing spawn area: 63%
+[05:54:06] [Server thread/INFO]: Preparing spawn area: 72%
+[05:54:07] [Server thread/INFO]: Preparing spawn area: 74%
+[05:54:08] [Server thread/INFO]: Preparing spawn area: 75%
+[05:54:09] [Server thread/INFO]: Preparing spawn area: 83%
+[05:54:13] [Server thread/INFO]: Preparing spawn area: 84%
+[05:54:14] [Server thread/INFO]: Preparing spawn area: 85%
+[05:54:15] [Server thread/INFO]: Preparing spawn area: 87%
+[05:54:20] [Server thread/INFO]: Preparing spawn area: 88%
+[05:54:21] [Server thread/INFO]: Preparing spawn area: 93%
+[05:54:22] [Server thread/INFO]: Preparing spawn area: 95%
+[05:54:26] [Server thread/INFO]: Preparing spawn area: 96%
+[05:54:27] [Server thread/INFO]: Preparing spawn area: 99%
+[05:58:06] [Server thread/INFO]: Changing view distance to 6, from 10
+[05:58:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 216462ms behind, skipping 4329 tick(s)
+[05:58:12] [Server thread/INFO]: BogdanG[local:E:2ed15262] logged in with entity id 490 at (-178.5, 65.0, 256.5)
+[05:58:12] [Server thread/INFO]: BogdanG joined the game
+[05:58:13] [Client thread/INFO]: [CHAT] Your client is using a FastCraft test build.
+[05:58:15] [Client thread/INFO]: [CHAT] Advent of Ascension is out of date!
+[05:58:15] [Client thread/INFO]: [CHAT] [New Version: 2.3.1-CANDYLAND-DIMENSION]
+[05:58:15] [Client thread/INFO]: [CHAT] Welcome, §e§lBogdanG§r to §oBogdanG - New World UGB 19§r!
+[05:58:15] [Client thread/INFO]: [CHAT] Currently, there are 1/8 players online.
+[05:58:15] [Client thread/INFO]: [CHAT] You are playing on dimension 0 (§oOverworld§r)
+[05:58:15] [Client thread/INFO]: [CHAT] and the local time is 05:58.
+[05:58:15] [Client thread/INFO]: [CHAT] The server is running vChat to display this motd,
+[05:58:15] [Client thread/INFO]: [CHAT] Have a good one! §o~Vic§r
+[05:58:15] [Client thread/INFO]: [CHAT] You are talking on channel "global".
+[05:58:15] [Client thread/INFO]: [CHAT] Currently joined channels: [local, global]
+[05:58:15] [Server thread/INFO]: BogdanG has just earned the achievement [Welcome to Magic Crusade]
+[05:58:19] [Server thread/INFO]: BogdanG has just earned the achievement [You've been installed!]
+[05:58:21] [Server thread/INFO]: Saving and pausing game...
+[05:58:21] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Overworld
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Nether
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/The Last Millenium
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Wyvern Lair
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Tropics
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/SpectreWorld
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeons
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Aether
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Mystic Groves
+[05:58:28] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/CONTROL
+[05:58:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22427ms behind, skipping 448 tick(s)
+[05:58:45] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [Welcome to Magic Crusade]
+[05:58:45] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [You've been installed!]
+[05:58:45] [Client thread/INFO]: [CHAT] §bThank you for downloading MrCrayfish's Furniture Mod.
+[05:58:45] [Client thread/INFO]: [CHAT] Make sure you check out the wiki! http://mrcrayfishs-furniture-mod.wikia.com/
+[05:58:47] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[05:58:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3565ms behind, skipping 71 tick(s)
+[05:59:27] [Client thread/INFO]: [CHAT] You can press §cP§r on your keyboard to see more informations about §cThe Champion, the living force§r and it spells.
+[05:59:27] [Client thread/INFO]: [CHAT] Don't forget to configure your controls!
+[05:59:31] [Server thread/INFO]: BogdanG has just earned the achievement [Taking Inventory]
+[05:59:32] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [Taking Inventory]
+[06:00:05] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-06-10_06.00.03.png
+[06:00:11] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-06-10_06.00.10.png
+[06:00:57] [Server thread/INFO]: Saving and pausing game...
+[06:00:57] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Overworld
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Nether
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/The Last Millenium
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Wyvern Lair
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Tropics
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/SpectreWorld
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeons
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Aether
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Mystic Groves
+[06:01:00] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/CONTROL
+[06:01:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 98366ms behind, skipping 1967 tick(s)
+[06:01:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5571ms behind, skipping 111 tick(s)
+[06:01:11] [Client thread/INFO]: [CHAT] §bNether fortress portal at: X:195 Y:64 Z:630§r
+[06:01:23] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-06-10_06.01.21.png
+[06:01:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:oceancraft:crab.snip
+[06:01:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:01:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:oceancraft:crab.snip
+[06:01:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:01:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:oceancraft:crab.snip
+[06:01:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:01:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:oceancraft:crab.snip
+[06:01:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:01:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:oceancraft:crab.snip
+[06:01:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:oceancraft:crab.death
+[06:01:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:01:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakedying
+[06:02:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 49709ms behind, skipping 994 tick(s)
+[06:02:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 46298ms behind, skipping 925 tick(s)
+[06:03:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12285ms behind, skipping 245 tick(s)
+[06:03:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:03:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:03:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:03:31] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-06-10_06.03.30.png
+[06:03:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:03:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:03:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:03:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 37666ms behind, skipping 753 tick(s)
+[06:03:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:03:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3522ms behind, skipping 70 tick(s)
+[06:03:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:MotherVoidWalkerLiving
+[06:04:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:MotherVoidWalkerLiving
+[06:04:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:MotherVoidWalkerLiving
+[06:04:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:MotherVoidWalkerLiving
+[06:04:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:MotherVoidWalkerLiving
+[06:04:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:MotherVoidWalkerLiving
+[06:04:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22942ms behind, skipping 458 tick(s)
+[06:04:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:MotherVoidWalkerLiving
+[06:04:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3401ms behind, skipping 68 tick(s)
+[06:04:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:04:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:05:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakedying
+[06:05:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakedying
+[06:05:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakedying
+[06:05:40] [Server thread/INFO]: Saving and pausing game...
+[06:05:40] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Overworld
+[06:05:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.occ' took aprox 111.474338 ms
+[06:05:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 276.643671 ms
+[06:05:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.FRenderLast' took aprox 167.173942 ms
+[06:05:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 454.799646 ms
+[06:05:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 458.76863 ms
+[06:05:41] [Client thread/WARN]: Something's taking too long! 'root' took aprox 472.01185 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 374.070154 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 203.030682 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 206.943012 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 208.226322 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.FRenderLast' took aprox 130.923097 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 137.527259 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 141.033988 ms
+[06:05:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 141.814813 ms
+[06:05:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.FRenderLast' took aprox 524.871833 ms
+[06:05:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 545.299702 ms
+[06:05:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 548.555188 ms
+[06:05:43] [Client thread/WARN]: Something's taking too long! 'root' took aprox 549.405802 ms
+[06:05:44] [Client thread/WARN]: Something's taking too long! 'root.tick.textures' took aprox 115.876428 ms
+[06:05:44] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 117.350634 ms
+[06:05:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 126.70287 ms
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Nether
+[06:05:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 138.183693 ms
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/The Last Millenium
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Wyvern Lair
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Tropics
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/SpectreWorld
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeons
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Aether
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Mystic Groves
+[06:05:44] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/CONTROL
+[06:05:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 46756ms behind, skipping 935 tick(s)
+[06:05:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 347.942516 ms
+[06:05:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.particles' took aprox 106.733151 ms
+[06:05:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 143.365376 ms
+[06:05:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 146.490725 ms
+[06:05:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 161.601026 ms
+[06:05:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 297.555963 ms
+[06:05:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 300.705533 ms
+[06:05:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 302.671551 ms
+[06:05:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 303.282828 ms
+[06:05:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 164.046951 ms
+[06:05:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 119.631116 ms
+[06:05:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 120.239108 ms
+[06:05:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 286.808753 ms
+[06:05:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 290.27443 ms
+[06:05:51] [Client thread/WARN]: Something's taking too long! 'root' took aprox 290.948927 ms
+[06:05:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 171.287843 ms
+[06:05:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 107.171184 ms
+[06:05:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 111.097062 ms
+[06:05:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 112.845911 ms
+[06:05:53] [Client thread/WARN]: Something's taking too long! 'root' took aprox 113.45965 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 192.122544 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 192.475188 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 226.168445 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 244.622495 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 419.013928 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 133.426085 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 230.836147 ms
+[06:06:01] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 373.272499 ms
+[06:06:02] [Client thread/WARN]: Something's taking too long! 'root' took aprox 398.995356 ms
+[06:06:02] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 111.081872 ms
+[06:06:02] [Client thread/WARN]: Something's taking too long! 'root' took aprox 133.346443 ms
+[06:06:03] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.litParticles' took aprox 239.511833 ms
+[06:06:03] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 261.904078 ms
+[06:06:03] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 264.453045 ms
+[06:06:03] [Client thread/WARN]: Something's taking too long! 'root' took aprox 274.721991 ms
+[06:06:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2355ms behind, skipping 47 tick(s)
+[06:06:04] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 348.453213 ms
+[06:06:04] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 354.131635 ms
+[06:06:04] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 384.226615 ms
+[06:06:04] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 386.730835 ms
+[06:06:04] [Client thread/WARN]: Something's taking too long! 'root' took aprox 403.759532 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 143.248376 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 377.397893 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 379.801945 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 391.092284 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 109.823604 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 110.22469 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 152.947919 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 155.376602 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 254.954661 ms
+[06:06:05] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 129.305206 ms
+[06:06:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 113.157912 ms
+[06:06:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 117.115401 ms
+[06:06:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 252.30224 ms
+[06:06:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.126252 ms
+[06:06:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.706923 ms
+[06:06:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 125.54436 ms
+[06:06:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 138.925927 ms
+[06:06:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 141.398948 ms
+[06:06:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 152.59117 ms
+[06:06:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.670474 ms
+[06:06:08] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.213557 ms
+[06:06:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 150.866542 ms
+[06:06:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 158.091833 ms
+[06:06:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 177.623519 ms
+[06:06:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 179.156842 ms
+[06:06:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 248.427678 ms
+[06:06:10] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 128.475529 ms
+[06:06:10] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 167.647691 ms
+[06:06:10] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 169.770531 ms
+[06:06:10] [Client thread/WARN]: Something's taking too long! 'root' took aprox 170.654809 ms
+[06:06:12] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 101.40614 ms
+[06:06:12] [Client thread/WARN]: Something's taking too long! 'root' took aprox 102.285491 ms
+[06:06:14] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 102.242385 ms
+[06:06:14] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 124.98399 ms
+[06:06:14] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 213.235173 ms
+[06:06:14] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 213.573038 ms
+[06:06:14] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 219.016638 ms
+[06:06:14] [Client thread/WARN]: Something's taking too long! 'root' took aprox 239.421516 ms
+[06:06:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 198.022241 ms
+[06:06:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 203.12346 ms
+[06:06:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 204.376802 ms
+[06:06:15] [Client thread/WARN]: Something's taking too long! 'root' took aprox 204.976994 ms
+[06:06:15] [Client thread/WARN]: Something's taking too long! 'root' took aprox 106.068505 ms
+[06:06:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 113.191164 ms
+[06:06:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 164.221836 ms
+[06:06:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 178.361238 ms
+[06:06:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 180.968502 ms
+[06:06:18] [Client thread/WARN]: Something's taking too long! 'root' took aprox 193.297885 ms
+[06:06:21] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-06-10_06.06.20.png
+[06:06:21] [Client thread/WARN]: Something's taking too long! 'root.tick.keyboard' took aprox 1137.853218 ms
+[06:06:21] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1143.981168 ms
+[06:06:21] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1165.972738 ms
+[06:06:22] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 159.491734 ms
+[06:06:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 185.746224 ms
+[06:06:25] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 100.821959 ms
+[06:06:25] [Client thread/WARN]: Something's taking too long! 'root' took aprox 112.717826 ms
+[06:06:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.camera' took aprox 142.277067 ms
+[06:06:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 155.992394 ms
+[06:06:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 253.24276 ms
+[06:06:26] [Client thread/WARN]: Something's taking too long! 'root' took aprox 269.269359 ms
+[06:06:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 119.652053 ms
+[06:06:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 172.056762 ms
+[06:06:29] [Client thread/WARN]: Something's taking too long! 'root.tick.gameMode' took aprox 110.936135 ms
+[06:06:29] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 116.824337 ms
+[06:06:29] [Client thread/WARN]: Something's taking too long! 'root' took aprox 139.267898 ms
+[06:06:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.occ.check' took aprox 110.383154 ms
+[06:06:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.occ' took aprox 110.710756 ms
+[06:06:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 114.348854 ms
+[06:06:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 127.30963 ms
+[06:06:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 130.347537 ms
+[06:06:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 140.12549 ms
+[06:06:31] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 111.895538 ms
+[06:06:31] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 148.557734 ms
+[06:06:31] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 153.585879 ms
+[06:06:31] [Client thread/WARN]: Something's taking too long! 'root' took aprox 183.380763 ms
+[06:06:33] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.483822 ms
+[06:06:34] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.698391 ms
+[06:06:38] [Client thread/INFO]: [CHAT] §bNether fortress portal at: X:845 Y:71 Z:1025§r
+[06:06:38] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.FRenderLast' took aprox 101.858132 ms
+[06:06:38] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 124.247092 ms
+[06:06:38] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 127.478357 ms
+[06:06:38] [Client thread/WARN]: Something's taking too long! 'root' took aprox 174.572066 ms
+[06:06:42] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 172.274341 ms
+[06:06:42] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 178.523396 ms
+[06:06:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 194.797544 ms
+[06:06:42] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 114.300411 ms
+[06:06:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 134.076772 ms
+[06:06:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 112.551563 ms
+[06:06:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 139.793373 ms
+[06:06:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 156.072858 ms
+[06:06:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 158.647688 ms
+[06:06:43] [Client thread/WARN]: Something's taking too long! 'root' took aprox 171.93894 ms
+[06:06:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 106.947856 ms
+[06:06:47] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 169.9565 ms
+[06:06:47] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 170.18188 ms
+[06:06:47] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 180.604363 ms
+[06:06:47] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 181.975936 ms
+[06:06:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 182.848719 ms
+[06:06:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 114.977372 ms
+[06:06:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 106.024579 ms
+[06:06:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 108.818222 ms
+[06:06:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 110.234132 ms
+[06:06:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 142.224519 ms
+[06:06:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 142.447025 ms
+[06:06:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 156.076963 ms
+[06:06:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 158.223613 ms
+[06:06:51] [Client thread/WARN]: Something's taking too long! 'root' took aprox 170.353071 ms
+[06:06:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 135.995579 ms
+[06:06:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 147.880773 ms
+[06:06:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 170.190912 ms
+[06:06:53] [Client thread/WARN]: Something's taking too long! 'root' took aprox 181.814599 ms
+[06:06:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 117.953288 ms
+[06:06:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 130.638601 ms
+[06:06:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 133.962235 ms
+[06:06:54] [Client thread/WARN]: Something's taking too long! 'root' took aprox 135.011134 ms
+[06:06:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 132.485155 ms
+[06:06:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 133.276243 ms
+[06:06:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 138.805233 ms
+[06:06:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 140.584871 ms
+[06:06:55] [Client thread/WARN]: Something's taking too long! 'root' took aprox 150.692889 ms
+[06:06:57] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 137.945998 ms
+[06:06:57] [Client thread/WARN]: Something's taking too long! 'root' took aprox 166.879183 ms
+[06:06:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 118.221774 ms
+[06:06:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 128.046938 ms
+[06:06:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 135.281261 ms
+[06:06:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 147.607361 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 115.942523 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 116.275461 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 133.820603 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 135.314924 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 227.344196 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 111.527295 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 119.51001 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 122.320895 ms
+[06:07:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 134.708575 ms
+[06:07:03] [Client thread/WARN]: Something's taking too long! 'root' took aprox 116.232766 ms
+[06:07:04] [Client thread/INFO]: [CHAT] §bNether fortress portal at: X:999 Y:64 Z:972§r
+[06:07:04] [Client thread/WARN]: Something's taking too long! 'root.render.display' took aprox 121.676777 ms
+[06:07:04] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 122.089768 ms
+[06:07:04] [Client thread/WARN]: Something's taking too long! 'root' took aprox 133.476169 ms
+[06:07:08] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 138.636916 ms
+[06:07:08] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 140.898104 ms
+[06:07:08] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 141.054104 ms
+[06:07:08] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 141.333674 ms
+[06:07:08] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 144.23898 ms
+[06:07:08] [Client thread/WARN]: Something's taking too long! 'root' took aprox 155.806425 ms
+[06:07:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 129.570407 ms
+[06:07:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 132.774988 ms
+[06:07:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 134.116593 ms
+[06:07:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 134.859238 ms
+[06:07:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 100.046472 ms
+[06:07:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 102.392638 ms
+[06:07:12] [Client thread/WARN]: Something's taking too long! 'root' took aprox 101.587593 ms
+[06:07:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 112.424299 ms
+[06:07:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 112.920217 ms
+[06:07:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 114.995434 ms
+[06:07:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 116.410114 ms
+[06:07:14] [Client thread/WARN]: Something's taking too long! 'root' took aprox 117.110064 ms
+[06:07:17] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 106.403497 ms
+[06:07:17] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 110.798608 ms
+[06:07:17] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 113.30488 ms
+[06:07:17] [Client thread/WARN]: Something's taking too long! 'root' took aprox 121.009669 ms
+[06:07:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 245.387309 ms
+[06:07:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 313.8141 ms
+[06:07:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 316.391804 ms
+[06:07:18] [Client thread/WARN]: Something's taking too long! 'root' took aprox 330.85265 ms
+[06:07:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 106.95073 ms
+[06:07:22] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 220.714992 ms
+[06:07:22] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 225.574821 ms
+[06:07:22] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 227.283849 ms
+[06:07:22] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 227.512513 ms
+[06:07:22] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 230.331608 ms
+[06:07:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 274.412863 ms
+[06:07:24] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-06-10_06.07.22.png
+[06:07:24] [Client thread/WARN]: Something's taking too long! 'root.tick.keyboard' took aprox 1384.099351 ms
+[06:07:24] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1389.702236 ms
+[06:07:24] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1410.177726 ms
+[06:07:24] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 413.272696 ms
+[06:07:24] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 414.423406 ms
+[06:07:24] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 426.555326 ms
+[06:07:24] [Client thread/WARN]: Something's taking too long! 'root' took aprox 427.535667 ms
+[06:07:25] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.FRenderLast' took aprox 133.795971 ms
+[06:07:25] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 145.274742 ms
+[06:07:25] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 148.213711 ms
+[06:07:25] [Client thread/WARN]: Something's taking too long! 'root' took aprox 149.313105 ms
+[06:07:25] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.797012 ms
+[06:07:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 391.327515 ms
+[06:07:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 391.629253 ms
+[06:07:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 405.107706 ms
+[06:07:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 407.753969 ms
+[06:07:26] [Client thread/WARN]: Something's taking too long! 'root' took aprox 421.628991 ms
+[06:07:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 101.312129 ms
+[06:07:26] [Client thread/WARN]: Something's taking too long! 'root' took aprox 178.330859 ms
+[06:07:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 372.095515 ms
+[06:07:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 155.347454 ms
+[06:07:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 155.555181 ms
+[06:07:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 533.878816 ms
+[06:07:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 537.543187 ms
+[06:07:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 558.341763 ms
+[06:07:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.843034 ms
+[06:07:28] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 103.129126 ms
+[06:07:28] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 103.320432 ms
+[06:07:28] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 103.595896 ms
+[06:07:28] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 202.285162 ms
+[06:07:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 268.032028 ms
+[06:07:29] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 498.089813 ms
+[06:07:29] [Client thread/WARN]: Something's taking too long! 'root' took aprox 579.586582 ms
+[06:07:29] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.350036 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 155.799035 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 408.347593 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 432.610613 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 432.796992 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 433.947702 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 445.19124 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 470.845129 ms
+[06:07:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.130219 ms
+[06:07:31] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 203.014261 ms
+[06:07:31] [Client thread/WARN]: Something's taking too long! 'root' took aprox 215.677404 ms
+[06:07:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 9687.28981 ms
+[06:07:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 9695.93019 ms
+[06:07:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 9704.537729 ms
+[06:07:41] [Client thread/WARN]: Something's taking too long! 'root' took aprox 9722.341093 ms
+[06:07:43] [Client thread/WARN]: Something's taking too long! 'root' took aprox 106.839477 ms
+[06:07:43] [Client thread/WARN]: Something's taking too long! 'root' took aprox 172.140099 ms
+[06:07:43] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 106.143222 ms
+[06:07:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 159.13088 ms
+[06:07:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 154.210702 ms
+[06:07:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 237.169771 ms
+[06:07:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 105.820547 ms
+[06:07:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.FRenderLast' took aprox 1956.105125 ms
+[06:07:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 2046.94715 ms
+[06:07:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 2054.73117 ms
+[06:07:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 2070.261441 ms
+[06:07:53] [Client thread/WARN]: Something's taking too long! 'root' took aprox 132.629661 ms
+[06:07:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 112.21534 ms
+[06:07:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 118.665144 ms
+[06:07:54] [Client thread/WARN]: Something's taking too long! 'root' took aprox 132.116502 ms
+[06:07:54] [Client thread/WARN]: Something's taking too long! 'root' took aprox 182.249759 ms
+[06:07:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 347.262271 ms
+[06:07:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 389.728099 ms
+[06:07:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 394.045621 ms
+[06:07:55] [Client thread/WARN]: Something's taking too long! 'root' took aprox 408.971184 ms
+[06:07:56] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 267.594405 ms
+[06:07:56] [Client thread/WARN]: Something's taking too long! 'root' took aprox 484.876152 ms
+[06:07:59] [Client thread/WARN]: Something's taking too long! 'root.tick.gameMode' took aprox 2838.486006 ms
+[06:07:59] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 2922.14133 ms
+[06:07:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 2958.343323 ms
+[06:07:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 101.199644 ms
+[06:07:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 116.059523 ms
+[06:08:00] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 121.341375 ms
+[06:08:00] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 127.799801 ms
+[06:08:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 133.753276 ms
+[06:08:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 144.624055 ms
+[06:08:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 149.005619 ms
+[06:08:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 149.907549 ms
+[06:08:05] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 124.410071 ms
+[06:08:05] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 127.568262 ms
+[06:08:05] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 127.987411 ms
+[06:08:05] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 128.435298 ms
+[06:08:05] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 131.65671 ms
+[06:08:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 165.507199 ms
+[06:08:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 101.84171 ms
+[06:08:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 113.820093 ms
+[06:08:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 120.119234 ms
+[06:08:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 130.212063 ms
+[06:08:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 147.207096 ms
+[06:08:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.391821 ms
+[06:08:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.835829 ms
+[06:08:22] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 489.050399 ms
+[06:08:22] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 490.938007 ms
+[06:08:22] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 500.867856 ms
+[06:08:22] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 511.365054 ms
+[06:08:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 521.184061 ms
+[06:08:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 549.14799 ms
+[06:08:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 554.267684 ms
+[06:08:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 562.160083 ms
+[06:08:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 564.385965 ms
+[06:08:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.273816 ms
+[06:08:32] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 283.001107 ms
+[06:08:32] [Client thread/WARN]: Something's taking too long! 'root' took aprox 319.248668 ms
+[06:08:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:08:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:08:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 125.716782 ms
+[06:08:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 126.107193 ms
+[06:08:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 144.927435 ms
+[06:08:41] [Client thread/WARN]: Something's taking too long! 'root' took aprox 157.760538 ms
+[06:08:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 106.417865 ms
+[06:08:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 126.929482 ms
+[06:08:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 135.326008 ms
+[06:08:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 142.121477 ms
+[06:08:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 164.648375 ms
+[06:08:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:08:49] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 1040.363514 ms
+[06:08:49] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1046.041936 ms
+[06:08:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1104.740448 ms
+[06:08:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 124.667062 ms
+[06:08:50] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 129.455048 ms
+[06:08:50] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 134.649869 ms
+[06:08:50] [Client thread/WARN]: Something's taking too long! 'root' took aprox 196.764383 ms
+[06:08:51] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.960901 ms
+[06:08:55] [Client thread/WARN]: Something's taking too long! 'root' took aprox 117.84573 ms
+[06:08:55] [Client thread/WARN]: Something's taking too long! 'root' took aprox 121.30648 ms
+[06:08:56] [Client thread/WARN]: Something's taking too long! 'root' took aprox 112.424299 ms
+[06:08:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:08:57] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 106.433465 ms
+[06:08:57] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 113.027365 ms
+[06:08:57] [Client thread/WARN]: Something's taking too long! 'root' took aprox 127.867537 ms
+[06:08:57] [Client thread/WARN]: Something's taking too long! 'root' took aprox 120.152897 ms
+[06:08:58] [Client thread/WARN]: Something's taking too long! 'root' took aprox 105.982295 ms
+[06:08:58] [Client thread/WARN]: Something's taking too long! 'root' took aprox 146.380704 ms
+[06:08:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 101.504256 ms
+[06:08:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 175.289258 ms
+[06:08:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 105.894852 ms
+[06:08:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 106.89613 ms
+[06:09:00] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.597085 ms
+[06:09:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 113.783146 ms
+[06:09:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 136.22096 ms
+[06:09:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 174.28839 ms
+[06:09:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 176.978991 ms
+[06:09:02] [Client thread/WARN]: Something's taking too long! 'root' took aprox 192.680041 ms
+[06:09:03] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 1659.866135 ms
+[06:09:03] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1685.391939 ms
+[06:09:03] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1747.304064 ms
+[06:09:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 257.235554 ms
+[06:09:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 261.722624 ms
+[06:09:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 268.475809 ms
+[06:09:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 273.466186 ms
+[06:09:18] [Client thread/WARN]: Something's taking too long! 'root' took aprox 291.78312 ms
+[06:09:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 101.013265 ms
+[06:09:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 107.928197 ms
+[06:09:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 119.453357 ms
+[06:09:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 173.845842 ms
+[06:09:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 174.237896 ms
+[06:09:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 197.826419 ms
+[06:09:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 212.336118 ms
+[06:09:21] [Client thread/WARN]: Something's taking too long! 'root' took aprox 118.83264 ms
+[06:09:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:26] [Client thread/WARN]: Something's taking too long! 'root' took aprox 101.526425 ms
+[06:09:26] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 198.412653 ms
+[06:09:26] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 361.250189 ms
+[06:09:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 403.181099 ms
+[06:09:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 134.186383 ms
+[06:09:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.566611 ms
+[06:09:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 119.898781 ms
+[06:09:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 103.683749 ms
+[06:09:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 131.906311 ms
+[06:09:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.301958 ms
+[06:09:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:32] [Client thread/WARN]: Something's taking too long! 'root' took aprox 134.32432 ms
+[06:09:33] [Client thread/WARN]: Something's taking too long! 'root' took aprox 129.766229 ms
+[06:09:37] [Client thread/WARN]: Something's taking too long! 'root' took aprox 583.025163 ms
+[06:09:37] [Client thread/WARN]: Something's taking too long! 'root' took aprox 129.723945 ms
+[06:09:38] [Client thread/WARN]: Something's taking too long! 'root' took aprox 113.276555 ms
+[06:09:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:39] [Client thread/WARN]: Something's taking too long! 'root' took aprox 147.440277 ms
+[06:09:40] [Client thread/WARN]: Something's taking too long! 'root' took aprox 115.132141 ms
+[06:09:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 100.616284 ms
+[06:09:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 110.281754 ms
+[06:09:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 125.270948 ms
+[06:09:41] [Client thread/WARN]: Something's taking too long! 'root' took aprox 142.070982 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.238599 ms
+[06:09:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 131.269172 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 139.02117 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 156.882007 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 177.47614 ms
+[06:09:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.415038 ms
+[06:09:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:09:51] [Client thread/WARN]: Something's taking too long! 'root' took aprox 108.94918 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 118.182363 ms
+[06:09:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:10:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 122.419422 ms
+[06:10:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 132.56644 ms
+[06:10:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 141.362 ms
+[06:10:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 167.822576 ms
+[06:10:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:10:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 105.015912 ms
+[06:10:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 124.44743 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 152.648233 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 166.354529 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 135.271818 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 121.169364 ms
+[06:10:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:10:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 214030ms behind, skipping 4280 tick(s)
+[06:10:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 118.37449 ms
+[06:10:10] [Client thread/WARN]: Something's taking too long! 'root' took aprox 129.389775 ms
+[06:10:10] [Client thread/WARN]: Something's taking too long! 'root' took aprox 102.994883 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 143.170786 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root.tick.gameMode' took aprox 137.420522 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 150.285235 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root' took aprox 213.540196 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 102.955062 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 103.649265 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 103.990003 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 150.729836 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root' took aprox 218.581068 ms
+[06:10:12] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.292289 ms
+[06:10:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakehiss
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 339.286125 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 347.600957 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 356.559497 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root' took aprox 382.077912 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root' took aprox 138.99038 ms
+[06:10:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakedying
+[06:10:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakedying
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 327.132035 ms
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 337.653045 ms
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 344.867662 ms
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root' took aprox 360.266153 ms
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root' took aprox 132.568903 ms
+[06:10:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mocreatures:snakedying
+[06:10:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7448ms behind, skipping 148 tick(s)
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 153.15852 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 161.155603 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 166.628351 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 177.052886 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 133.453591 ms
+[06:10:17] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 184.379988 ms
+[06:10:17] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 202.859081 ms
+[06:10:17] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 270.918038 ms
+[06:10:17] [Client thread/WARN]: Something's taking too long! 'root' took aprox 301.903864 ms
+[06:10:17] [Client thread/WARN]: Something's taking too long! 'root' took aprox 139.333992 ms
+[06:10:17] [Client thread/WARN]: Something's taking too long! 'root' took aprox 138.393473 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 103.978508 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 109.042369 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 125.582539 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 127.416778 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 139.276519 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 200.163144 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 105.865705 ms
+[06:10:24] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 916.739604 ms
+[06:10:24] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1048.748957 ms
+[06:10:24] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1140.320491 ms
+[06:10:24] [Client thread/WARN]: Something's taking too long! 'root' took aprox 102.581481 ms
+[06:10:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 108.19463 ms
+[06:10:27] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 114.988456 ms
+[06:10:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 178.046363 ms
+[06:10:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.601279 ms
+[06:10:28] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 106.279516 ms
+[06:10:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 161.013971 ms
+[06:10:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 134.542721 ms
+[06:10:29] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.074525 ms
+[06:10:29] [Client thread/WARN]: Something's taking too long! 'root' took aprox 101.05637 ms
+[06:10:29] [Client thread/WARN]: Something's taking too long! 'root' took aprox 108.169587 ms
+[06:10:29] [Client thread/WARN]: Something's taking too long! 'root' took aprox 105.860368 ms
+[06:10:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.377495 ms
+[06:10:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 129.042468 ms
+[06:10:30] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 137.089636 ms
+[06:10:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 182.440244 ms
+[06:10:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 110.069921 ms
+[06:10:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.690912 ms
+[06:10:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 108.441768 ms
+[06:10:31] [Client thread/WARN]: Something's taking too long! 'root' took aprox 117.481182 ms
+[06:10:31] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.325358 ms
+[06:10:32] [Client thread/WARN]: Something's taking too long! 'root' took aprox 124.330839 ms
+[06:10:32] [Client thread/WARN]: Something's taking too long! 'root' took aprox 118.403227 ms
+[06:10:33] [Client thread/WARN]: Something's taking too long! 'root.tick.textures' took aprox 167.830787 ms
+[06:10:33] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 196.9717 ms
+[06:10:33] [Client thread/WARN]: Something's taking too long! 'root' took aprox 279.005438 ms
+[06:10:33] [Client thread/WARN]: Something's taking too long! 'root' took aprox 114.095148 ms
+[06:10:33] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.946122 ms
+[06:10:34] [Client thread/WARN]: Something's taking too long! 'root' took aprox 112.431688 ms
+[06:10:34] [Client thread/WARN]: Something's taking too long! 'root' took aprox 108.639642 ms
+[06:10:34] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.067957 ms
+[06:10:36] [Client thread/WARN]: Something's taking too long! 'root' took aprox 145.726733 ms
+[06:10:36] [Client thread/WARN]: Something's taking too long! 'root' took aprox 129.189848 ms
+[06:10:38] [Server thread/INFO]: Saving and pausing game...
+[06:10:38] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Overworld
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Nether
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/The Last Millenium
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Wyvern Lair
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Tropics
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/SpectreWorld
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeons
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Aether
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Mystic Groves
+[06:10:39] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/CONTROL
+[06:10:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15474ms behind, skipping 309 tick(s)
+[06:10:40] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 242.355559 ms
+[06:10:40] [Client thread/WARN]: Something's taking too long! 'root' took aprox 271.294904 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.008703 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 124.569357 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 134.429005 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 136.988647 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 151.100133 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 131.170234 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 131.521236 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 135.261556 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 138.470242 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 165.53142 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 109.474246 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 125.911372 ms
+[06:10:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5630ms behind, skipping 112 tick(s)
+[06:10:57] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.671069 ms
+[06:10:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.render' took aprox 176.990075 ms
+[06:10:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 183.125004 ms
+[06:10:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 193.710877 ms
+[06:10:59] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 196.345644 ms
+[06:10:59] [Client thread/WARN]: Something's taking too long! 'root' took aprox 208.613861 ms
+[06:11:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 203.361156 ms
+[06:11:01] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 205.951587 ms
+[06:11:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 207.220529 ms
+[06:11:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 106.955246 ms
+[06:11:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 107.152299 ms
+[06:11:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 115.081646 ms
+[06:11:02] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 116.27505 ms
+[06:11:02] [Client thread/WARN]: Something's taking too long! 'root' took aprox 116.879347 ms
+[06:11:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.923498 ms
+[06:11:06] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 115.299225 ms
+[06:11:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 148.167321 ms
+[06:11:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 115.720427 ms
+[06:11:09] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-06-10_06.11.07.png
+[06:11:09] [Client thread/WARN]: Something's taking too long! 'root.tick.keyboard' took aprox 1414.377837 ms
+[06:11:09] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1438.113739 ms
+[06:11:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1463.154299 ms
+[06:11:09] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 222.188787 ms
+[06:11:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 245.108559 ms
+[06:11:10] [Client thread/WARN]: Something's taking too long! 'root' took aprox 116.302556 ms
+[06:11:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 108.335851 ms
+[06:11:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 112.00556 ms
+[06:11:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 124.082881 ms
+[06:11:12] [Client thread/WARN]: Something's taking too long! 'root' took aprox 388.95877 ms
+[06:11:13] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 106.376812 ms
+[06:11:13] [Client thread/WARN]: Something's taking too long! 'root' took aprox 146.008765 ms
+[06:11:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 142.330436 ms
+[06:11:16] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 122.851297 ms
+[06:11:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 150.488857 ms
+[06:11:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 110.212785 ms
+[06:11:20] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 112.810605 ms
+[06:11:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 237.956754 ms
+[06:11:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 130.718243 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 150.488036 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 151.417471 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 162.496798 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 169.272151 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root' took aprox 200.307239 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 121.831135 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 128.64713 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root' took aprox 143.59322 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick.travel.move' took aprox 101.750163 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick.travel' took aprox 101.929974 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 102.186554 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 107.099751 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 107.276278 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 107.485648 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 128.241529 ms
+[06:11:21] [Client thread/WARN]: Something's taking too long! 'root' took aprox 152.923697 ms
+[06:11:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 225.793632 ms
+[06:11:22] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 112.348762 ms
+[06:11:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 141.228989 ms
+[06:11:23] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 111.782233 ms
+[06:11:23] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 117.003737 ms
+[06:11:23] [Client thread/WARN]: Something's taking too long! 'root' took aprox 145.338784 ms
+[06:11:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 232.307068 ms
+[06:11:32] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 115.96346 ms
+[06:11:32] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 116.182681 ms
+[06:11:32] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 126.745975 ms
+[06:11:32] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 129.107331 ms
+[06:11:32] [Client thread/WARN]: Something's taking too long! 'root' took aprox 129.939061 ms
+[06:11:36] [Client thread/INFO]: [CHAT] §bNether fortress portal at: X:1339 Y:87 Z:934§r
+[06:11:37] [Server thread/WARN]: Fetching addPacket for removed entity
+[06:11:37] [Server thread/WARN]: Fetching addPacket for removed entity
+[06:11:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 101.518215 ms
+[06:11:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 136.139264 ms
+[06:11:47] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking memory connection
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:181) ~[nc.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) ~[MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186) ~[bsx.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+Caused by: java.lang.IllegalStateException: reentrant biome decoration
+	at fastcraft.b.a.a(F:45) ~[fastcraft-1.22-ctest8.jar:?]
+	at fastcraft.Hooks.z(F:112) ~[fastcraft-1.22-ctest8.jar:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339) ~[ahu.class:?]
+	at net.minecraft.world.gen.ChunkProviderGenerate.func_73153_a(ChunkProviderGenerate.java:421) ~[aqz.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050) ~[apx.class:?]
+	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:52) ~[ChunkIOProvider.class:?]
+	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:12) ~[ChunkIOProvider.class:?]
+	at net.minecraftforge.common.util.AsynchronousExecutor.skipQueue(AsynchronousExecutor.java:344) ~[AsynchronousExecutor.class:?]
+	at net.minecraftforge.common.util.AsynchronousExecutor.getSkipQueue(AsynchronousExecutor.java:302) ~[AsynchronousExecutor.class:?]
+	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:12) ~[ChunkIOExecutor.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:126) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_72938_d(World.java:414) ~[ahb.class:?]
+	at exterminatorJeff.undergroundBiomes.worldGen.BiomeUndergroundDecorator.replaceChunkOres(BiomeUndergroundDecorator.java:225) ~[BiomeUndergroundDecorator.class:?]
+	at exterminatorJeff.undergroundBiomes.worldGen.BiomeUndergroundDecorator.doRedos(BiomeUndergroundDecorator.java:74) ~[BiomeUndergroundDecorator.class:?]
+	at exterminatorJeff.undergroundBiomes.common.WorldGenManager.redoOres(WorldGenManager.java:140) ~[WorldGenManager.class:?]
+	at exterminatorJeff.undergroundBiomes.common.DimensionManager.redoOres(DimensionManager.java:279) ~[DimensionManager.class:?]
+	at exterminatorJeff.undergroundBiomes.common.UndergroundBiomes.onOreGenerate(UndergroundBiomes.java:886) ~[UndergroundBiomes.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_469_UndergroundBiomes_onOreGenerate_Post.invoke(.dynamic) ~[?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) ~[ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138) ~[EventBus.class:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_76797_b(BiomeDecorator.java:360) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150513_a(BiomeDecorator.java:114) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java:105) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339) ~[ahu.class:?]
+	at net.minecraft.world.gen.ChunkProviderGenerate.func_73153_a(ChunkProviderGenerate.java:421) ~[aqz.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.server.management.PlayerManager$PlayerInstance.<init>(PlayerManager.java:508) ~[mr.class:?]
+	at net.minecraft.server.management.PlayerManager.getOrCreateChunkWatcher(PlayerManager.java:203) ~[mq.class:?]
+	at net.minecraft.server.management.PlayerManager.func_72685_d(PlayerManager.java:382) ~[mq.class:?]
+	at net.minecraft.server.management.ServerConfigurationManager.func_72358_d(ServerConfigurationManager.java:313) ~[oi.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:404) ~[nh.class:?]
+	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137) ~[jd.class:?]
+	at net.minecraft.network.play.client.C03PacketPlayer$C04PacketPlayerPosition.func_148833_a(SourceFile:63) ~[je.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212) ~[ej.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) ~[nc.class:?]
+	... 5 more
+[06:11:47] [Server thread/ERROR]: This crash report has been saved to: D:\nmine\.\crash-reports\crash-2015-06-10_06.11.47-server.txt
+[06:11:47] [Server thread/INFO]: Stopping server
+[06:11:47] [Server thread/INFO]: Saving players
+[06:11:47] [Server thread/INFO]: Saving worlds
+[06:11:47] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Overworld
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Nether
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/The Last Millenium
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Wyvern Lair
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Tropics
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeon
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/SpectreWorld
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Dungeons
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Aether
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/Mystic Groves
+[06:11:49] [Server thread/INFO]: Saving chunks for level 'New World UGB 19'/CONTROL
+[06:11:57] [Client Shutdown Thread/INFO]: Stopping server
+[06:11:57] [Client Shutdown Thread/INFO]: Saving players
