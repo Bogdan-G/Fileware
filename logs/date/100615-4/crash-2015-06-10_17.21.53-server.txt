@@ -1,0 +1,250 @@
+---- Minecraft Crash Report ----
+// I blame Dinnerbone.
+
+Time: 10.06.15 17:21
+Description: Exception getting block type in world
+
+java.lang.RuntimeException: Biome [Taiga M] threw an error while populating chunk.
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:156)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	at net.minecraft.block.BlockDynamicLiquid.func_149807_p(SourceFile:195)
+	at net.minecraft.block.BlockDynamicLiquid.func_149812_c(SourceFile:141)
+	at net.minecraft.block.BlockDynamicLiquid.func_149812_c(SourceFile:148)
+	at net.minecraft.block.BlockDynamicLiquid.func_149812_c(SourceFile:148)
+	at net.minecraft.block.BlockDynamicLiquid.func_149808_o(SourceFile:176)
+	at net.minecraft.block.BlockDynamicLiquid.func_149674_a(SourceFile:95)
+	at net.minecraft.world.WorldServer.func_72955_a(WorldServer.java:550)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:181)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: net.minecraft.util.ReportedException: Exception getting block type in world
+	at net.minecraft.world.World.func_147439_a(World.java:354)
+	at net.minecraft.world.gen.feature.WorldGenTaiga1.func_76484_a(WorldGenTaiga1.java:53)
+	at net.minecraft.world.biome.BiomeDecorator.func_150513_a(BiomeDecorator.java:162)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java:105)
+	at exterminatorJeff.undergroundBiomes.worldGen.CorrectedBiomeDecorator.func_150512_a(CorrectedBiomeDecorator.java:64)
+	at net.minecraft.world.biome.BiomeGenMutated.func_76728_a(SourceFile:46)
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:154)
+	... 22 more
+Caused by: java.lang.RuntimeException: Biome [Flower Forest] threw an error while populating chunk.
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:156)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	... 28 more
+Caused by: java.lang.IllegalStateException: reentrant biome decoration
+	at fastcraft.b.a.a(F:45)
+	at fastcraft.Hooks.z(F:112)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java)
+	at exterminatorJeff.undergroundBiomes.worldGen.CorrectedBiomeDecorator.func_150512_a(CorrectedBiomeDecorator.java:64)
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339)
+	at net.minecraft.world.biome.BiomeGenForest.func_76728_a(BiomeGenForest.java:198)
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:154)
+	... 37 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:156)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+
+-- Requested block coordinates --
+Details:
+	Found chunk: true
+	Location: World: (15870,5,15), Chunk: (at 14,0,15 in 991,0; contains blocks 15856,0,0 to 15871,255,15), Region: (30,0; contains chunks 960,0 to 991,31, blocks 15360,0,0 to 15871,255,511)
+Stacktrace:
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	at net.minecraft.block.BlockDynamicLiquid.func_149807_p(SourceFile:195)
+	at net.minecraft.block.BlockDynamicLiquid.func_149812_c(SourceFile:141)
+	at net.minecraft.block.BlockDynamicLiquid.func_149812_c(SourceFile:148)
+	at net.minecraft.block.BlockDynamicLiquid.func_149812_c(SourceFile:148)
+	at net.minecraft.block.BlockDynamicLiquid.func_149808_o(SourceFile:176)
+	at net.minecraft.block.BlockDynamicLiquid.func_149674_a(SourceFile:95)
+
+-- Block being ticked --
+Details:
+	Block type: ID #10 (tile.lava // net.minecraft.block.BlockDynamicLiquid)
+	Block data value: 4 / 0x4 / 0b0100
+	Block location: World: (15872,5,17), Chunk: (at 0,0,1 in 992,1; contains blocks 15872,0,16 to 15887,255,31), Region: (31,0; contains chunks 992,0 to 1023,31, blocks 15872,0,0 to 16383,255,511)
+Stacktrace:
+	at net.minecraft.world.WorldServer.func_72955_a(WorldServer.java:550)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:181)
+
+-- Affected level --
+Details:
+	Level name: New World UGB 20
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 66 Drop: 4033
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 0 game time, 0 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_80, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (compiled mode), Azul Systems, Inc.
+	Memory: 585216936 bytes (558 MB) / 1922473984 bytes (1833 MB) up to 2594635776 bytes (2474 MB)
+	JVM Flags: 98 total; -XX:ReservedCodeCacheSize=256m -Xverify:none -XX:+UseMembar -XX:-OmitStackTraceInFastThrow -Xcomp -XX:+CMSCompactWhenClearAllSoftRefs -XX:+CMSConcurrentMTEnabled -XX:+UseCMSCompactAtFullCollection -XX:+UseCMSBestFit -XX:CMSFullGCsBeforeCompaction=0 -XX:+CMSPermGenPrecleaningEnabled -XX:+CMSParallelSurvivorRemarkEnabled -XX:+CMSPLABRecordAlways -XX:+CompactFields -XX:+EagerXrunInit -XX:+FastTLABRefill -XX:+LazyBootClassLoader -XX:+NUMAStats -XX:+PrintPLAB -XX:+PrintTLE -XX:+RangeCheckElimination -XX:+ResizeTLAB -XX:+ResizeTLE -XX:+UseAdaptiveNUMAChunkSizing -XX:+UseAdaptiveSizeDecayMajorGCCost -XX:+UseFastJNIAccessors -XX:+BackgroundCompilation -XX:+UsePSAdaptiveSurvivorSizePolicy -XX:+UseTLE -XX:+UseVMInterruptibleIO -XX:+PrintGCDetails -XX:+PrintHeapAtGC -XX:+PrintTenuringDistribution -Xloggc:.\gc_BCCSF1428HT_8_17.log -XX:+PrintGCApplicationStoppedTime -XX:+CMSPermGenSweepingEnabled -XX:+BindGCTaskThreadsToCPUs -XX:Tier0ProfilingStartPercentage=0 -XX:Tier3InvocationThreshold=3 -XX:Tier3MinInvocationThreshold=2 -XX:Tier3CompileThreshold=2 -XX:Tier3BackEdgeThreshold=10 -XX:Tier4InvocationThreshold=4 -XX:Tier4MinInvocationThreshold=3 -XX:Tier4CompileThreshold=2 -XX:Tier4BackEdgeThreshold=8 -XX:TieredCompileTaskTimeout=5000 -XX:Tier3DelayOn=50 -XX:Tier3DelayOff=25 -XX:+UseFastEmptyMethods -XX:-DontCompileHugeMethods -XX:+AlwaysCompileLoopMethods -XX:+CICompilerCountPerCPU -XX:+UseNUMA -Xincgc -XX:+UseTLAB -XX:+UseSpinning -XX:CICompilerCount=1 -XX:ThreadPriorityPolicy=42 -XX:CompileThreshold=1500 -Xverify:none -XX:UseSSE=3 -XX:+UseThreadPriorities -Xrs -XX:+OptimizeStringConcat -XX:+UseBiasedLocking -XX:+TieredCompilation -XX:-ZeroTLAB -XX:+ResizeTLAB -XX:AllocatePrefetchStyle=1 -XX:AllocatePrefetchDistance=256 -XX:+DisableExplicitGC -XX:+DoEscapeAnalysis -XX:-UseGCOverheadLimit -Xnoclassgc -XX:+ExplicitGCInvokesConcurrent -XX:+ExplicitGCInvokesConcurrentAndUnloadsClasses -XX:+UseCompressedOops -XX:+EliminateLocks -XX:+UnlockDiagnosticVMOptions -XX:+DebugNonSafepoints -XX:+ParallelRefProcEnabled -XX:ParallelGCThreads=4 -XX:NewSize=256m -XX:MaxNewSize=256m -XX:+CMSParallelRemarkEnabled -XX:+AggressiveOpts -XX:+PrintCommandLineFlags -XX:+PrintFlagsFinal -XX:+UseCMSInitiatingOccupancyOnly -XX:CMSInitiatingOccupancyFraction=85 -XX:+ScavengeBeforeFullGC -XX:+CMSScavengeBeforeRemark -XX:SoftRefLRUPolicyMSPerMB=1000 -XX:+UseAdaptiveSizePolicy -XX:PermSize=286m -XX:MaxPermSize=286m -Xmx2500m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1448 Optifine OptiFine_1.7.10_HD_U_B7 107 mods loaded, 107 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1448-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1448} [Minecraft Forge] (forge-1.7.10-10.13.4.1448-1.7.10.jar) 
+	UCHIJAAAA	appliedenergistics2-core{rv2-stable-5} [AppliedEnergistics2 Core] (minecraft.jar) 
+	UCHIJAAAA	betterfps{1.0.0} [BetterFps] (minecraft.jar) 
+	UCHIJAAAA	CodeChickenCore{1.0.7.46} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAA	ivtoolkit{IvToolkit} [1.2] (minecraft.jar) 
+	UCHIJAAAA	NotEnoughItems{1.0.5.110} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.110-universal.jar) 
+	UCHIJAAAA	PlayerAPI{1.3} [Player API] (minecraft.jar) 
+	UCHIJAAAA	<DragonAPI ASM>{0} [DragonAPI ASM Data Initialization] (minecraft.jar) 
+	UCHIJAAAA	mod_ThreadedLighting{1.7.10-1.0} [Threaded Lighting] (minecraft.jar) 
+	UCHIJAAAA	FastCraft{1.22} [FastCraft] (fastcraft-1.22-ctest8.jar) 
+	UCHIJAAAA	ExtendedPotions{1.2} [Extended Potions] (ExtendedPotions-MC1.7.10-1.2.jar) 
+	UCHIJAAAA	gilded-games-util{1.7.10-1.1} [Gilded Games Utility] (gilded-games-util (1).jar) 
+	UCHIJAAAA	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) 
+	UCHIJAAAA	Treecapitator{1.7.10} [Treecapitator] ([1.7.10]Treecapitator-universal-2.0.4.jar) 
+	UCHIJAAAA	aether{Alpha 1.7.10-1.4} [Aether II] (aether 1.4.jar) 
+	UCHIJAAAA	AnimationAPI{1.2.4} [AnimationAPI] (AnimationAPI-1.7.10-1.2.4.jar) 
+	UCHIJAAAA	antiqueatlas{4.2.2-1.7.10} [Antique Atlas] (antiqueatlas-4.2.2-1.7.10-ci.jar) 
+	UCHIJAAAA	nevermine{2.0.1} [AdventOfAscension] (AoA-2.2-ci.jar) 
+	UCHIJAAAA	appliedenergistics2{rv2-stable-5} [Applied Energistics 2] (appliedenergistics2-rv2-stable-5.jar) 
+	UCHIJAAAA	Backpack{2.0.1} [Backpack] (backpack-2.0.1-1.7.x-ci.jar) 
+	UCHIJAAAA	BetterFoliage{1.0.13} [Better Foliage] (BetterFoliage-mc1.7-1.0.13.jar) 
+	UCHIJAAAA	BiblioCraft{1.10.4} [BiblioCraft] (BiblioCraft[v1.10.4][MC1.7.10]-ci.jar) 
+	UCHIJAAAA	ExtrabiomesXL{3.16.1} [ExtrabiomesXL] (extrabiomesxl_1.7.10-3.16.1-ci.jar) 
+	UCHIJAAAA	IC2{2.2.732-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.732-experimental.jar) 
+	UCHIJAAAA	Mantle{1.7.10-0.3.2.jenkins187} [Mantle] (Mantle-1.7.10-0.3.2.jenkins187-ci.jar) 
+	UCHIJAAAA	Natura{2.2.0} [Natura] (natura-1.7.10-98.6a6cca1-ci.jar) 
+	UCHIJAAAA	BuildCraft|Core{6.4.17} [BuildCraft] (buildcraft-6.4.17.jar) 
+	UCHIJAAAA	Forestry{3.6.0.582-unstable} [Forestry for Minecraft] (forestry_1.7.10-3.6.0.582-unstable.jar) 
+	UCHIJAAAA	BiblioWoodsForestry{1.7} [BiblioWoods Forestry Edition] (BiblioWoods[Forestry][v1.7]-ci.jar) 
+	UCHIJAAAA	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10-ci.jar) 
+	UCHIJAAAA	Botania{r1.6-191} [Botania] (Botania r1.6-191.jar) 
+	UCHIJAAAA	BuildCraft|Builders{6.4.17} [BC Builders] (buildcraft-6.4.17.jar) 
+	UCHIJAAAA	BuildCraft|Energy{6.4.17} [BC Energy] (buildcraft-6.4.17.jar) 
+	UCHIJAAAA	BuildCraft|Factory{6.4.17} [BC Factory] (buildcraft-6.4.17.jar) 
+	UCHIJAAAA	BuildCraft|Transport{6.4.17} [BC Transport] (buildcraft-6.4.17.jar) 
+	UCHIJAAAA	BuildCraft|Silicon{6.4.17} [BC Silicon] (buildcraft-6.4.17.jar) 
+	UCHIJAAAA	CarpentersBlocks{3.3.6} [Carpenter's Blocks] (Carpenter's Blocks v3.3.6+Additional Files-ci.jar) 
+	UCHIJAAAA	ChickenChunks{1.3.4.19} [ChickenChunks] (ChickenChunks-1.7.10-1.3.4.19-universal.jar) 
+	UCHIJAAAA	ComputerCraft{1.73} [ComputerCraft] (ComputerCraft1.73.jar) 
+	UCHIJAAAA	BuildMod{v1.0} [Build Mod] (coroutil-1.1.2.jar) 
+	UCHIJAAAA	CoroPets{v1.0} [CoroPets] (coroutil-1.1.2.jar) 
+	UCHIJAAAA	CoroAI{v1.0} [CoroAI] (coroutil-1.1.2.jar) 
+	UCHIJAAAA	ExtendedRenderer{v1.0} [Extended Renderer] (coroutil-1.1.2.jar) 
+	UCHIJAAAA	ConfigMod{v1.0} [Extended Mod Config] (coroutil-1.1.2.jar) 
+	UCHIJAAAA	CraftHeraldry{1.1.3} [CraftHeraldry] (CraftHeraldry 1.1.3-ci.jar) 
+	UCHIJAAAA	MagicBees{1.7.10-2.3.1} [Magic Bees] (magicbees-1.7.10-2.3.1.jar) 
+	UCHIJAAAA	Mystcraft{0.11.11.00} [Mystcraft] (mystcraft-1.7.10-0.11.11.00.jar) 
+	UCHIJAAAA	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJAAAA	DragonAPI{1.0} [DragonAPI] (DragonAPI 1.7.10 V6f.jar) 
+	UCHIJAAAA	MoCreatures{6.3.1} [DrZhark's Mo'Creatures Mod] (DrZharks MoCreatures Mod v6.3.1-ci.zip) 
+	UCHIJAAAA	eplus{3.0.2-d} [Enchanting Plus] (EnchantingPlus-1.7.10-3.0.2-d.jar) 
+	UCHIJAAAA	evilcraft{0.8.6} [EvilCraft] (EvilCraft-1.7.10-0.8.6.jar) 
+	UCHIJAAAA	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAAA	ExtraUtilities{1.2.5} [Extra Utilities] (extrautilities-1.2.5.jar) 
+	UCHIJAAAA	GeoStrata{Gamma} [GeoStrata] (GeoStrata 1.7.10 V6a-ci.jar) 
+	UCHIJAAAA	harvestcraft{1.7.10g} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10h-ci.jar) 
+	UCHIJAAAA	TwilightForest{2.3.7} [The Twilight Forest] (twilightforest-1.7.10-2.3.7.jar) 
+	UCHIJAAAA	gregtech{MC1710} [GregTech] (gregtech_1.7.10-5.08.19.jar) 
+	UCHIJAAAA	HardcoreDarkness{1.4} [Hardcore Darkness] (HardcoreDarkness-1.4.jar) 
+	UCHIJAAAA	inventorytweaks{1.59-dev-156-af3bc68} [Inventory Tweaks] (InventoryTweaks-1.59-dev-156-ci-nc.jar) 
+	UCHIJAAAA	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal-ci.jar) 
+	UCHIJAAAA	lycanitesmobs{1.11.0.1 - MC 1.7.10} [Lycanites Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	freshwatermobs{1.11.0.1 - MC 1.7.10} [Lycanites Freshwater Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	demonmobs{1.11.0.1 - MC 1.7.10} [Lycanites Demon Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	desertmobs{1.11.0.1 - MC 1.7.10} [Lycanites Desert Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	mountainmobs{1.11.0.1 - MC 1.7.10} [Lycanites Mountain Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	junglemobs{1.11.0.1 - MC 1.7.10} [Lycanites Jungle Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	swampmobs{1.11.0.1 - MC 1.7.10} [Lycanites Swamp Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	shadowmobs{1.11.0.1 - MC 1.7.10} [Lycanites Shadow Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	infernomobs{1.11.0.1 - MC 1.7.10} [Lycanites Inferno Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	saltwatermobs{1.11.0.1 - MC 1.7.10} [Lycanites Saltwater Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	forestmobs{1.11.0.1 - MC 1.7.10} [Lycanites Forest Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	plainsmobs{1.11.0.1 - MC 1.7.10} [Lycanites Plains Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	arcticmobs{1.11.0.1 - MC 1.7.10} [Lycanites Arctic Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) 
+	UCHIJAAAA	magiccrusade{2.0.0} [Magic Crusade] (magiccrusade-1.0.jar) 
+	UCHIJAAAA	cfm{3.4.7} [§9MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.4.7(1.7.10)-ci.jar) 
+	UCHIJAAAA	natureoverhaul{0.10.0} [Nature Overhaul] (NatureOverhaul-0.10.0(1.7.10).jar) 
+	UCHIJAAAA	NEIAddons{1.12.9.32} [NEI Addons] (neiaddons-1.12.9.32-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|AppEng{1.12.9.32} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.9.32-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Botany{1.12.9.32} [NEI Addons: Botany] (neiaddons-1.12.9.32-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Forestry{1.12.9.32} [NEI Addons: Forestry] (neiaddons-1.12.9.32-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|CraftingTables{1.12.9.32} [NEI Addons: Crafting Tables] (neiaddons-1.12.9.32-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|ExNihilo{1.12.9.32} [NEI Addons: Ex Nihilo] (neiaddons-1.12.9.32-mc1.7.10.jar) 
+	UCHIJAAAA	recipehandler{0.2} [NoMoreRecipeConflict] (NoMoreRecipeConflict-0.2(1.7.10).jar) 
+	UCHIJAAAA	neresources{0.1.0.101} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0.101.jar) 
+	UCHIJAAAA	Oceancraft{1.4.1} [Oceancraft] (Oceancraft-1.4.1-ci.jar) 
+	UCHIJAAAA	clayspawn{1.7.2a} [Pam's Clay Spawn] (Pam's Clay Spawn 1.7.2a.zip) 
+	UCHIJAAAA	desertcraft{1.7.2b} [Pam's DesertCraft] (Pam's DesertCraft 1.7.10a.zip) 
+	UCHIJAAAA	temperateplants{1.7.2b} [Pam's Temperate Plants] (Pam's Temperate Plants 1.7.2b.zip) 
+	UCHIJAAAA	weeeflowers{1.7.2b} [Pam's Weee! Flowers] (Pam's WeeeFlowers 1.7.2b.zip) 
+	UCHIJAAAA	primitivemobs{1.0} [Primitive Mobs] (primitivemobs-1.0c-1.7.10-ci.jar) 
+	UCHIJAAAA	RandomThings{2.2.4} [Random Things] (RandomThings-2.2.4-ci.jar) 
+	UCHIJAAAA	SpecialAI{1.1.1} [Special AI] (SpecialAI-1.7.10-1.1.1.jar) 
+	UCHIJAAAA	SpecialMobs{3.1.1} [Special Mobs] (SpecialMobs-1.7.10-3.1.1-ci.jar) 
+	UCHIJAAAA	StevesCarts{2.0.0.b18} [Steve's Carts 2] (StevesCarts2.0.0.b18.jar) 
+	UCHIJAAAA	tropicraft{v6.0.4} [Tropicraft] (tropicraft-6.0.4-ci.jar) 
+	UCHIJAAAA	UndergroundBiomes{0.7} [Underground Biomes Constructs] (UndergroundBiomesConstructs-1.7.2-0.7_128x.jar) 
+	UCHIJAAAA	vchat{0.2r14} [vChat] (vChat-0.2r14.jar) 
+	UCHIJAAAA	wawla{1.2.1} [What Are We Looking At] (Wawla-1.2.1_1.7.10.jar) 
+	UCHIJAAAA	weather2{v2.3.6} [weather2] (Weather-2.3.7-ci.jar) 
+	UCHIJAAAA	witchery{0.24.1} [Witchery] (witchery-1.7.10-0.24.1-ci.jar) 
+	UCHIJAAAA	yegamolchattels{1.1.2} [Ye Gamol Chattels] (YeGamolChattels-1.1.2.jar) 
+	UCHIJAAAA	Ztones{1.7.10} [Ztones] (Ztones-1.7.10-2.2.1.jar) 
+	UCHIJAAAA	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAAA	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	AE2 Version: stable rv2-stable-5 for Forge 10.13.2.1291
+	Mantle Environment: DO NOT REPORT THIS CRASH! Unsupported mods in environment: optifine
+	Forestry : Warning: You have mods that change the behavior of Minecraft, ForgeModLoader, and/or Minecraft Forge to your client: 
+Optifine
+These may have caused this error, and may not be supported. Try reproducing the crash WITHOUT these mods, and report it then.
+	AE2 Integration: IC2:ON, RotaryCraft:OFF, RC:OFF, BC:ON, RF:ON, RFItem:ON, MFR:OFF, DSU:ON, FZ:OFF, FMP:ON, RB:OFF, CLApi:OFF, Waila:ON, InvTweaks:ON, NEI:ON, CraftGuide:OFF, Mekanism:OFF, ImmibisMicroblocks:OFF, BetterStorage:OFF
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 1 / 8; [EntityPlayerMP['BogdanG'/316, l='New World UGB 20', x=17,06, y=133,75, z=311,89]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
