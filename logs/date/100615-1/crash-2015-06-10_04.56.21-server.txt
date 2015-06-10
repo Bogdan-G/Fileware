@@ -1,0 +1,206 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 10.06.15 4:56
+Description: Exception in server tick loop
+
+java.lang.RuntimeException: Biome [TaigaHills] threw an error while populating chunk.
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:156)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy.generateNextChunk(WorldProviderMystDummy.java:215)
+	at com.xcompwiz.mystcraft.world.InstabilityDataCalculator.stepChunkGeneration(InstabilityDataCalculator.java:261)
+	at com.xcompwiz.mystcraft.world.InstabilityDataCalculator.onServerTick(InstabilityDataCalculator.java:112)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1051_InstabilityDataCalculator_onServerTick_ServerTickEvent.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138)
+	at cpw.mods.fml.common.FMLCommonHandler.onPostServerTick(FMLCommonHandler.java:247)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:590)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.RuntimeException: Biome [Mega Taiga Hills] threw an error while populating chunk.
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:156)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_72938_d(World.java:414)
+	at exterminatorJeff.undergroundBiomes.worldGen.BiomeUndergroundDecorator.replaceChunkOres(BiomeUndergroundDecorator.java:225)
+	at exterminatorJeff.undergroundBiomes.worldGen.BiomeUndergroundDecorator.doRedos(BiomeUndergroundDecorator.java:74)
+	at exterminatorJeff.undergroundBiomes.common.WorldGenManager.redoOres(WorldGenManager.java:140)
+	at exterminatorJeff.undergroundBiomes.common.DimensionManager.redoOres(DimensionManager.java:279)
+	at exterminatorJeff.undergroundBiomes.common.UndergroundBiomes.onOreGenerate(UndergroundBiomes.java:886)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_514_UndergroundBiomes_onOreGenerate_Post.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138)
+	at net.minecraft.world.biome.BiomeDecorator.func_76797_b(BiomeDecorator.java:360)
+	at net.minecraft.world.biome.BiomeDecorator.func_150513_a(BiomeDecorator.java:114)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java:105)
+	at biomesoplenty.api.biome.BOPInheritedBiome.func_76728_a(BOPInheritedBiome.java:42)
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:154)
+	... 17 more
+Caused by: java.lang.IllegalStateException: reentrant biome decoration
+	at fastcraft.b.a.a(F:45)
+	at fastcraft.Hooks.z(F:112)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java)
+	at exterminatorJeff.undergroundBiomes.worldGen.CorrectedBiomeDecorator.func_150512_a(CorrectedBiomeDecorator.java:64)
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339)
+	at net.minecraft.world.biome.BiomeGenTaiga.func_76728_a(SourceFile:84)
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:154)
+	... 39 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_80, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (compiled mode), Azul Systems, Inc.
+	Memory: 574076424 bytes (547 MB) / 2133147648 bytes (2034 MB) up to 2594635776 bytes (2474 MB)
+	JVM Flags: 98 total; -XX:ReservedCodeCacheSize=256m -Xverify:none -XX:+UseMembar -XX:-OmitStackTraceInFastThrow -Xcomp -XX:+CMSCompactWhenClearAllSoftRefs -XX:+CMSConcurrentMTEnabled -XX:+UseCMSCompactAtFullCollection -XX:+UseCMSBestFit -XX:CMSFullGCsBeforeCompaction=0 -XX:+CMSPermGenPrecleaningEnabled -XX:+CMSParallelSurvivorRemarkEnabled -XX:+CMSPLABRecordAlways -XX:+CompactFields -XX:+EagerXrunInit -XX:+FastTLABRefill -XX:+LazyBootClassLoader -XX:+NUMAStats -XX:+PrintPLAB -XX:+PrintTLE -XX:+RangeCheckElimination -XX:+ResizeTLAB -XX:+ResizeTLE -XX:+UseAdaptiveNUMAChunkSizing -XX:+UseAdaptiveSizeDecayMajorGCCost -XX:+UseFastJNIAccessors -XX:+BackgroundCompilation -XX:+UsePSAdaptiveSurvivorSizePolicy -XX:+UseTLE -XX:+UseVMInterruptibleIO -XX:+PrintGCDetails -XX:+PrintHeapAtGC -XX:+PrintTenuringDistribution -Xloggc:.\gc_BCCSF1428HT_8_16.log -XX:+PrintGCApplicationStoppedTime -XX:+CMSPermGenSweepingEnabled -XX:+BindGCTaskThreadsToCPUs -XX:Tier0ProfilingStartPercentage=0 -XX:Tier3InvocationThreshold=3 -XX:Tier3MinInvocationThreshold=2 -XX:Tier3CompileThreshold=2 -XX:Tier3BackEdgeThreshold=10 -XX:Tier4InvocationThreshold=4 -XX:Tier4MinInvocationThreshold=3 -XX:Tier4CompileThreshold=2 -XX:Tier4BackEdgeThreshold=8 -XX:TieredCompileTaskTimeout=5000 -XX:Tier3DelayOn=50 -XX:Tier3DelayOff=25 -XX:+UseFastEmptyMethods -XX:-DontCompileHugeMethods -XX:+AlwaysCompileLoopMethods -XX:+CICompilerCountPerCPU -XX:+UseNUMA -Xincgc -XX:+UseTLAB -XX:+UseSpinning -XX:CICompilerCount=1 -XX:ThreadPriorityPolicy=42 -XX:CompileThreshold=1500 -Xverify:none -XX:UseSSE=3 -XX:+UseThreadPriorities -Xrs -XX:+OptimizeStringConcat -XX:+UseBiasedLocking -XX:+TieredCompilation -XX:-ZeroTLAB -XX:+ResizeTLAB -XX:AllocatePrefetchStyle=1 -XX:AllocatePrefetchDistance=256 -XX:+DisableExplicitGC -XX:+DoEscapeAnalysis -XX:-UseGCOverheadLimit -Xnoclassgc -XX:+ExplicitGCInvokesConcurrent -XX:+ExplicitGCInvokesConcurrentAndUnloadsClasses -XX:+UseCompressedOops -XX:+EliminateLocks -XX:+UnlockDiagnosticVMOptions -XX:+DebugNonSafepoints -XX:+ParallelRefProcEnabled -XX:ParallelGCThreads=4 -XX:NewSize=256m -XX:MaxNewSize=256m -XX:+CMSParallelRemarkEnabled -XX:+AggressiveOpts -XX:+PrintCommandLineFlags -XX:+PrintFlagsFinal -XX:+UseCMSInitiatingOccupancyOnly -XX:CMSInitiatingOccupancyFraction=85 -XX:+ScavengeBeforeFullGC -XX:+CMSScavengeBeforeRemark -XX:SoftRefLRUPolicyMSPerMB=1000 -XX:+UseAdaptiveSizePolicy -XX:PermSize=286m -XX:MaxPermSize=286m -Xmx2500m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 9, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.3.1428 Optifine OptiFine_1.7.10_HD_U_B7 120 mods loaded, 120 mods active
+	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.3.1428-1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{10.13.3.1428} [Minecraft Forge] (forge-1.7.10-10.13.3.1428-1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	appliedenergistics2-core{rv2-stable-5} [AppliedEnergistics2 Core] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	betterfps{1.0.0} [BetterFps] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	CodeChickenCore{1.0.7.46} [CodeChicken Core] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ivtoolkit{IvToolkit} [1.2] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	NotEnoughItems{1.0.5.110} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.110-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	PlayerAPI{1.3} [Player API] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	<DragonAPI ASM>{0} [DragonAPI ASM Data Initialization] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	mod_ThreadedLighting{1.7.10-1.0} [Threaded Lighting] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FastCraft{1.22} [FastCraft] (fastcraft-1.22-ctest8.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ExtendedPotions{1.2} [Extended Potions] (ExtendedPotions-MC1.7.10-1.2.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	gilded-games-util{1.7.10-1.1} [Gilded Games Utility] (gilded-games-util (1).jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Treecapitator{1.7.10} [Treecapitator] ([1.7.10]Treecapitator-universal-2.0.4.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	aether{Alpha 1.7.10-1.4} [Aether II] (aether 1.4.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	AnimationAPI{1.2.4} [AnimationAPI] (AnimationAPI-1.7.10-1.2.4.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	antiqueatlas{4.2.2-1.7.10} [Antique Atlas] (antiqueatlas-4.2.2-1.7.10-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	nevermine{2.0.1} [AdventOfAscension] (AoA-2.2-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	appliedenergistics2{rv2-stable-5} [Applied Energistics 2] (appliedenergistics2-rv2-stable-5.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Backpack{2.0.1} [Backpack] (backpack-2.0.1-1.7.x-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BetterFoliage{1.0.13} [Better Foliage] (BetterFoliage-mc1.7-1.0.13.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BiblioCraft{1.10.4} [BiblioCraft] (BiblioCraft[v1.10.4][MC1.7.10]-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Mantle{1.7.10-0.3.2.jenkins187} [Mantle] (Mantle-1.7.10-0.3.2.jenkins187-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Natura{2.2.0} [Natura] (natura-1.7.10-98.6a6cca1-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BiomesOPlenty{2.1.0} [Biomes O' Plenty] (BiomesOPlenty-1.7.10-2.1.0.1283-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ExtrabiomesXL{3.16.1} [ExtrabiomesXL] (extrabiomesxl_1.7.10-3.16.1-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	IC2{2.2.732-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.732-experimental.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BuildCraft|Core{6.4.17} [BuildCraft] (buildcraft-6.4.17.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forestry{3.6.0.582-unstable} [Forestry for Minecraft] (forestry_1.7.10-3.6.0.582-unstable.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BiblioWoodsForestry{1.7} [BiblioWoods Forestry Edition] (BiblioWoods[Forestry][v1.7]-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BinnieCore{2.0-pre10} [Binnie Core] (binnie-mods-2.0-pre10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Botany{2.0-pre10} [Botany] (binnie-mods-2.0-pre10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ExtraBees{2.0-pre10} [Extra Bees] (binnie-mods-2.0-pre10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ExtraTrees{2.0-pre10} [Extra Trees] (binnie-mods-2.0-pre10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Genetics{2.0-pre10} [Genetics] (binnie-mods-2.0-pre10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	AWWayofTime{v1.3.3} [Blood Magic: Alchemical Wizardry] (BloodMagic-1.7.10-1.3.3-4.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	qmunitylib{1.0} [QmunityLib] (QmunityLib-1.7.10-0.1.114-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	bluepower{0.2.945} [Blue Power] (BluePower-1.7.10-0.2.945-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Botania{r1.6-191} [Botania] (Botania r1.6-191.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BuildCraft|Builders{6.4.17} [BC Builders] (buildcraft-6.4.17.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BuildCraft|Energy{6.4.17} [BC Energy] (buildcraft-6.4.17.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BuildCraft|Factory{6.4.17} [BC Factory] (buildcraft-6.4.17.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BuildCraft|Transport{6.4.17} [BC Transport] (buildcraft-6.4.17.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BuildCraft|Silicon{6.4.17} [BC Silicon] (buildcraft-6.4.17.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	CarpentersBlocks{3.3.6} [Carpenter's Blocks] (Carpenter's Blocks v3.3.6+Additional Files-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ChickenChunks{1.3.4.19} [ChickenChunks] (ChickenChunks-1.7.10-1.3.4.19-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	TwilightForest{2.3.7} [The Twilight Forest] (twilightforest-1.7.10-2.3.7.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	chisel{2.4.0.124} [Chisel 2] (Chisel2_DEV-2.4.0.124.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ComputerCraft{1.73} [ComputerCraft] (ComputerCraft1.73.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	BuildMod{v1.0} [Build Mod] (coroutil-1.1.2.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	CoroPets{v1.0} [CoroPets] (coroutil-1.1.2.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	CoroAI{v1.0} [CoroAI] (coroutil-1.1.2.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ExtendedRenderer{v1.0} [Extended Renderer] (coroutil-1.1.2.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ConfigMod{v1.0} [Extended Mod Config] (coroutil-1.1.2.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	CraftHeraldry{1.1.3} [CraftHeraldry] (CraftHeraldry 1.1.3-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	MagicBees{1.7.10-2.3.1} [Magic Bees] (magicbees-1.7.10-2.3.1.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Mystcraft{0.11.11.00} [Mystcraft] (mystcraft-1.7.10-0.11.11.00.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	DragonAPI{1.0} [DragonAPI] (DragonAPI 1.7.10 V6f.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	MoCreatures{6.3.1} [DrZhark's Mo'Creatures Mod] (DrZharks MoCreatures Mod v6.3.1-ci.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	eplus{3.0.2-d} [Enchanting Plus] (EnchantingPlus-1.7.10-3.0.2-d.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	evilcraft{0.8.6} [EvilCraft] (EvilCraft-1.7.10-0.8.6.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ExtraUtilities{1.2.5} [Extra Utilities] (extrautilities-1.2.5.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	GeoStrata{Gamma} [GeoStrata] (GeoStrata 1.7.10 V6a-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	GraveStone{2.12.3} [GraveStone] (GraveStone-2.12.4.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	harvestcraft{1.7.10g} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10h-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	gregtech{MC1710} [GregTech] (gregtech_1.7.10-5.08.19.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	HardcoreDarkness{1.4} [Hardcore Darkness] (HardcoreDarkness-1.4.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	inventorytweaks{1.59-dev-156-af3bc68} [Inventory Tweaks] (InventoryTweaks-1.59-dev-156-ci-nc.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	lycanitesmobs{1.11.0.1 - MC 1.7.10} [Lycanites Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	freshwatermobs{1.11.0.1 - MC 1.7.10} [Lycanites Freshwater Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	demonmobs{1.11.0.1 - MC 1.7.10} [Lycanites Demon Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	desertmobs{1.11.0.1 - MC 1.7.10} [Lycanites Desert Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	mountainmobs{1.11.0.1 - MC 1.7.10} [Lycanites Mountain Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	junglemobs{1.11.0.1 - MC 1.7.10} [Lycanites Jungle Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	swampmobs{1.11.0.1 - MC 1.7.10} [Lycanites Swamp Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	shadowmobs{1.11.0.1 - MC 1.7.10} [Lycanites Shadow Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	infernomobs{1.11.0.1 - MC 1.7.10} [Lycanites Inferno Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	saltwatermobs{1.11.0.1 - MC 1.7.10} [Lycanites Saltwater Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	forestmobs{1.11.0.1 - MC 1.7.10} [Lycanites Forest Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	plainsmobs{1.11.0.1 - MC 1.7.10} [Lycanites Plains Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	arcticmobs{1.11.0.1 - MC 1.7.10} [Lycanites Arctic Mobs] (LycanitesMobsComplete 1.11.0.1 [1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	magiccrusade{2.0.0} [Magic Crusade] (magiccrusade-1.0.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	cfm{3.4.7} [§9MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.4.7(1.7.10)-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	natureoverhaul{0.10.0} [Nature Overhaul] (NatureOverhaul-0.10.0(1.7.10).jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	NEIAddons{1.12.9.32} [NEI Addons] (neiaddons-1.12.9.32-mc1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	NEIAddons|AppEng{1.12.9.32} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.9.32-mc1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	NEIAddons|Botany{1.12.9.32} [NEI Addons: Botany] (neiaddons-1.12.9.32-mc1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	NEIAddons|Forestry{1.12.9.32} [NEI Addons: Forestry] (neiaddons-1.12.9.32-mc1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	NEIAddons|CraftingTables{1.12.9.32} [NEI Addons: Crafting Tables] (neiaddons-1.12.9.32-mc1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	NEIAddons|ExNihilo{1.12.9.32} [NEI Addons: Ex Nihilo] (neiaddons-1.12.9.32-mc1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	neiintegration{1.0.10} [NEI Integration] (NEIIntegration-MC1.7.10-1.0.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	recipehandler{0.2} [NoMoreRecipeConflict] (NoMoreRecipeConflict-0.2(1.7.10).jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	neresources{0.1.0.101} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0.101.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Oceancraft{1.4.1} [Oceancraft] (Oceancraft-1.4.1-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	clayspawn{1.7.2a} [Pam's Clay Spawn] (Pam's Clay Spawn 1.7.2a.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	desertcraft{1.7.2b} [Pam's DesertCraft] (Pam's DesertCraft 1.7.10a.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	temperateplants{1.7.2b} [Pam's Temperate Plants] (Pam's Temperate Plants 1.7.2b.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	weeeflowers{1.7.2b} [Pam's Weee! Flowers] (Pam's WeeeFlowers 1.7.2b.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	PowerConverters{1.7.10_3.3.0-jenkins.73} [Power Converters] (PowerConverters-1.7.10_3.3.0-jenkins.73.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	primitivemobs{1.0} [Primitive Mobs] (primitivemobs-1.0c-1.7.10-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	RandomThings{2.2.4} [Random Things] (RandomThings-2.2.4-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	SpecialAI{1.1.1} [Special AI] (SpecialAI-1.7.10-1.1.1.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	SpecialMobs{3.1.1} [Special Mobs] (SpecialMobs-1.7.10-3.1.1-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	StevesCarts{2.0.0.b18} [Steve's Carts 2] (StevesCarts2.0.0.b18.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	tropicraft{v6.0.4} [Tropicraft] (tropicraft-6.0.4-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	UndergroundBiomes{0.7} [Underground Biomes Constructs] (UndergroundBiomesConstructs-1.7.2-0.7_128x.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	vchat{0.2r14} [vChat] (vChat-0.2r14.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	wawla{1.2.1} [What Are We Looking At] (Wawla-1.2.1_1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	weather2{v2.3.6} [weather2] (Weather-2.3.7-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	witchery{0.24.1} [Witchery] (witchery-1.7.10-0.24.1-ci.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	yegamolchattels{1.1.2} [Ye Gamol Chattels] (YeGamolChattels-1.1.2.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Ztones{1.7.10} [Ztones] (Ztones-1.7.10-2.2.1.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	AE2 Version: stable rv2-stable-5 for Forge 10.13.2.1291
+	Mantle Environment: DO NOT REPORT THIS CRASH! Unsupported mods in environment: optifine
+	Forestry : Warning: You have mods that change the behavior of Minecraft, ForgeModLoader, and/or Minecraft Forge to your client: 
+Optifine
+These may have caused this error, and may not be supported. Try reproducing the crash WITHOUT these mods, and report it then.
+	AE2 Integration: IC2:ON, RotaryCraft:OFF, RC:OFF, BC:ON, RF:ON, RFItem:ON, MFR:OFF, DSU:ON, FZ:OFF, FMP:ON, RB:OFF, CLApi:OFF, Waila:ON, InvTweaks:ON, NEI:ON, CraftGuide:OFF, Mekanism:OFF, ImmibisMicroblocks:OFF, BetterStorage:OFF
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 1 / 8; [EntityPlayerMP['BogdanG'/452, l='New World UGB 17', x=795,29, y=66,50, z=1057,03]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
