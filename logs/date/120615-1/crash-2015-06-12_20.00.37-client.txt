@@ -1,0 +1,95 @@
+---- Minecraft Crash Report ----
+// Sorry :(
+
+Time: 12.06.15 20:00
+Description: Ticking screen
+
+java.lang.NullPointerException: Ticking screen
+	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:101)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.client.multiplayer.GuiConnecting.func_73876_c(SourceFile:78)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1661)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:973)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:101)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.client.multiplayer.GuiConnecting.func_73876_c(SourceFile:78)
+
+-- Affected screen --
+Details:
+	Screen name: net.minecraft.client.multiplayer.GuiConnecting
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1661)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:973)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_80, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Azul Systems, Inc.
+	Memory: 321401720 bytes (306 MB) / 756940800 bytes (721 MB) up to 1060372480 bytes (1011 MB)
+	JVM Flags: 6 total; -Xmx1024M -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M -Xincgc
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1448 Optifine OptiFine_1.7.10_HD_U_B7 19 mods loaded, 19 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1448-1.7.10.jar) 
+	UCHIJA	Forge{10.13.4.1448} [Minecraft Forge] (forge-1.7.10-10.13.4.1448-1.7.10.jar) 
+	UCHIJA	betterfps{1.0.0} [BetterFps] (minecraft.jar) 
+	UCHIJA	CodeChickenCore{1.0.7.46} [CodeChicken Core] (minecraft.jar) 
+	UCHIJA	NotEnoughItems{1.0.5.110} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.110-universal.jar) 
+	UCHIJA	BuildCraft|Core{6.4.17} [BuildCraft] (buildcraft-6.4.17.jar) 
+	UCHIJA	BuildCraft|Builders{6.4.17} [BC Builders] (buildcraft-6.4.17.jar) 
+	UCHIJA	BuildCraft|Energy{6.4.17} [BC Energy] (buildcraft-6.4.17.jar) 
+	UCHIJA	BuildCraft|Factory{6.4.17} [BC Factory] (buildcraft-6.4.17.jar) 
+	UCHIJA	BuildCraft|Transport{6.4.17} [BC Transport] (buildcraft-6.4.17.jar) 
+	UCHIJA	BuildCraft|Silicon{6.4.17} [BC Silicon] (buildcraft-6.4.17.jar) 
+	UCHIJA	ChickenChunks{1.3.4.19} [ChickenChunks] (ChickenChunks-1.7.10-1.3.4.19-universal.jar) 
+	UCHIJA	IC2{2.2.736-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.736-experimental.jar) 
+	UCHIJA	Forestry{3.6.0.588-unstable} [Forestry for Minecraft] (forestry_1.7.10-3.6.0.588-unstable.jar) 
+	UCHIJA	gregtech{MC1710} [GregTech] (gregtech_1.7.10-5.08.19.jar) 
+	UCHIJA	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJA	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJA	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	Forestry : Warning: You have mods that change the behavior of Minecraft, ForgeModLoader, and/or Minecraft Forge to your client: 
+Optifine
+These may have caused this error, and may not be supported. Try reproducing the crash WITHOUT these mods, and report it then.
+	Launched Version: 1.7.10-Forge10.13.4.1448-1.7.10
+	LWJGL: 2.9.1
+	OpenGL: GeForce GT 650M/PCIe/SSE2 GL version 4.5.0 NVIDIA 352.86, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)
