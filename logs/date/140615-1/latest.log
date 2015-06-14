@@ -1,0 +1,598 @@
+[05:56:39] [main/INFO]: Setting user: BogdanG
+[05:56:46] [Client thread/INFO]: LWJGL Version: 2.9.4
+[05:57:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:weather2, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, ChromaHills-128x_1.7v11.zip
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[05:57:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[05:59:36] [Sound Library Loader/INFO]: Sound engine started
+[05:59:44] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2959_null.png, java.io.FileNotFoundException
+[05:59:44] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1866_blockSpellEnhancement.png, java.io.FileNotFoundException
+[05:59:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2966_null.png, java.io.FileNotFoundException
+[05:59:47] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1871_schematicSaver.png, java.io.FileNotFoundException
+[05:59:48] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1874_crystalBelljar.png, java.io.FileNotFoundException
+[05:59:48] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1865_blockSpellParadigm.png, java.io.FileNotFoundException
+[05:59:48] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2956_tile.sedimentaryStone.png, java.io.FileNotFoundException
+[05:59:48] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Emerald Ore.png, java.io.FileNotFoundException
+[05:59:49] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2967_null.png, java.io.FileNotFoundException
+[05:59:49] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2964_null.png, java.io.FileNotFoundException
+[05:59:49] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2950_tile.igneousStone.png, java.io.FileNotFoundException
+[05:59:51] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1877_blockMimic.png, java.io.FileNotFoundException
+[05:59:51] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Redstone Ore.png, java.io.FileNotFoundException
+[05:59:51] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2953_tile.metamorphicStone.png, java.io.FileNotFoundException
+[05:59:51] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2962_null.png, java.io.FileNotFoundException
+[05:59:51] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2969_null.png, java.io.FileNotFoundException
+[05:59:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1446_bookshelf.png, java.io.FileNotFoundException
+[05:59:52] [Client thread/ERROR]: Using missing texture, unable to load extrautils:textures/blocks/enderQuarryUpgrade.png, java.io.FileNotFoundException
+[05:59:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1867_blockSpellModifier.png, java.io.FileNotFoundException
+[05:59:52] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/futura/WIP/controllerWIP-ctm.png, java.io.FileNotFoundException
+[05:59:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2965_null.png, java.io.FileNotFoundException
+[05:59:53] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2961_null.png, java.io.FileNotFoundException
+[05:59:54] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2958_null.png, java.io.FileNotFoundException
+[05:59:55] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Diamond Ore.png, java.io.FileNotFoundException
+[05:59:55] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Coal Ore.png, java.io.FileNotFoundException
+[05:59:55] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1868_blockSpellEffect.png, java.io.FileNotFoundException
+[05:59:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2968_null.png, java.io.FileNotFoundException
+[05:59:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null tile.monsterStoneEgg.name.png, java.io.FileNotFoundException
+[05:59:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Gold Ore.png, java.io.FileNotFoundException
+[05:59:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[05:59:59] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2963_null.png, java.io.FileNotFoundException
+[05:59:59] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2970_null.png, java.io.FileNotFoundException
+[06:00:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Lapis Lazuli Ore.png, java.io.FileNotFoundException
+[06:00:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2960_null.png, java.io.FileNotFoundException
+[06:00:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2957_null.png, java.io.FileNotFoundException
+[06:00:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Iron Ore.png, java.io.FileNotFoundException
+[06:00:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1873_alchemicCalcinator.png, java.io.FileNotFoundException
+[06:00:02] [Client thread/INFO]: Created: 8192x4096 textures/blocks-atlas
+[06:00:06] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6545_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[06:00:08] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6528_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[06:00:08] [Client thread/ERROR]: Using missing texture, unable to load alchemicalwizardry:textures/items/SigilOfTheFastMiner.png, java.io.FileNotFoundException
+[06:00:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png, java.io.FileNotFoundException
+[06:00:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png, java.io.FileNotFoundException
+[06:00:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png, java.io.FileNotFoundException
+[06:00:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png, java.io.FileNotFoundException
+[06:00:09] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png, java.io.FileNotFoundException
+[06:00:09] [Client thread/ERROR]: Using missing texture, unable to load extrabees:textures/items/misc/blutoniumDust.png, java.io.FileNotFoundException
+[06:00:09] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[06:05:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:weather2, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, LiteLoader, WorldEditCUI, WorldEditWrapper, VoxelMap, FMLFileResourcePack:Carpenter's Blocks Cached Resources, ChromaHills-128x_1.7v11.zip
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[06:05:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[06:05:23] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2959_null.png, java.io.FileNotFoundException
+[06:05:23] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1866_blockSpellEnhancement.png, java.io.FileNotFoundException
+[06:05:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2966_null.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1871_schematicSaver.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1874_crystalBelljar.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1865_blockSpellParadigm.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/3_sec.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2956_tile.sedimentaryStone.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Emerald Ore.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2967_null.png, java.io.FileNotFoundException
+[06:05:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2964_null.png, java.io.FileNotFoundException
+[06:05:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2950_tile.igneousStone.png, java.io.FileNotFoundException
+[06:05:26] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/7_sec.png, java.io.FileNotFoundException
+[06:05:26] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/0_sec.png, java.io.FileNotFoundException
+[06:05:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1877_blockMimic.png, java.io.FileNotFoundException
+[06:05:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Redstone Ore.png, java.io.FileNotFoundException
+[06:05:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2953_tile.metamorphicStone.png, java.io.FileNotFoundException
+[06:05:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2962_null.png, java.io.FileNotFoundException
+[06:05:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_3269_Slab.png, java.io.FileNotFoundException
+[06:05:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2969_null.png, java.io.FileNotFoundException
+[06:05:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1446_bookshelf.png, java.io.FileNotFoundException
+[06:05:28] [Client thread/ERROR]: Using missing texture, unable to load extrautils:textures/blocks/enderQuarryUpgrade.png, java.io.FileNotFoundException
+[06:05:28] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/4_sec.png, java.io.FileNotFoundException
+[06:05:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1867_blockSpellModifier.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/futura/WIP/controllerWIP-ctm.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_3.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_4.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_5.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_6.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_0.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_1.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_2.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_8.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_7.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_9.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2965_null.png, java.io.FileNotFoundException
+[06:05:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected2/0_sec.png, java.io.FileNotFoundException
+[06:05:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2961_null.png, java.io.FileNotFoundException
+[06:05:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/8_sec.png, java.io.FileNotFoundException
+[06:05:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/9_sec.png, java.io.FileNotFoundException
+[06:05:31] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2958_null.png, java.io.FileNotFoundException
+[06:05:31] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Diamond Ore.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Coal Ore.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1868_blockSpellEffect.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/5_sec.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_10.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_11.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_16.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_12.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_13.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_14.png, java.io.FileNotFoundException
+[06:05:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_15.png, java.io.FileNotFoundException
+[06:05:33] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2968_null.png, java.io.FileNotFoundException
+[06:05:33] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null tile.monsterStoneEgg.name.png, java.io.FileNotFoundException
+[06:05:33] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/WindVane.png, java.io.FileNotFoundException
+[06:05:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/1_sec.png, java.io.FileNotFoundException
+[06:05:35] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Gold Ore.png, java.io.FileNotFoundException
+[06:05:35] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/6_sec.png, java.io.FileNotFoundException
+[06:05:35] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/Anemometer.png, java.io.FileNotFoundException
+[06:05:35] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[06:05:36] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2963_null.png, java.io.FileNotFoundException
+[06:05:36] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2970_null.png, java.io.FileNotFoundException
+[06:05:36] [Client thread/ERROR]: Using missing texture, unable to load bluepower:textures/blocks/machines/igniter_side_0.png, java.io.FileNotFoundException
+[06:05:37] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Lapis Lazuli Ore.png, java.io.FileNotFoundException
+[06:05:37] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2960_null.png, java.io.FileNotFoundException
+[06:05:37] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2957_null.png, java.io.FileNotFoundException
+[06:05:37] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Iron Ore.png, java.io.FileNotFoundException
+[06:05:37] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1873_alchemicCalcinator.png, java.io.FileNotFoundException
+[06:05:37] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/2_sec.png, java.io.FileNotFoundException
+[06:05:38] [Client thread/INFO]: Created: 8192x4096 textures/blocks-atlas
+[06:05:41] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_8208_Corpse.png, java.io.FileNotFoundException
+[06:05:42] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6545_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[06:05:43] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6528_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[06:05:43] [Client thread/ERROR]: Using missing texture, unable to load alchemicalwizardry:textures/items/SigilOfTheFastMiner.png, java.io.FileNotFoundException
+[06:05:43] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png, java.io.FileNotFoundException
+[06:05:43] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png, java.io.FileNotFoundException
+[06:05:43] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png, java.io.FileNotFoundException
+[06:05:43] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png, java.io.FileNotFoundException
+[06:05:43] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png, java.io.FileNotFoundException
+[06:05:44] [Client thread/ERROR]: Using missing texture, unable to load extrabees:textures/items/misc/blutoniumDust.png, java.io.FileNotFoundException
+[06:05:44] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[06:05:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:weather2, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, LiteLoader, WorldEditCUI, WorldEditWrapper, VoxelMap, FMLFileResourcePack:Carpenter's Blocks Cached Resources, ChromaHills-128x_1.7v11.zip
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[06:05:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[06:05:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2959_null.png, java.io.FileNotFoundException
+[06:05:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1866_blockSpellEnhancement.png, java.io.FileNotFoundException
+[06:05:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2966_null.png, java.io.FileNotFoundException
+[06:05:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1871_schematicSaver.png, java.io.FileNotFoundException
+[06:05:52] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1874_crystalBelljar.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1865_blockSpellParadigm.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/3_sec.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2956_tile.sedimentaryStone.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Emerald Ore.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2967_null.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2964_null.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2950_tile.igneousStone.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/7_sec.png, java.io.FileNotFoundException
+[06:05:53] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/0_sec.png, java.io.FileNotFoundException
+[06:05:54] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1877_blockMimic.png, java.io.FileNotFoundException
+[06:05:54] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Redstone Ore.png, java.io.FileNotFoundException
+[06:05:54] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2953_tile.metamorphicStone.png, java.io.FileNotFoundException
+[06:05:54] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2962_null.png, java.io.FileNotFoundException
+[06:05:54] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_3269_Slab.png, java.io.FileNotFoundException
+[06:05:54] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2969_null.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1446_bookshelf.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load extrautils:textures/blocks/enderQuarryUpgrade.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/4_sec.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1867_blockSpellModifier.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/futura/WIP/controllerWIP-ctm.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_3.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_4.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_5.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_6.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_0.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_1.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_2.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_8.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_7.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_9.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2965_null.png, java.io.FileNotFoundException
+[06:05:55] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected2/0_sec.png, java.io.FileNotFoundException
+[06:05:56] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2961_null.png, java.io.FileNotFoundException
+[06:05:56] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/8_sec.png, java.io.FileNotFoundException
+[06:05:57] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/9_sec.png, java.io.FileNotFoundException
+[06:05:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2958_null.png, java.io.FileNotFoundException
+[06:05:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Diamond Ore.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Coal Ore.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1868_blockSpellEffect.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/5_sec.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_10.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_11.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_16.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_12.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_13.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_14.png, java.io.FileNotFoundException
+[06:05:58] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_15.png, java.io.FileNotFoundException
+[06:05:59] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2968_null.png, java.io.FileNotFoundException
+[06:05:59] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null tile.monsterStoneEgg.name.png, java.io.FileNotFoundException
+[06:05:59] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/WindVane.png, java.io.FileNotFoundException
+[06:05:59] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/1_sec.png, java.io.FileNotFoundException
+[06:06:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Gold Ore.png, java.io.FileNotFoundException
+[06:06:00] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/6_sec.png, java.io.FileNotFoundException
+[06:06:00] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/Anemometer.png, java.io.FileNotFoundException
+[06:06:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[06:06:01] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2963_null.png, java.io.FileNotFoundException
+[06:06:02] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2970_null.png, java.io.FileNotFoundException
+[06:06:02] [Client thread/ERROR]: Using missing texture, unable to load bluepower:textures/blocks/machines/igniter_side_0.png, java.io.FileNotFoundException
+[06:06:02] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Lapis Lazuli Ore.png, java.io.FileNotFoundException
+[06:06:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2960_null.png, java.io.FileNotFoundException
+[06:06:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2957_null.png, java.io.FileNotFoundException
+[06:06:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Iron Ore.png, java.io.FileNotFoundException
+[06:06:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1873_alchemicCalcinator.png, java.io.FileNotFoundException
+[06:06:03] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/2_sec.png, java.io.FileNotFoundException
+[06:06:04] [Client thread/INFO]: Created: 8192x4096 textures/blocks-atlas
+[06:06:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_8208_Corpse.png, java.io.FileNotFoundException
+[06:06:06] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6545_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[06:06:07] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6528_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[06:06:07] [Client thread/ERROR]: Using missing texture, unable to load alchemicalwizardry:textures/items/SigilOfTheFastMiner.png, java.io.FileNotFoundException
+[06:06:07] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png, java.io.FileNotFoundException
+[06:06:07] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png, java.io.FileNotFoundException
+[06:06:07] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png, java.io.FileNotFoundException
+[06:06:07] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png, java.io.FileNotFoundException
+[06:06:07] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png, java.io.FileNotFoundException
+[06:06:08] [Client thread/ERROR]: Using missing texture, unable to load extrabees:textures/items/misc/blutoniumDust.png, java.io.FileNotFoundException
+[06:06:08] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[06:06:15] [Sound Library Loader/INFO]: Sound engine started
+[06:06:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:weather2, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, LiteLoader, WorldEditCUI, WorldEditWrapper, VoxelMap, FMLFileResourcePack:Carpenter's Blocks Cached Resources, ChromaHills-128x_1.7v11.zip
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-4.jar
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[06:06:22] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\magicbees-1.7.10-2.3.1.jar
+[06:06:25] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2959_null.png, java.io.FileNotFoundException
+[06:06:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1866_blockSpellEnhancement.png, java.io.FileNotFoundException
+[06:06:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2966_null.png, java.io.FileNotFoundException
+[06:06:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1871_schematicSaver.png, java.io.FileNotFoundException
+[06:06:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1874_crystalBelljar.png, java.io.FileNotFoundException
+[06:06:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1865_blockSpellParadigm.png, java.io.FileNotFoundException
+[06:06:26] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/3_sec.png, java.io.FileNotFoundException
+[06:06:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2956_tile.sedimentaryStone.png, java.io.FileNotFoundException
+[06:06:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Emerald Ore.png, java.io.FileNotFoundException
+[06:06:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2967_null.png, java.io.FileNotFoundException
+[06:06:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2964_null.png, java.io.FileNotFoundException
+[06:06:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2950_tile.igneousStone.png, java.io.FileNotFoundException
+[06:06:27] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/7_sec.png, java.io.FileNotFoundException
+[06:06:27] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/0_sec.png, java.io.FileNotFoundException
+[06:06:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1877_blockMimic.png, java.io.FileNotFoundException
+[06:06:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Redstone Ore.png, java.io.FileNotFoundException
+[06:06:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2953_tile.metamorphicStone.png, java.io.FileNotFoundException
+[06:06:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2962_null.png, java.io.FileNotFoundException
+[06:06:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_3269_Slab.png, java.io.FileNotFoundException
+[06:06:28] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2969_null.png, java.io.FileNotFoundException
+[06:06:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1446_bookshelf.png, java.io.FileNotFoundException
+[06:06:29] [Client thread/ERROR]: Using missing texture, unable to load extrautils:textures/blocks/enderQuarryUpgrade.png, java.io.FileNotFoundException
+[06:06:29] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/4_sec.png, java.io.FileNotFoundException
+[06:06:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1867_blockSpellModifier.png, java.io.FileNotFoundException
+[06:06:29] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/futura/WIP/controllerWIP-ctm.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_3.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_4.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_5.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_6.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_0.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_1.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_2.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_8.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_7.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_9.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2965_null.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected2/0_sec.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2961_null.png, java.io.FileNotFoundException
+[06:06:30] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/8_sec.png, java.io.FileNotFoundException
+[06:06:32] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/9_sec.png, java.io.FileNotFoundException
+[06:06:33] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2958_null.png, java.io.FileNotFoundException
+[06:06:33] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Diamond Ore.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Coal Ore.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1868_blockSpellEffect.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/5_sec.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_10.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_11.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_16.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_12.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_13.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_14.png, java.io.FileNotFoundException
+[06:06:34] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/shaped/unstitched/tile15_15.png, java.io.FileNotFoundException
+[06:06:35] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2968_null.png, java.io.FileNotFoundException
+[06:06:35] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null tile.monsterStoneEgg.name.png, java.io.FileNotFoundException
+[06:06:35] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/WindVane.png, java.io.FileNotFoundException
+[06:06:36] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/1_sec.png, java.io.FileNotFoundException
+[06:06:37] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Gold Ore.png, java.io.FileNotFoundException
+[06:06:37] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/6_sec.png, java.io.FileNotFoundException
+[06:06:37] [Client thread/ERROR]: Using missing texture, unable to load weather2:textures/blocks/Anemometer.png, java.io.FileNotFoundException
+[06:06:37] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[06:06:38] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2963_null.png, java.io.FileNotFoundException
+[06:06:38] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2970_null.png, java.io.FileNotFoundException
+[06:06:39] [Client thread/ERROR]: Using missing texture, unable to load bluepower:textures/blocks/machines/igniter_side_0.png, java.io.FileNotFoundException
+[06:06:39] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Lapis Lazuli Ore.png, java.io.FileNotFoundException
+[06:06:39] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2960_null.png, java.io.FileNotFoundException
+[06:06:39] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2957_null.png, java.io.FileNotFoundException
+[06:06:39] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/null Iron Ore.png, java.io.FileNotFoundException
+[06:06:39] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1873_alchemicCalcinator.png, java.io.FileNotFoundException
+[06:06:39] [Client thread/ERROR]: Using missing texture, unable to load geostrata:textures/blocks/connected/2_sec.png, java.io.FileNotFoundException
+[06:06:40] [Client thread/INFO]: Created: 8192x4096 textures/blocks-atlas
+[06:06:42] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_8208_Corpse.png, java.io.FileNotFoundException
+[06:06:42] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6545_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[06:06:44] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_6528_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[06:06:44] [Client thread/ERROR]: Using missing texture, unable to load alchemicalwizardry:textures/items/SigilOfTheFastMiner.png, java.io.FileNotFoundException
+[06:06:44] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/621.png, java.io.FileNotFoundException
+[06:06:44] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/620.png, java.io.FileNotFoundException
+[06:06:44] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/623.png, java.io.FileNotFoundException
+[06:06:44] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/622.png, java.io.FileNotFoundException
+[06:06:44] [Client thread/ERROR]: Using missing texture, unable to load gregtech:textures/items/gt.metaitem.01/624.png, java.io.FileNotFoundException
+[06:06:45] [Client thread/ERROR]: Using missing texture, unable to load extrabees:textures/items/misc/blutoniumDust.png, java.io.FileNotFoundException
+[06:06:45] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[06:06:47] [Sound Library Loader/INFO]: Sound engine started
+[06:08:37] [Client thread/INFO]: Deleting level New World UGB 25
+[06:08:37] [Client thread/INFO]: Attempt 1...
+[06:08:42] [Client thread/INFO]: Deleting level New World UGB4
+[06:08:42] [Client thread/INFO]: Attempt 1...
+[06:08:45] [Client thread/INFO]: Deleting level New World UGB2
+[06:08:45] [Client thread/INFO]: Attempt 1...
+[06:08:48] [Client thread/INFO]: Deleting level New World UGB1
+[06:08:48] [Client thread/INFO]: Attempt 1...
+[06:08:50] [Client thread/INFO]: Deleting level New World UGB test0
+[06:08:50] [Client thread/INFO]: Attempt 1...
+[06:08:53] [Client thread/INFO]: Deleting level New World test UBCGTBust1 BOP
+[06:08:53] [Client thread/INFO]: Attempt 1...
+[06:08:57] [Client thread/INFO]: Deleting level New World Pontion test1
+[06:08:57] [Client thread/INFO]: Attempt 1...
+[06:10:03] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[06:10:03] [Server thread/INFO]: Generating keypair
+[06:10:04] [Server thread/INFO]: Converting map!
+[06:10:04] [Server thread/INFO]: Scanning folders...
+[06:10:04] [Server thread/INFO]: Total conversion count is 0
+[06:10:11] [Server thread/WARN]: Unable to find spawn biome
+[06:10:13] [Server thread/WARN]: Unable to find spawn biome
+[06:10:17] [Server thread/INFO]: Preparing start region for level 0
+[06:10:19] [Server thread/INFO]: Preparing spawn area: 4%
+[06:10:21] [Server thread/INFO]: Preparing spawn area: 4%
+[06:10:24] [Server thread/INFO]: Preparing spawn area: 5%
+[06:10:25] [Server thread/INFO]: Preparing spawn area: 7%
+[06:10:26] [Server thread/INFO]: Preparing spawn area: 10%
+[06:10:27] [Server thread/INFO]: Preparing spawn area: 12%
+[06:10:29] [Server thread/INFO]: Preparing spawn area: 12%
+[06:10:30] [Server thread/INFO]: Preparing spawn area: 13%
+[06:10:31] [Server thread/INFO]: Preparing spawn area: 14%
+[06:10:32] [Server thread/INFO]: Preparing spawn area: 20%
+[06:10:33] [Server thread/INFO]: Preparing spawn area: 22%
+[06:10:35] [Server thread/INFO]: Preparing spawn area: 24%
+[06:10:36] [Server thread/INFO]: Preparing spawn area: 26%
+[06:10:37] [Server thread/INFO]: Preparing spawn area: 27%
+[06:10:38] [Server thread/INFO]: Preparing spawn area: 34%
+[06:10:39] [Server thread/INFO]: Preparing spawn area: 36%
+[06:10:40] [Server thread/INFO]: Preparing spawn area: 38%
+[06:10:42] [Server thread/INFO]: Preparing spawn area: 39%
+[06:10:43] [Server thread/INFO]: Preparing spawn area: 45%
+[06:10:44] [Server thread/INFO]: Preparing spawn area: 48%
+[06:10:45] [Server thread/INFO]: Preparing spawn area: 50%
+[06:10:46] [Server thread/INFO]: Preparing spawn area: 51%
+[06:10:47] [Server thread/INFO]: Preparing spawn area: 58%
+[06:10:48] [Server thread/INFO]: Preparing spawn area: 59%
+[06:10:50] [Server thread/INFO]: Preparing spawn area: 60%
+[06:10:51] [Server thread/INFO]: Preparing spawn area: 62%
+[06:10:52] [Server thread/INFO]: Preparing spawn area: 68%
+[06:10:53] [Server thread/INFO]: Preparing spawn area: 71%
+[06:10:54] [Server thread/INFO]: Preparing spawn area: 72%
+[06:10:55] [Server thread/INFO]: Preparing spawn area: 73%
+[06:10:57] [Server thread/INFO]: Preparing spawn area: 75%
+[06:10:58] [Server thread/INFO]: Preparing spawn area: 80%
+[06:10:59] [Server thread/INFO]: Preparing spawn area: 83%
+[06:11:01] [Server thread/INFO]: Preparing spawn area: 85%
+[06:11:02] [Server thread/INFO]: Preparing spawn area: 87%
+[06:11:03] [Server thread/INFO]: Preparing spawn area: 93%
+[06:11:04] [Server thread/INFO]: Preparing spawn area: 96%
+[06:11:06] [Server thread/INFO]: Preparing spawn area: 97%
+[06:11:07] [Server thread/INFO]: Preparing spawn area: 99%
+[06:11:15] [Server thread/INFO]: Changing view distance to 8, from 10
+[06:11:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5491ms behind, skipping 109 tick(s)
+[06:11:16] [Server thread/INFO]: BogdanG[local:E:8a825d7a] logged in with entity id 412 at (-187.5, 83.0, 1070.5)
+[06:11:16] [Server thread/INFO]: BogdanG joined the game
+[06:11:19] [Client thread/INFO]: [CHAT] §ENo waypoints exist for this world/server.
+[06:11:20] [Server thread/INFO]: BogdanG has just earned the achievement [Welcome to Magic Crusade]
+[06:11:24] [Server thread/INFO]: BogdanG has just earned the achievement [You've been installed!]
+[06:11:26] [Server thread/INFO]: Saving and pausing game...
+[06:11:26] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Overworld
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Nether
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/The Last Millenium
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Wyvern Lair
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Tropics
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeon
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeon
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeon
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/SpectreWorld
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeons
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Aether
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Mystic Groves
+[06:11:32] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/CONTROL
+[06:11:37] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[06:13:28] [Client thread/INFO]: [CHAT] You have the latest version of: Advent of Ascension.
+[06:13:28] [Client thread/INFO]: [CHAT] Current Event: Currently None!
+[06:13:28] [Client thread/INFO]: [CHAT] Welcome, §e§lBogdanG§r to §oBogdanG - New World UGB 26§r!
+[06:13:28] [Client thread/INFO]: [CHAT] Currently, there are 1/8 players online.
+[06:13:28] [Client thread/INFO]: [CHAT] You are playing on dimension 0 (§oOverworld§r)
+[06:13:28] [Client thread/INFO]: [CHAT] and the local time is 06:11.
+[06:13:28] [Client thread/INFO]: [CHAT] The server is running vChat to display this motd,
+[06:13:28] [Client thread/INFO]: [CHAT] Have a good one! §o~Vic§r
+[06:13:28] [Client thread/INFO]: [CHAT] You are talking on channel "global".
+[06:13:28] [Client thread/INFO]: [CHAT] Currently joined channels: [local, global]
+[06:13:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4803ms behind, skipping 96 tick(s)
+[06:14:07] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [Welcome to Magic Crusade]
+[06:14:07] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [You've been installed!]
+[06:14:07] [Client thread/INFO]: [CHAT] §bThank you for downloading MrCrayfish's Furniture Mod.
+[06:14:07] [Client thread/INFO]: [CHAT] Make sure you check out the wiki! http://mrcrayfishs-furniture-mod.wikia.com/
+[06:15:05] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Exception getting block type in world
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:642) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) ~[MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186) ~[bsx.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+Caused by: java.lang.RuntimeException: Biome [Lush Redwoods] threw an error while populating chunk.
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:156) ~[ChunkProviderMyst.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147439_a(World.java:345) ~[ahb.class:?]
+	at com.pam.clayspawn.WorldGenPamClay.func_76484_a(WorldGenPamClay.java:66) ~[WorldGenPamClay.class:?]
+	at com.pam.clayspawn.PamClayGenerator.generateSurface(PamClayGenerator.java:29) ~[PamClayGenerator.class:?]
+	at com.pam.clayspawn.PamClayGenerator.generate(PamClayGenerator.java:19) ~[PamClayGenerator.class:?]
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112) ~[GameRegistry.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147439_a(World.java:345) ~[ahb.class:?]
+	at Reika.DragonAPI.Libraries.World.ReikaWorldHelper.getMaterial(ReikaWorldHelper.java:119) ~[ReikaWorldHelper.class:?]
+	at Reika.DragonAPI.Libraries.World.ReikaWorldHelper.temperatureEnvironment(ReikaWorldHelper.java:370) ~[ReikaWorldHelper.class:?]
+	at Reika.GeoStrata.Blocks.BlockVent$TileEntityVent.onTick(BlockVent.java:270) ~[BlockVent$TileEntityVent.class:?]
+	at Reika.GeoStrata.Blocks.BlockVent$TileEntityVent.func_145845_h(BlockVent.java:185) ~[BlockVent$TileEntityVent.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1939) ~[ahb.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:489) ~[mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:636) ~[MinecraftServer.class:?]
+	... 4 more
+Caused by: java.lang.RuntimeException: Biome [Redwood Forest] threw an error while populating chunk.
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:156) ~[ChunkProviderMyst.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_72938_d(World.java:414) ~[ahb.class:?]
+	at net.minecraft.world.World.func_72825_h(World.java:1742) ~[ahb.class:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150513_a(BiomeDecorator.java:124) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java:105) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339) ~[ahu.class:?]
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:154) ~[ChunkProviderMyst.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147439_a(World.java:345) ~[ahb.class:?]
+	at com.pam.clayspawn.WorldGenPamClay.func_76484_a(WorldGenPamClay.java:66) ~[WorldGenPamClay.class:?]
+	at com.pam.clayspawn.PamClayGenerator.generateSurface(PamClayGenerator.java:29) ~[PamClayGenerator.class:?]
+	at com.pam.clayspawn.PamClayGenerator.generate(PamClayGenerator.java:19) ~[PamClayGenerator.class:?]
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112) ~[GameRegistry.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147439_a(World.java:345) ~[ahb.class:?]
+	at Reika.DragonAPI.Libraries.World.ReikaWorldHelper.getMaterial(ReikaWorldHelper.java:119) ~[ReikaWorldHelper.class:?]
+	at Reika.DragonAPI.Libraries.World.ReikaWorldHelper.temperatureEnvironment(ReikaWorldHelper.java:370) ~[ReikaWorldHelper.class:?]
+	at Reika.GeoStrata.Blocks.BlockVent$TileEntityVent.onTick(BlockVent.java:270) ~[BlockVent$TileEntityVent.class:?]
+	at Reika.GeoStrata.Blocks.BlockVent$TileEntityVent.func_145845_h(BlockVent.java:185) ~[BlockVent$TileEntityVent.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1939) ~[ahb.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:489) ~[mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:636) ~[MinecraftServer.class:?]
+	... 4 more
+Caused by: java.lang.IllegalStateException: reentrant biome decoration
+	at fastcraft.a.b.a(F:49) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.z(F:192) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339) ~[ahu.class:?]
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:154) ~[ChunkProviderMyst.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_72938_d(World.java:414) ~[ahb.class:?]
+	at net.minecraft.world.World.func_72825_h(World.java:1742) ~[ahb.class:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150513_a(BiomeDecorator.java:124) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java:105) ~[aia.class:?]
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339) ~[ahu.class:?]
+	at com.xcompwiz.mystcraft.world.ChunkProviderMyst.func_73153_a(ChunkProviderMyst.java:154) ~[ChunkProviderMyst.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147439_a(World.java:345) ~[ahb.class:?]
+	at com.pam.clayspawn.WorldGenPamClay.func_76484_a(WorldGenPamClay.java:66) ~[WorldGenPamClay.class:?]
+	at com.pam.clayspawn.PamClayGenerator.generateSurface(PamClayGenerator.java:29) ~[PamClayGenerator.class:?]
+	at com.pam.clayspawn.PamClayGenerator.generate(PamClayGenerator.java:19) ~[PamClayGenerator.class:?]
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112) ~[GameRegistry.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280) ~[ms.class:?]
+	at fastcraft.a.d.a(F:84) ~[fastcraft-1.21.jar:?]
+	at fastcraft.Hooks.r(F:137) ~[fastcraft-1.21.jar:?]
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1040) ~[apx.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190) ~[ms.class:?]
+	at com.xcompwiz.mystcraft.world.WorldProviderMystDummy$ChunkProviderServerDummy.originalLoadChunk(WorldProviderMystDummy.java:60) ~[WorldProviderMystDummy$ChunkProviderServerDummy.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199) ~[ms.class:?]
+	at net.minecraft.world.World.func_72964_e(World.java:419) ~[ahb.class:?]
+	at net.minecraft.world.World.func_147439_a(World.java:345) ~[ahb.class:?]
+	at Reika.DragonAPI.Libraries.World.ReikaWorldHelper.getMaterial(ReikaWorldHelper.java:119) ~[ReikaWorldHelper.class:?]
+	at Reika.DragonAPI.Libraries.World.ReikaWorldHelper.temperatureEnvironment(ReikaWorldHelper.java:370) ~[ReikaWorldHelper.class:?]
+	at Reika.GeoStrata.Blocks.BlockVent$TileEntityVent.onTick(BlockVent.java:270) ~[BlockVent$TileEntityVent.class:?]
+	at Reika.GeoStrata.Blocks.BlockVent$TileEntityVent.func_145845_h(BlockVent.java:185) ~[BlockVent$TileEntityVent.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1939) ~[ahb.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:489) ~[mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:636) ~[MinecraftServer.class:?]
+	... 4 more
+[06:15:06] [Server thread/ERROR]: This crash report has been saved to: D:\nmine\.\crash-reports\crash-2015-06-14_06.15.06-server.txt
+[06:15:06] [Server thread/INFO]: Stopping server
+[06:15:06] [Server thread/INFO]: Saving players
+[06:15:06] [Server thread/INFO]: Saving worlds
+[06:15:06] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Overworld
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Nether
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/The Last Millenium
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Wyvern Lair
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Tropics
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeon
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeon
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeon
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/SpectreWorld
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Dungeons
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Aether
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/Mystic Groves
+[06:15:07] [Server thread/INFO]: Saving chunks for level 'New World UGB 26'/CONTROL
