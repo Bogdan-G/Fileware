@@ -1,0 +1,1343 @@
+GT_Mod: Preload-Phase started!
+GT_Mod: Getting required Items of other Mods.
+GT_Mod: Setting Configs
+GT_Mod: Downloading Cape List.
+GT_Mod: Saving Main Config
+GT_Mod: Generating Lang-File
+GT_Mod: Downloading News.
+GT_Mod: Removing all original Scrapbox Drops.
+GT_Mod: Adding Scrap with a Weight of 200.0F to the Scrapbox Drops.
+GT_Mod: Register Ore processing.
+GT_Mod: Register OreDict Entries of Non-GT-Items.
+GT_Mod: Loading Item Data Tags
+GT_Mod: Register Books.
+GT_Mod: Added Book to Book List  -  Mapping: 'Manual_Printer'  -  Name: 'Printer Manual V2.0'  -  Author: 'Gregorius Techneticies'
+GT_Mod: Added Book to Book List  -  Mapping: 'Manual_Punch_Cards'  -  Name: 'Punch Card Manual V0.0'  -  Author: 'Gregorius Techneticies'
+GT_Mod: Added Book to Book List  -  Mapping: 'Manual_Microwave'  -  Name: 'Microwave Oven Manual'  -  Author: 'Kitchen Industries'
+GT_Mod: Register Items.
+GT_Mod: Adding Blocks.
+GT_Mod: Register TileEntities.
+GT_Mod: Testing BaseMetaTileEntity.
+GT_Mod: Registering the BaseMetaTileEntity.
+GT_Mod: Registering the BaseMetaPipeEntity.
+GT_Mod: Registering the Ore TileEntity.
+GT_Mod: Registering Fluids.
+GT_Mod: Registering MetaTileEntities.
+GT_Mod: Register Redstone Circuit behaviours.
+GT_Mod: Adding Cover Behaviors
+GT_Mod: Loading Sonictron Sounds
+GT_Mod: Preload-Phase finished!
+GT_Mod: Beginning Load-Phase.
+GT_Mod: Load-Phase finished!
+GT_Mod: Beginning PostLoad-Phase.
+GT_Mod: Adding Configs specific for MetaTileEntities
+GT_Mod: Adding Tool Usage Crafting Recipes for OreDict Items.
+GT_Mod: Scanning for certain kinds of compatible Machineblocks.
+GT_Mod: Registering various Tools to be usable on GregTech Machines
+GT_Mod: Adding Food Recipes to the Automatic Canning Machine. (also during the following Item Iteration)
+GT_Mod: Scanning ItemList.
+GT_Mod: Re-Unificating Recipes.
+GT_Mod: Initializing various Fuels.
+GT_Mod: Adding worldgenerated Chest Content.
+GT_Mod: Changing maximum Stacksizes if configured.
+GT_Mod: Adding Stuff to the Recycler Blacklist.
+GT_Mod: Adding Blocks to the Miners Valuable List.
+GT_Mod: Adding non-OreDict Machine Recipes.
+GT_Mod: (re-)adding Scrapbox Drops.
+GT_Mod: Register Crops to IC2.
+GT_Mod: Created a List of Tool Recipes containing 538 Recipes for recycling.
+GT_Mod: Activating OreDictionary Handler, this can take some time, as it scans the whole OreDictionary
+GT_Mod: 386 Recipes were left unused.
+=> Log Turner
+=> Fusewood Bow
+=> Darkwood Bow
+=> Bloodwood Bow
+=> Ghostwood Bow
+=> Ice Helmet
+=> Ice Boots
+=> Ice Leggings
+=> Ice Chestplate
+=> Poison Helmet
+=> Poison Boots
+=> Poison Leggings
+=> Poison Chestplate
+=> Weaken Helmet
+=> Weaken Boots
+=> Weaken Leggings
+=> Weaken Chestplate
+=> Speed Helmet
+=> Speed Boots
+=> Speed Leggings
+=> Speed Chestplate
+=> Wither Helmet
+=> Wither Boots
+=> Wither Leggings
+=> Wither Chestplate
+=> Necro Helmet
+=> Necro Boots
+=> Necro Leggings
+=> Necro Chestplate
+=> Utopian Helmet
+=> Utopian Boots
+=> Utopian Leggings
+=> Utopian Chestplate
+=> Alacrity Helmet
+=> Alacrity Boots
+=> Alacrity Leggings
+=> Alacrity Chestplate
+=> Skeletal Helmet
+=> Skeletal Boots
+=> Skeletal Leggings
+=> Skeletal Chestplate
+=> Poison Bow
+=> Infernal Bow
+=> Speed Bow
+=> Wither Bow
+=> Alacrity Bow
+=> Ice Bow
+=> Weaken Bow
+=> Purity Helmet
+=> Purity Boots
+=> Purity Leggings
+=> Purity Chestplate
+=> Baron Helmet
+=> Baron Boots
+=> Baron Leggings
+=> Baron Chestplate
+=> Lunar Helmet
+=> Lunar Boots
+=> Lunar Leggings
+=> Lunar Chestplate
+=> Ghoulish Helmet
+=> Ghoulish Boots
+=> Ghoulish Leggings
+=> Ghoulish Chestplate
+=> Ghastly Helmet
+=> Ghastly Boots
+=> Ghastly Leggings
+=> Ghastly Chestplate
+=> Boreic Helmet
+=> Boreic Boots
+=> Boreic Leggings
+=> Boreic Chestplate
+=> Predatious Helmet
+=> Predatious Boots
+=> Predatious Leggings
+=> Predatious Chestplate
+=> Hydrangic Helmet
+=> Hydrangic Boots
+=> Hydrangic Leggings
+=> Hydrangic Chestplate
+=> Rosidian Helmet
+=> Rosidian Boots
+=> Rosidian Leggings
+=> Rosidian Chestplate
+=> Hazmat Helmet
+=> Hazmat Boots
+=> Hazmat Leggings
+=> Hazmat Chestplate
+=> Lyonic Helmet
+=> Lyonic Boots
+=> Lyonic Leggings
+=> Lyonic Chestplate
+=> Rockbone Helmet
+=> Rockbone Boots
+=> Rockbone Leggings
+=> Rockbone Chestplate
+=> Sharpshot Helmet
+=> Sharpshot Boots
+=> Sharpshot Leggings
+=> Sharpshot Chestplate
+=> Thermal Helmet
+=> Thermal Boots
+=> Thermal Leggings
+=> Thermal Chestplate
+=> Exoplate Helmet
+=> Exoplate Boots
+=> Exoplate Leggings
+=> Exoplate Chestplate
+=> Elecanyte Helmet
+=> Elecanyte Boots
+=> Elecanyte Leggings
+=> Elecanyte Chestplate
+=> Night Vision Goggles
+=> Face Mask
+=> Impskin Helmet
+=> Impskin Jerkin
+=> Impskin Leggings
+=> Impskin Boots
+=> Muddy Pickaxe
+=> Muddy Shovel
+=> Muddy Sword
+=> Muddy Axe
+=> Muddy Hoe
+=> Muddy Helmet
+=> Muddy Chestplate
+=> Muddy Leggings
+=> Muddy Boots
+=> Mud Scythe
+=> Mud Scythe
+=> Amethyst Helmet
+=> Amethyst Chestplate
+=> Amethyst Leggings
+=> Amethyst Boots
+=> Amethyst Scythe
+=> Amethyst Scythe
+=> Manasteel Helmet of Revealing
+=> Mana Tablet
+=> Mana Tablet
+=> Manasteel Pickaxe
+=> Manasteel Shovel
+=> Manasteel Axe
+=> Manasteel Sword
+=> Terra Blade
+=> Soulscribe
+=> Elementium Pickaxe
+=> Elementium Shovel
+=> Elementium Axe
+=> Elementium Sword
+=> Rod of the Bifrost
+=> Rod of the Skies
+=> Rod of the Hells
+=> Livingwood Bow
+=> Crystal Bow
+=> Amethyst Sword
+=> Rosite Sword
+=> Limonite Sword
+=> Jade Sword
+=> Sapphire Sword
+=> Emberstone Sword
+=> Bloodstone Sword
+=> Crystallite Sword
+=> Coral Stone Sword
+=> Amethyst Pickaxe
+=> Amethyst Shovel
+=> Amethyst Axe
+=> Rosite Pickaxe
+=> Rosite Shovel
+=> Rosite Axe
+=> Limonite Pickaxe
+=> Limonite Shovel
+=> Limonite Axe
+=> Jade Pickaxe
+=> Jade Shovel
+=> Jade Axe
+=> Sapphire Pickaxe
+=> Sapphire Shovel
+=> Sapphire Axe
+=> Emberstone Pickaxe
+=> Emberstone Shovel
+=> Emberstone Axe
+=> Skeletal Pickaxe
+=> Skeletal Shovel
+=> Skeletal Axe
+=> Horizon Maul
+=> Wind Staff
+=> Water Staff
+=> Fire Staff
+=> Wither Staff
+=> Poison Staff
+=> Stone Bowl
+=> Diamond Bowl
+=> Amethyst Pickaxe
+=> Amethyst Shovel
+=> Amethyst Sword
+=> Amethyst Axe
+=> Amethyst Hoe
+=> Iron Tusks
+=> Diamond Tusks
+=> Frost Scorpion Plate Chest
+=> Frost Scorpion Helmet
+=> Frost Scorpion Legs
+=> Frost Scorpion Boots
+=> Nether Scorpion Plate Chest
+=> Nether Scorpion Helmet
+=> Nether Scorpion Legs
+=> Nether Scorpion Boots
+=> Cave Scorpion Plate Chest
+=> Cave Scorpion Helmet
+=> Cave Scorpion Legs
+=> Cave Scorpion Boots
+=> Dirt Scorpion Plate Chest
+=> Dirt Scorpion Helmet
+=> Dirt Scorpion Legs
+=> Dirt Scorpion Boots
+=> Hide Chest
+=> Hide Helmet
+=> Hide Legs
+=> Hide Boots
+=> Fur Chest
+=> Fur Helmet
+=> Fur Legs
+=> Fur Boots
+=> Shark Sword
+=> Whip
+=> Chain Chestplate
+=> Chain Helmet
+=> Chain Leggings
+=> Chain Boots
+=> Reptile Plate
+=> Reptile Helmet
+=> Reptile Legs
+=> Reptile Boots
+=> Wyvern Portal Staff
+=> Wyvern Portal Staff
+=> Sonar Goggles
+=> Hardened Leather Helm
+=> Hardened Leather Chest
+=> Hardened Leather Leggings
+=> Hardened Leather Boots
+=> Leather Cap
+=> Leather Tunic
+=> Leather Pants
+=> Leather Boots
+=> Mutant Skeleton Chestplate
+=> Mutant Skeleton Leggings
+=> Mutant Skeleton Boots
+=> Coral Helmet
+=> Coral Body
+=> Coral Pants
+=> Coral Boots
+=> Flippers
+=> Fishing Net
+=> Reinforced Fishing Net
+=> Fishing Net
+=> Reinforced Fishing Net
+=> Coral Pickaxe
+=> Coral Axe
+=> Coral Shovel
+=> Coral Sword
+=> Coral Hoe
+=> Glass Steel Axe
+=> Glass Steel Hoe
+=> Glass Steel Pickaxe
+=> Glass Steel Shovel
+=> Glass Steel Sword
+=> Scale Helmet
+=> Scale Chestplate
+=> Scale Leggings
+=> Scale Boots
+=> Bamboo Spear
+=> Zircon Pickaxe
+=> Zircon Axe
+=> Zircon Hoe
+=> Zircon Spear
+=> Zircon Shovel
+=> Zirconium Pickaxe
+=> Zirconium Axe
+=> Zirconium Hoe
+=> Zirconium Spear
+=> Zirconium Shovel
+=> Eudialyte Pickaxe
+=> Eudialyte Axe
+=> Eudialyte Hoe
+=> Eudialyte Sword
+=> Eudialyte Shovel
+=> Water Wand
+=> Arthana
+=> Boline
+=> Polynesia Charm
+=> Witches' Hat
+=> Witches Robes
+=> Necromancer Robes
+=> Icy Slippers
+=> Witch Hunter Hat
+=> Witch Hunter Coat
+=> Witch Hunter Trousers
+=> Witch Hunter Boots
+=> Twisting Band
+=> Vampire Top Hat
+=> Vampire Dress Coat
+=> Vampire Dress Jacket (Ladies)
+=> Vampire Trousers
+=> Vampire Skirted Trousers
+=> Vampire Oxford Boots
+=> Zanite Helmet
+=> Zanite Chestplate
+=> Zanite Leggings
+=> Zanite Boots
+=> Leather Gloves
+=> Iron Gloves
+=> Golden Gloves
+=> Diamond Gloves
+=> Zanite Gloves
+=> Iron Pendant
+=> Golden Pendant
+=> Zanite Pendant
+=> Iron Ring
+=> Golden Ring
+=> Zanite Ring
+=> Zanite Pickaxe
+=> Zanite Axe
+=> Zanite Shovel
+=> Zanite Sword
+=> Kinetic Gearbox Rotor (Wood)
+=> Kinetic Gearbox Rotor (Iron)
+=> Kinetic Gearbox Rotor (Steel)
+=> Kinetic Gearbox Rotor (Carbon)
+=> Steam Turbine
+=> Steam Turbine
+=> Lathing Tool
+=> Energy Bazooka
+=> Vengeance Pickaxe
+=> Vein Sword
+=> Gravestone Chisel
+=> Silver Pickaxe
+=> Silver Shovel
+=> Silver Axe
+=> Silver Axe
+=> Ethernium Pickaxe
+=> Ethernium Shovel
+=> Ethernium Axe
+=> Ethernium Axe
+=> Titanium Pickaxe
+=> Titanium Shovel
+=> Titanium Axe
+=> Titanium Axe
+=> Titanium Sword
+=> Titanium Sword
+=> Silver Sword
+=> Silver Sword
+=> Ethernium Sword
+=> Ethernium Sword
+=> Titanium Helmet
+=> Titanium Chestplate
+=> Titanium Pants
+=> Titanium Boots
+=> Silver Helmet
+=> Silver Chestplate
+=> Silver Pants
+=> Silver Boots
+=> Ethernium Helmet
+=> Ethernium Chestplate
+=> Ethernium Pants
+=> Ethernium Boots
+=> Spectre Helmet
+=> Spectre Chestplate
+=> Spectre Leggings
+=> Spectre Boots
+=> Spectre Sword
+=> Club Hammer
+=> Point Chisel
+=> Point Chisel
+=> Carving Chisel
+=> Carving Chisel
+=> Carving Chisel
+=> Carving Chisel
+=> Iron Saw
+=> Stone Saw
+=> Iron Saw
+=> Diamond Saw
+=> Carpentry Hammer
+=> Screwdriver
+=> Seed Bag
+=> Amethyst Saw
+=> Ruby Saw
+=> Sapphire Saw
+GT_Mod: Adding nerfed Vanilla Recipes.
+GT_Mod: Adding Vanilla Convenience Recipes.
+GT_Mod: Adding Tool Recipes.
+GT_Mod: Adding Wool and Color releated Recipes.
+GT_Mod: Putting a Potato on a Stick.
+GT_Mod: Changed Forestrys Bronze Recipe
+GT_Mod: Adding Mixed Metal Ingot Recipes.
+GT_Mod: Adding Rolling Machine Recipes.
+GT_Mod: Replacing Railcraft Recipes with slightly more OreDicted Variants
+WARNING: Missing Item for shaped Recipe: null
+hX 
+XGX
+ Xf
+X
+nuggetGold
+G
+null
+h
+craftingToolHardHammer
+f
+craftingToolFile
+WARNING: Missing Item for shaped Recipe: null
+hX 
+XGX
+ Xf
+X
+plateAnyIron
+G
+null
+h
+craftingToolHardHammer
+f
+craftingToolFile
+WARNING: Missing Item for shaped Recipe: null
+hX 
+XGX
+ Xf
+X
+plateSteel
+G
+null
+h
+craftingToolHardHammer
+f
+craftingToolFile
+WARNING: Missing Item for shaped Recipe: null
+PPP
+hGw
+OTO
+P
+nuggetGold
+O
+null
+G
+1xtile.glass@32767
+T
+craftingPiston
+h
+craftingToolHardHammer
+w
+craftingToolWrench
+WARNING: Missing Item for shaped Recipe: null
+PPP
+hGw
+OTO
+P
+plateAnyIron
+O
+null
+G
+1xtile.glass@32767
+T
+craftingPiston
+h
+craftingToolHardHammer
+w
+craftingToolWrench
+WARNING: Missing Item for shaped Recipe: null
+PPP
+hGw
+OTO
+P
+plateSteel
+O
+null
+G
+1xtile.glass@32767
+T
+craftingPiston
+h
+craftingToolHardHammer
+w
+craftingToolWrench
+WARNING: Missing Item for shaped Recipe: null
+GPG
+PAP
+GPG
+P
+craftingPiston
+A
+craftingAnvil
+G
+null
+WARNING: Missing Item for shaped Recipe: null
+PPP
+RwR
+RRR
+P
+plateAnyIron
+R
+null
+w
+craftingToolWrench
+WARNING: Missing Item for shaped Recipe: null
+ I 
+ T 
+ D 
+I
+1xtile.fenceIron@32767
+T
+null
+D
+1xtile.dispenser@32767
+WARNING: Missing Item for shaped Recipe: null
+ I 
+RTR
+ D 
+I
+1xtile.fenceIron@32767
+T
+null
+D
+1xtile.dispenser@32767
+R
+dustRedstone
+WARNING: Missing Item for shaped Recipe: null
+RTR
+T
+null
+R
+dustRedstone
+WARNING: Missing Item for shaped Recipe: null
+SSS
+SBS
+SSS
+B
+blockSteel
+S
+null
+WARNING: Missing Item for shaped Recipe: null
+SSS
+ w 
+S
+null
+w
+craftingToolWrench
+WARNING: Missing Item for shaped Recipe: null
+TTF
+TTF
+BCC
+C
+1xitem.minecart@0
+T
+null
+F
+null
+B
+1xtile.fenceIron@32767
+WARNING: Missing Item for shaped Recipe: null
+LPw
+PEP
+GCG
+C
+1xitem.minecart@0
+E
+null
+G
+null
+L
+1xtile.redstoneLight@32767
+P
+plateSteel
+w
+craftingToolWrench
+GT_Mod: Beginning to add regular Crafting Recipes.
+GT_Mod: Applying harder Recipes for several Blocks.
+GT_Mod: Applying Recipes for Tools
+GT_Mod: Removing Q-Armor Recipes if configured.
+GT_Mod: Adding buffered Recipes.
+GT_Mod: Saving Lang File.
+GT_Mod: PostLoad-Phase finished!
+GT_Mod: Adding Fake Recipes for NEI
+achievement.Lignite=Find Lignite Ore
+achievement.Lignite.desc=Height: 50-130, Chance: 160, Overworld//
+achievement.Lignite=
+achievement.Lignite.desc=
+achievement.Coal=Find Coal Ore
+achievement.Coal.desc=Height: 50-130, Chance: 160, Overworld//
+achievement.Coal=
+achievement.Coal.desc=
+achievement.Magnetite=Find Magnetite Ore
+achievement.Magnetite.desc=Height: 50-120, Chance: 160, Overworld/Nether/
+achievement.Magnetite=
+achievement.Magnetite.desc=
+achievement.Iron=Find Iron Ore
+achievement.Iron.desc=Height: 50-120, Chance: 160, Overworld/Nether/
+achievement.Iron=
+achievement.Iron.desc=
+achievement.VanadiumMagnetite=Find VanadiumMagnetite Ore
+achievement.VanadiumMagnetite.desc=Height: 50-120, Chance: 160, Overworld/Nether/
+achievement.VanadiumMagnetite=
+achievement.VanadiumMagnetite.desc=
+achievement.Gold=Find Gold Ore
+achievement.Gold.desc=Height: 60-80, Chance: 160, Overworld//
+achievement.Gold=
+achievement.Gold.desc=
+achievement.BrownLimonite=Find BrownLimonite Ore
+achievement.BrownLimonite.desc=Height: 10-40, Chance: 120, Overworld/Nether/
+achievement.BrownLimonite=
+achievement.BrownLimonite.desc=
+achievement.YellowLimonite=Find YellowLimonite Ore
+achievement.YellowLimonite.desc=Height: 10-40, Chance: 120, Overworld/Nether/
+achievement.YellowLimonite=
+achievement.YellowLimonite.desc=
+achievement.BandedIron=Find BandedIron Ore
+achievement.BandedIron.desc=Height: 10-40, Chance: 120, Overworld/Nether/
+achievement.BandedIron=
+achievement.BandedIron.desc=
+achievement.Malachite=Find Malachite Ore
+achievement.Malachite.desc=Height: 10-40, Chance: 120, Overworld/Nether/
+achievement.Malachite=
+achievement.Malachite.desc=
+achievement.Tin=Find Tin Ore
+achievement.Tin.desc=Height: 40-120, Chance: 50, Overworld//End
+achievement.Tin=
+achievement.Tin.desc=
+achievement.Cassiterite=Find Cassiterite Ore
+achievement.Cassiterite.desc=Height: 40-120, Chance: 50, Overworld//End
+achievement.Cassiterite=
+achievement.Cassiterite.desc=
+achievement.Tetrahedrite=Find Tetrahedrite Ore
+achievement.Tetrahedrite.desc=Height: 80-120, Chance: 70, Overworld/Nether/
+achievement.Tetrahedrite=
+achievement.Tetrahedrite.desc=
+achievement.Copper=Find Copper Ore
+achievement.Copper.desc=Height: 80-120, Chance: 70, Overworld/Nether/
+achievement.Copper=
+achievement.Copper.desc=
+achievement.Stibnite=Find Stibnite Ore
+achievement.Stibnite.desc=Height: 80-120, Chance: 70, Overworld/Nether/
+achievement.Stibnite=
+achievement.Stibnite.desc=
+achievement.NetherQuartz=Find NetherQuartz Ore
+achievement.NetherQuartz.desc=Height: 40-80, Chance: 80, /Nether/
+achievement.NetherQuartz=
+achievement.NetherQuartz.desc=
+achievement.Sulfur=Find Sulfur Ore
+achievement.Sulfur.desc=Height: 5-20, Chance: 100, /Nether/
+achievement.Sulfur=
+achievement.Sulfur.desc=
+achievement.Pyrite=Find Pyrite Ore
+achievement.Pyrite.desc=Height: 5-20, Chance: 100, /Nether/
+achievement.Pyrite=
+achievement.Pyrite.desc=
+achievement.Sphalerite=Find Sphalerite Ore
+achievement.Sphalerite.desc=Height: 5-20, Chance: 100, /Nether/
+achievement.Sphalerite=
+achievement.Sphalerite.desc=
+achievement.Chalcopyrite=Find Chalcopyrite Ore
+achievement.Chalcopyrite.desc=Height: 10-30, Chance: 80, Overworld/Nether/
+achievement.Chalcopyrite=
+achievement.Chalcopyrite.desc=
+achievement.Bauxite=Find Bauxite Ore
+achievement.Bauxite.desc=Height: 50-90, Chance: 80, Overworld//
+achievement.Bauxite=
+achievement.Bauxite.desc=
+achievement.Aluminium=Find Aluminium Ore
+achievement.Aluminium.desc=Height: 50-90, Chance: 80, Overworld//
+achievement.Aluminium=
+achievement.Aluminium.desc=
+achievement.Ilmenite=Find Ilmenite Ore
+achievement.Ilmenite.desc=Height: 50-90, Chance: 80, Overworld//
+achievement.Ilmenite=
+achievement.Ilmenite.desc=
+achievement.RockSalt=Find RockSalt Ore
+achievement.RockSalt.desc=Height: 50-60, Chance: 50, Overworld//
+achievement.RockSalt=
+achievement.RockSalt.desc=
+achievement.Salt=Find Salt Ore
+achievement.Salt.desc=Height: 50-60, Chance: 50, Overworld//
+achievement.Salt=
+achievement.Salt.desc=
+achievement.Lepidolite=Find Lepidolite Ore
+achievement.Lepidolite.desc=Height: 50-60, Chance: 50, Overworld//
+achievement.Lepidolite=
+achievement.Lepidolite.desc=
+achievement.Spodumene=Find Spodumene Ore
+achievement.Spodumene.desc=Height: 50-60, Chance: 50, Overworld//
+achievement.Spodumene=
+achievement.Spodumene.desc=
+achievement.Redstone=Find Redstone Ore
+achievement.Redstone.desc=Height: 10-40, Chance: 60, Overworld/Nether/
+achievement.Redstone=
+achievement.Redstone.desc=
+achievement.Ruby=Find Ruby Ore
+achievement.Ruby.desc=Height: 10-40, Chance: 60, Overworld/Nether/
+achievement.Ruby=
+achievement.Ruby.desc=
+achievement.Cinnabar=Find Cinnabar Ore
+achievement.Cinnabar.desc=Height: 10-40, Chance: 60, Overworld/Nether/
+achievement.Cinnabar=
+achievement.Cinnabar.desc=
+achievement.Soapstone=Find Soapstone Ore
+achievement.Soapstone.desc=Height: 10-40, Chance: 40, Overworld//
+achievement.Soapstone=
+achievement.Soapstone.desc=
+achievement.Talc=Find Talc Ore
+achievement.Talc.desc=Height: 10-40, Chance: 40, Overworld//
+achievement.Talc=
+achievement.Talc.desc=
+achievement.Glauconite=Find Glauconite Ore
+achievement.Glauconite.desc=Height: 10-40, Chance: 40, Overworld//
+achievement.Glauconite=
+achievement.Glauconite.desc=
+achievement.Pentlandite=Find Pentlandite Ore
+achievement.Pentlandite.desc=Height: 10-40, Chance: 40, Overworld//
+achievement.Pentlandite=
+achievement.Pentlandite.desc=
+achievement.Garnierite=Find Garnierite Ore
+achievement.Garnierite.desc=Height: 10-40, Chance: 40, Overworld/Nether/End
+achievement.Garnierite=
+achievement.Garnierite.desc=
+achievement.Nickel=Find Nickel Ore
+achievement.Nickel.desc=Height: 10-40, Chance: 40, Overworld/Nether/End
+achievement.Nickel=
+achievement.Nickel.desc=
+achievement.Cobaltite=Find Cobaltite Ore
+achievement.Cobaltite.desc=Height: 10-40, Chance: 40, Overworld/Nether/End
+achievement.Cobaltite=
+achievement.Cobaltite.desc=
+achievement.Cooperite=Find Cooperite Ore
+achievement.Cooperite.desc=Height: 40-50, Chance: 5, Overworld//End
+achievement.Cooperite=
+achievement.Cooperite.desc=
+achievement.Palladium=Find Palladium Ore
+achievement.Palladium.desc=Height: 40-50, Chance: 5, Overworld//End
+achievement.Palladium=
+achievement.Palladium.desc=
+achievement.Platinum=Find Platinum Ore
+achievement.Platinum.desc=Height: 40-50, Chance: 5, Overworld//End
+achievement.Platinum=
+achievement.Platinum.desc=
+achievement.Iridium=Find Iridium Ore
+achievement.Iridium.desc=Height: 40-50, Chance: 5, Overworld//End
+achievement.Iridium=
+achievement.Iridium.desc=
+achievement.Pitchblende=Find Pitchblende Ore
+achievement.Pitchblende.desc=Height: 10-40, Chance: 40, Overworld//
+achievement.Pitchblende=
+achievement.Pitchblende.desc=
+achievement.Uranium=Find Uranium Ore
+achievement.Uranium.desc=Height: 10-40, Chance: 40, Overworld//
+achievement.Uranium=
+achievement.Uranium.desc=
+achievement.Uraninite=Find Uraninite Ore
+achievement.Uraninite.desc=Height: 10-40, Chance: 40, Overworld//
+achievement.Uraninite=
+achievement.Uraninite.desc=
+achievement.Plutonium=Find Plutonium Ore
+achievement.Plutonium.desc=Height: 20-30, Chance: 10, Overworld//
+achievement.Plutonium=
+achievement.Plutonium.desc=
+achievement.Bastnasite=Find Bastnasite Ore
+achievement.Bastnasite.desc=Height: 20-40, Chance: 30, Overworld//
+achievement.Bastnasite=
+achievement.Bastnasite.desc=
+achievement.Monazite=Find Monazite Ore
+achievement.Monazite.desc=Height: 20-40, Chance: 30, Overworld//
+achievement.Monazite=
+achievement.Monazite.desc=
+achievement.Neodymium=Find Neodymium Ore
+achievement.Neodymium.desc=Height: 20-40, Chance: 30, Overworld//
+achievement.Neodymium=
+achievement.Neodymium.desc=
+achievement.Wulfenite=Find Wulfenite Ore
+achievement.Wulfenite.desc=Height: 20-50, Chance: 5, Overworld//End
+achievement.Wulfenite=
+achievement.Wulfenite.desc=
+achievement.Molybdenite=Find Molybdenite Ore
+achievement.Molybdenite.desc=Height: 20-50, Chance: 5, Overworld//End
+achievement.Molybdenite=
+achievement.Molybdenite.desc=
+achievement.Molybdenum=Find Molybdenum Ore
+achievement.Molybdenum.desc=Height: 20-50, Chance: 5, Overworld//End
+achievement.Molybdenum=
+achievement.Molybdenum.desc=
+achievement.Powellite=Find Powellite Ore
+achievement.Powellite.desc=Height: 20-50, Chance: 5, Overworld//End
+achievement.Powellite=
+achievement.Powellite.desc=
+achievement.Scheelite=Find Scheelite Ore
+achievement.Scheelite.desc=Height: 20-50, Chance: 10, Overworld//End
+achievement.Scheelite=
+achievement.Scheelite.desc=
+achievement.Tungstate=Find Tungstate Ore
+achievement.Tungstate.desc=Height: 20-50, Chance: 10, Overworld//End
+achievement.Tungstate=
+achievement.Tungstate.desc=
+achievement.Lithium=Find Lithium Ore
+achievement.Lithium.desc=Height: 20-50, Chance: 10, Overworld//End
+achievement.Lithium=
+achievement.Lithium.desc=
+achievement.Almandine=Find Almandine Ore
+achievement.Almandine.desc=Height: 10-40, Chance: 60, Overworld//
+achievement.Almandine=
+achievement.Almandine.desc=
+achievement.Pyrope=Find Pyrope Ore
+achievement.Pyrope.desc=Height: 10-40, Chance: 60, Overworld//
+achievement.Pyrope=
+achievement.Pyrope.desc=
+achievement.Sapphire=Find Sapphire Ore
+achievement.Sapphire.desc=Height: 10-40, Chance: 60, Overworld//
+achievement.Sapphire=
+achievement.Sapphire.desc=
+achievement.GreenSapphire=Find GreenSapphire Ore
+achievement.GreenSapphire.desc=Height: 10-40, Chance: 60, Overworld//
+achievement.GreenSapphire=
+achievement.GreenSapphire.desc=
+achievement.Grossular=Find Grossular Ore
+achievement.Grossular.desc=Height: 20-30, Chance: 20, Overworld//End
+achievement.Grossular=
+achievement.Grossular.desc=
+achievement.Spessartine=Find Spessartine Ore
+achievement.Spessartine.desc=Height: 20-30, Chance: 20, Overworld//End
+achievement.Spessartine=
+achievement.Spessartine.desc=
+achievement.Pyrolusite=Find Pyrolusite Ore
+achievement.Pyrolusite.desc=Height: 20-30, Chance: 20, Overworld//End
+achievement.Pyrolusite=
+achievement.Pyrolusite.desc=
+achievement.Tantalite=Find Tantalite Ore
+achievement.Tantalite.desc=Height: 20-30, Chance: 20, Overworld//End
+achievement.Tantalite=
+achievement.Tantalite.desc=
+achievement.Quartzite=Find Quartzite Ore
+achievement.Quartzite.desc=Height: 40-80, Chance: 60, Overworld//
+achievement.Quartzite=
+achievement.Quartzite.desc=
+achievement.Barite=Find Barite Ore
+achievement.Barite.desc=Height: 40-80, Chance: 60, Overworld//
+achievement.Barite=
+achievement.Barite.desc=
+achievement.CertusQuartz=Find CertusQuartz Ore
+achievement.CertusQuartz.desc=Height: 40-80, Chance: 60, Overworld//
+achievement.CertusQuartz=
+achievement.CertusQuartz.desc=
+achievement.Graphite=Find Graphite Ore
+achievement.Graphite.desc=Height: 5-20, Chance: 40, Overworld//
+achievement.Graphite=
+achievement.Graphite.desc=
+achievement.Diamond=Find Diamond Ore
+achievement.Diamond.desc=Height: 5-20, Chance: 40, Overworld//
+achievement.Diamond=
+achievement.Diamond.desc=
+achievement.Bentonite=Find Bentonite Ore
+achievement.Bentonite.desc=Height: 10-40, Chance: 60, Overworld//End
+achievement.Bentonite=
+achievement.Bentonite.desc=
+achievement.Magnesite=Find Magnesite Ore
+achievement.Magnesite.desc=Height: 10-40, Chance: 60, Overworld//End
+achievement.Magnesite=
+achievement.Magnesite.desc=
+achievement.Olivine=Find Olivine Ore
+achievement.Olivine.desc=Height: 10-40, Chance: 60, Overworld//End
+achievement.Olivine=
+achievement.Olivine.desc=
+achievement.Apatite=Find Apatite Ore
+achievement.Apatite.desc=Height: 40-60, Chance: 60, Overworld//
+achievement.Apatite=
+achievement.Apatite.desc=
+achievement.Phosphorus=Find Phosphorus Ore
+achievement.Phosphorus.desc=Height: 40-60, Chance: 60, Overworld//
+achievement.Phosphorus=
+achievement.Phosphorus.desc=
+achievement.Phosphate=Find Phosphate Ore
+achievement.Phosphate.desc=Height: 40-60, Chance: 60, Overworld//
+achievement.Phosphate=
+achievement.Phosphate.desc=
+achievement.Galena=Find Galena Ore
+achievement.Galena.desc=Height: 30-60, Chance: 40, Overworld//
+achievement.Galena=
+achievement.Galena.desc=
+achievement.Silver=Find Silver Ore
+achievement.Silver.desc=Height: 30-60, Chance: 40, Overworld//
+achievement.Silver=
+achievement.Silver.desc=
+achievement.Lead=Find Lead Ore
+achievement.Lead.desc=Height: 30-60, Chance: 40, Overworld//
+achievement.Lead=
+achievement.Lead.desc=
+achievement.Lazurite=Find Lazurite Ore
+achievement.Lazurite.desc=Height: 20-50, Chance: 40, Overworld//End
+achievement.Lazurite=
+achievement.Lazurite.desc=
+achievement.Sodalite=Find Sodalite Ore
+achievement.Sodalite.desc=Height: 20-50, Chance: 40, Overworld//End
+achievement.Sodalite=
+achievement.Sodalite.desc=
+achievement.Lapis=Find Lapis Ore
+achievement.Lapis.desc=Height: 20-50, Chance: 40, Overworld//End
+achievement.Lapis=
+achievement.Lapis.desc=
+achievement.Calcite=Find Calcite Ore
+achievement.Calcite.desc=Height: 20-50, Chance: 40, Overworld//End
+achievement.Calcite=
+achievement.Calcite.desc=
+achievement.Beryllium=Find Beryllium Ore
+achievement.Beryllium.desc=Height: 5-30, Chance: 30, Overworld//End
+achievement.Beryllium=
+achievement.Beryllium.desc=
+achievement.Emerald=Find Emerald Ore
+achievement.Emerald.desc=Height: 5-30, Chance: 30, Overworld//End
+achievement.Emerald=
+achievement.Emerald.desc=
+achievement.Thorium=Find Thorium Ore
+achievement.Thorium.desc=Height: 5-30, Chance: 30, Overworld//End
+achievement.Thorium=
+achievement.Thorium.desc=
+achievement.flintpick=
+achievement.flintpick.desc=
+achievement.crops=
+achievement.crops.desc=
+achievement.havestlead=
+achievement.havestlead.desc=
+achievement.havestcopper=
+achievement.havestcopper.desc=
+achievement.havesttin=
+achievement.havesttin.desc=
+achievement.havestoil=
+achievement.havestoil.desc=
+achievement.havestiron=
+achievement.havestiron.desc=
+achievement.havestgold=
+achievement.havestgold.desc=
+achievement.havestsilver=
+achievement.havestsilver.desc=
+achievement.havestemeralds=
+achievement.havestemeralds.desc=
+achievement.tools=
+achievement.tools.desc=
+achievement.driltime=
+achievement.driltime.desc=
+achievement.brrrr=
+achievement.brrrr.desc=
+achievement.highpowerdrill=
+achievement.highpowerdrill.desc=
+achievement.hammertime=
+achievement.hammertime.desc=
+achievement.repair=
+achievement.repair.desc=
+achievement.unitool=
+achievement.unitool.desc=
+achievement.recycling=
+achievement.recycling.desc=
+achievement.crushed=
+achievement.crushed.desc=
+achievement.cleandust=
+achievement.cleandust.desc=
+achievement.washing=
+achievement.washing.desc=
+achievement.spinit=
+achievement.spinit.desc=
+achievement.newfuel=
+achievement.newfuel.desc=
+achievement.newmetal=
+achievement.newmetal.desc=
+achievement.reflect=
+achievement.reflect.desc=
+achievement.bronze=
+achievement.bronze.desc=
+achievement.simplyeco=
+achievement.simplyeco.desc=
+achievement.firststeam=
+achievement.firststeam.desc=
+achievement.alloysmelter=
+achievement.alloysmelter.desc=
+achievement.macerator=
+achievement.macerator.desc=
+achievement.extract=
+achievement.extract.desc=
+achievement.smallparts=
+achievement.smallparts.desc=
+achievement.bettercircuits=
+achievement.bettercircuits.desc=
+achievement.stepforward=
+achievement.stepforward.desc=
+achievement.energyflow=
+achievement.energyflow.desc=
+achievement.orbs=
+achievement.orbs.desc=
+achievement.thatspower=
+achievement.thatspower.desc=
+achievement.datasaving=
+achievement.datasaving.desc=
+achievement.superbuffer=
+achievement.superbuffer.desc=
+achievement.newstorage=
+achievement.newstorage.desc=
+achievement.whereistheocean=
+achievement.whereistheocean.desc=
+achievement.luck=
+achievement.luck.desc=
+achievement.steel=
+achievement.steel.desc=
+achievement.highpressure=
+achievement.highpressure.desc=
+achievement.extremepressure=
+achievement.extremepressure.desc=
+achievement.cheapermac=
+achievement.cheapermac.desc=
+achievement.complexalloys=
+achievement.complexalloys.desc=
+achievement.magneticiron=
+achievement.magneticiron.desc=
+achievement.lvmotor=
+achievement.lvmotor.desc=
+achievement.pumpcover=
+achievement.pumpcover.desc=
+achievement.closeit=
+achievement.closeit.desc=
+achievement.slurp=
+achievement.slurp.desc=
+achievement.transport=
+achievement.transport.desc=
+achievement.manipulation=
+achievement.manipulation.desc=
+achievement.buffer=
+achievement.buffer.desc=
+achievement.complexmachines=
+achievement.complexmachines.desc=
+achievement.avengers=
+achievement.avengers.desc=
+achievement.filterregulate=
+achievement.filterregulate.desc=
+achievement.steampower=
+achievement.steampower.desc=
+achievement.batterys=
+achievement.batterys.desc=
+achievement.badweather=
+achievement.badweather.desc=
+achievement.electricproblems=
+achievement.electricproblems.desc=
+achievement.ebf=
+achievement.ebf.desc=
+achievement.energyhatch=
+achievement.energyhatch.desc=
+achievement.aluminium=
+achievement.aluminium.desc=
+achievement.highpowersmelt=
+achievement.highpowersmelt.desc=
+achievement.oilplant=
+achievement.oilplant.desc=
+achievement.factory=
+achievement.factory.desc=
+achievement.upgradeebf=
+achievement.upgradeebf.desc=
+achievement.maintainance=
+achievement.maintainance.desc=
+achievement.titan=
+achievement.titan.desc=
+achievement.magic=
+achievement.magic.desc=
+achievement.highmage=
+achievement.highmage.desc=
+achievement.artificaldia=
+achievement.artificaldia.desc=
+achievement.muchsteam=
+achievement.muchsteam.desc=
+achievement.efficientsteam=
+achievement.efficientsteam.desc=
+achievement.upgrade=
+achievement.upgrade.desc=
+achievement.tungsten=
+achievement.tungsten.desc=
+achievement.hightech=
+achievement.hightech.desc=
+achievement.amplifier=
+achievement.amplifier.desc=
+achievement.scanning=
+achievement.scanning.desc=
+achievement.alienpower=
+achievement.alienpower.desc=
+achievement.universal=
+achievement.universal.desc=
+achievement.replication=
+achievement.replication.desc=
+achievement.upgrade2=
+achievement.upgrade2.desc=
+achievement.tungstensteel=
+achievement.tungstensteel.desc=
+achievement.conducting=
+achievement.conducting.desc=
+achievement.fusion=
+achievement.fusion.desc=
+achievement.higherefficency=
+achievement.higherefficency.desc=
+achievement.advancing=
+achievement.advancing.desc=
+achievement.tothelimit=
+achievement.tothelimit.desc=
+achievement.denseaspossible=
+achievement.denseaspossible.desc=
+achievement.fullefficiency=
+achievement.fullefficiency.desc=
+achievement.whatnow=
+achievement.whatnow.desc=
+GT_Mod: Loading finished, deallocating temporary Init Variables.
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
+GT_Mod: ServerStarting-Phase started!
+GT_Mod: Unificating outputs of all known Recipe Types.
+GT_Mod: IC2 Machines
+GT_Mod: Dungeon Loot
+GT_Mod: Smelting
+GT_Mod: Crafting Recipes
+GT_Mod: ServerStarting-Phase finished!
+GT_Mod: Cleaning up all OreDict Crafting Recipes, which have an empty List in them, since they are never meeting any Condition.
+Industrialcraft Version: 757
+net.minecraft.util.ReportedException: Exception getting block type in world
+	at net.minecraft.world.World.func_147439_a(World.java:354)
+	at net.minecraft.world.World.func_147453_f(World.java:3881)
+	at net.minecraft.world.World.func_147455_a(World.java:2603)
+	at net.minecraft.world.chunk.Chunk.func_150806_e(Chunk.java:851)
+	at net.minecraft.world.chunk.Chunk.func_150807_a(Chunk.java:660)
+	at net.minecraft.world.World.func_147465_d(World.java:451)
+	at gregtech.common.blocks.GT_TileEntity_Ores.setOreBlock(GT_TileEntity_Ores.java:126)
+	at gregtech.common.GT_Worldgen_GT_Ore_Layer.executeWorldgen(GT_Worldgen_GT_Ore_Layer.java:75)
+	at gregtech.common.GT_Worldgenerator$WorldGenContainer.run(GT_Worldgenerator.java:85)
+	at gregtech.common.GT_Worldgenerator.generate(GT_Worldgenerator.java:37)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	at net.minecraft.world.World.func_147466_a(World.java:2626)
+	at net.minecraft.world.SpawnerAnimals.func_77190_a(SpawnerAnimals.java:308)
+	at net.minecraft.world.SpawnerAnimals.func_77192_a(SpawnerAnimals.java:178)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:161)
+	at WorldServerOF.func_72835_b(WorldServerOF.java:234)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.IllegalStateException: reentrant biome decoration
+	at fastcraft.a.b.a(F:49)
+	at fastcraft.Hooks.z(F:192)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java)
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339)
+	at net.minecraft.world.gen.ChunkProviderGenerate.func_73153_a(ChunkProviderGenerate.java:421)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050)
+	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:52)
+	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage2(ChunkIOProvider.java:12)
+	at net.minecraftforge.common.util.AsynchronousExecutor.skipQueue(AsynchronousExecutor.java:344)
+	at net.minecraftforge.common.util.AsynchronousExecutor.getSkipQueue(AsynchronousExecutor.java:302)
+	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:12)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:126)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_72938_d(World.java:414)
+	at net.minecraft.world.World.func_72825_h(World.java:1742)
+	at vazkii.botania.common.core.handler.BiomeDecorationHandler.onWorldDecoration(BiomeDecorationHandler.java:41)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_695_BiomeDecorationHandler_onWorldDecoration_Decorate.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138)
+	at net.minecraftforge.event.terraingen.TerrainGen.decorate(TerrainGen.java:43)
+	at net.minecraft.world.biome.BiomeDecorator.func_150513_a(BiomeDecorator.java:176)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java:105)
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339)
+	at net.minecraft.world.gen.ChunkProviderGenerate.func_73153_a(ChunkProviderGenerate.java:421)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1045)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	... 30 more
+net.minecraft.util.ReportedException: Exception getting block type in world
+	at net.minecraft.world.World.func_147439_a(World.java:354)
+	at gregtech.common.blocks.GT_TileEntity_Ores.setOreBlock(GT_TileEntity_Ores.java:102)
+	at gregtech.common.GT_Worldgen_GT_Ore_Layer.executeWorldgen(GT_Worldgen_GT_Ore_Layer.java:75)
+	at gregtech.common.GT_Worldgenerator$WorldGenContainer.run(GT_Worldgenerator.java:85)
+	at gregtech.common.GT_Worldgenerator.generate(GT_Worldgenerator.java:37)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	at net.minecraft.world.World.func_147466_a(World.java:2626)
+	at net.minecraft.world.SpawnerAnimals.func_77190_a(SpawnerAnimals.java:308)
+	at net.minecraft.world.SpawnerAnimals.func_77192_a(SpawnerAnimals.java:178)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:161)
+	at WorldServerOF.func_72835_b(WorldServerOF.java:234)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.IllegalStateException: reentrant biome decoration
+	at fastcraft.a.b.a(F:49)
+	at fastcraft.Hooks.z(F:192)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java)
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339)
+	at net.minecraft.world.gen.ChunkProviderGenerate.func_73153_a(ChunkProviderGenerate.java:421)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	... 25 more
+net.minecraft.util.ReportedException: Exception getting block type in world
+	at net.minecraft.world.World.func_147439_a(World.java:354)
+	at gregtech.common.GT_Worldgen_Stone.executeWorldgen(GT_Worldgen_Stone.java:66)
+	at gregtech.common.GT_Worldgenerator$WorldGenContainer.run(GT_Worldgenerator.java:112)
+	at gregtech.common.GT_Worldgenerator.generate(GT_Worldgenerator.java:37)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	at net.minecraft.world.World.func_147466_a(World.java:2626)
+	at net.minecraft.world.SpawnerAnimals.func_77190_a(SpawnerAnimals.java:308)
+	at net.minecraft.world.SpawnerAnimals.func_77192_a(SpawnerAnimals.java:178)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:161)
+	at WorldServerOF.func_72835_b(WorldServerOF.java:234)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.IllegalStateException: reentrant biome decoration
+	at fastcraft.a.b.a(F:49)
+	at fastcraft.Hooks.z(F:192)
+	at net.minecraft.world.biome.BiomeDecorator.func_150512_a(BiomeDecorator.java)
+	at net.minecraft.world.biome.BiomeGenBase.func_76728_a(BiomeGenBase.java:339)
+	at net.minecraft.world.gen.ChunkProviderGenerate.func_73153_a(ChunkProviderGenerate.java:421)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:279)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1045)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.World.func_147439_a(World.java:345)
+	... 24 more
