@@ -1,0 +1,799 @@
+[05:49:03] [main/INFO]: Setting user: BogdanG
+[05:49:15] [Client thread/INFO]: LWJGL Version: 2.9.4
+[05:50:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:AquaTweaks, FMLFileResourcePack:Backpack, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mutant Creatures, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Zombie Awareness, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, ChromaHills-128x_1.7v11.zip
+[05:50:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:50:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:50:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:50:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:50:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:50:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:53:34] [Sound Library Loader/INFO]: Sound engine started
+[05:59:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:AquaTweaks, FMLFileResourcePack:Backpack, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mutant Creatures, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Zombie Awareness, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, LiteLoader, WorldEditCUI, WorldEditWrapper, VoxelMap, FMLFileResourcePack:Carpenter's Blocks Cached Resources, ChromaHills-128x_1.7v11.zip
+[05:59:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:59:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:59:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:59:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:59:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[05:59:39] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:AquaTweaks, FMLFileResourcePack:Backpack, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mutant Creatures, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Zombie Awareness, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, LiteLoader, WorldEditCUI, WorldEditWrapper, VoxelMap, FMLFileResourcePack:Carpenter's Blocks Cached Resources, ChromaHills-128x_1.7v11.zip
+[06:00:07] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:07] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:07] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:07] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:07] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:07] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:33] [Sound Library Loader/INFO]: Sound engine started
+[06:00:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Aether II, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AdventOfAscension, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:AquaTweaks, FMLFileResourcePack:Backpack, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Blue Power, FMLFileResourcePack:Botania, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Transport, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:ComputerCraft, FMLFileResourcePack:Build Mod, FMLFileResourcePack:CoroPets, FMLFileResourcePack:CoroAI, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:DragonAPI, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:EvilCraft, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:GeoStrata, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:GraveStone, FMLFileResourcePack:GregTech, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Lycanites Mobs, FMLFileResourcePack:Lycanites Arctic Mobs, FMLFileResourcePack:Lycanites Demon Mobs, FMLFileResourcePack:Lycanites Desert Mobs, FMLFileResourcePack:Lycanites Forest Mobs, FMLFileResourcePack:Lycanites Freshwater Mobs, FMLFileResourcePack:Lycanites Inferno Mobs, FMLFileResourcePack:Lycanites Jungle Mobs, FMLFileResourcePack:Lycanites Mountain Mobs, FMLFileResourcePack:Lycanites Plains Mobs, FMLFileResourcePack:Lycanites Saltwater Mobs, FMLFileResourcePack:Lycanites Shadow Mobs, FMLFileResourcePack:Lycanites Swamp Mobs, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Magic Crusade, FMLFileResourcePack:Mantle, FMLFileResourcePack:§9MrCrayfish's Furniture Mod, FMLFileResourcePack:Mutant Creatures, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature Overhaul, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:Oceancraft, FMLFileResourcePack:Pam's Clay Spawn, FMLFileResourcePack:Pam's DesertCraft, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pam's Temperate Plants, FMLFileResourcePack:Pam's Weee! Flowers, FMLFileResourcePack:Power Converters, FMLFileResourcePack:Primitive Mobs, FMLFileResourcePack:QmunityLib, FMLFileResourcePack:Random Things, FMLFileResourcePack:Sampler, FMLFileResourcePack:Special AI, FMLFileResourcePack:Special Mobs, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Tropicraft, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Underground Biomes Constructs, FMLFileResourcePack:vChat, FMLFileResourcePack:Waila, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Witchery, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Zombie Awareness, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, LiteLoader, WorldEditCUI, WorldEditWrapper, VoxelMap, FMLFileResourcePack:Carpenter's Blocks Cached Resources, ChromaHills-128x_1.7v11.zip
+[06:00:40] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:40] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:40] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:40] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:40] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:00:40] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in D:\nmine\mods\BloodMagic-1.7.10-1.3.3-11.jar
+[06:01:00] [Sound Library Loader/INFO]: Sound engine started
+[06:02:07] [Client thread/INFO]: Deleting level UGB 37
+[06:02:07] [Client thread/INFO]: Attempt 1...
+[06:02:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[06:02:20] [Server thread/INFO]: Generating keypair
+[06:02:21] [Server thread/INFO]: Converting map!
+[06:02:21] [Server thread/INFO]: Scanning folders...
+[06:02:21] [Server thread/INFO]: Total conversion count is 0
+[06:02:30] [Server thread/WARN]: Unable to find spawn biome
+[06:02:34] [Server thread/WARN]: Unable to find spawn biome
+[06:02:35] [Server thread/WARN]: Unable to find spawn biome
+[06:02:37] [Server thread/INFO]: Preparing start region for level 0
+[06:02:39] [Server thread/INFO]: Preparing spawn area: 4%
+[06:02:40] [Server thread/INFO]: Preparing spawn area: 5%
+[06:02:41] [Server thread/INFO]: Preparing spawn area: 6%
+[06:02:48] [Server thread/INFO]: Preparing spawn area: 6%
+[06:02:49] [Server thread/INFO]: Preparing spawn area: 7%
+[06:02:50] [Server thread/INFO]: Preparing spawn area: 7%
+[06:02:52] [Server thread/INFO]: Preparing spawn area: 8%
+[06:02:53] [Server thread/INFO]: Preparing spawn area: 8%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 9%
+[06:03:00] [Server thread/INFO]: Preparing spawn area: 9%
+[06:03:01] [Server thread/INFO]: Preparing spawn area: 11%
+[06:03:04] [Server thread/INFO]: Preparing spawn area: 12%
+[06:03:05] [Server thread/INFO]: Preparing spawn area: 18%
+[06:03:06] [Server thread/INFO]: Preparing spawn area: 20%
+[06:03:07] [Server thread/INFO]: Preparing spawn area: 21%
+[06:03:08] [Server thread/INFO]: Preparing spawn area: 23%
+[06:03:10] [Server thread/INFO]: Preparing spawn area: 28%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 30%
+[06:03:17] [Server thread/INFO]: Preparing spawn area: 32%
+[06:03:18] [Server thread/INFO]: Preparing spawn area: 33%
+[06:03:19] [Server thread/INFO]: Preparing spawn area: 34%
+[06:03:20] [Server thread/INFO]: Preparing spawn area: 35%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 40%
+[06:03:22] [Server thread/INFO]: Preparing spawn area: 42%
+[06:03:23] [Server thread/INFO]: Preparing spawn area: 44%
+[06:03:25] [Server thread/INFO]: Preparing spawn area: 45%
+[06:03:26] [Server thread/INFO]: Preparing spawn area: 47%
+[06:03:27] [Server thread/INFO]: Preparing spawn area: 48%
+[06:03:28] [Server thread/INFO]: Preparing spawn area: 54%
+[06:03:29] [Server thread/INFO]: Preparing spawn area: 55%
+[06:03:30] [Server thread/INFO]: Preparing spawn area: 57%
+[06:03:32] [Server thread/INFO]: Preparing spawn area: 58%
+[06:03:34] [Server thread/INFO]: Preparing spawn area: 60%
+[06:03:35] [Server thread/INFO]: Preparing spawn area: 66%
+[06:03:36] [Server thread/INFO]: Preparing spawn area: 67%
+[06:03:37] [Server thread/INFO]: Preparing spawn area: 69%
+[06:03:38] [Server thread/INFO]: Preparing spawn area: 70%
+[06:03:39] [Server thread/INFO]: Preparing spawn area: 77%
+[06:03:41] [Server thread/INFO]: Preparing spawn area: 79%
+[06:03:42] [Server thread/INFO]: Preparing spawn area: 81%
+[06:03:43] [Server thread/INFO]: Preparing spawn area: 82%
+[06:03:44] [Server thread/INFO]: Preparing spawn area: 83%
+[06:03:45] [Server thread/INFO]: Preparing spawn area: 88%
+[06:03:46] [Server thread/INFO]: Preparing spawn area: 90%
+[06:03:47] [Server thread/INFO]: Preparing spawn area: 92%
+[06:03:49] [Server thread/INFO]: Preparing spawn area: 93%
+[06:03:50] [Server thread/INFO]: Preparing spawn area: 94%
+[06:03:51] [Server thread/INFO]: Preparing spawn area: 95%
+[06:03:52] [Server thread/INFO]: Preparing spawn area: 96%
+[06:03:54] [Server thread/INFO]: Preparing spawn area: 96%
+[06:04:04] [Server thread/INFO]: Changing view distance to 8, from 10
+[06:04:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6291ms behind, skipping 125 tick(s)
+[06:04:05] [Server thread/INFO]: BogdanG[local:E:5a642022] logged in with entity id 388 at (907.5, 95.0, 618.5)
+[06:04:05] [Server thread/INFO]: BogdanG joined the game
+[06:04:07] [Server thread/INFO]: BogdanG has just earned the achievement [Welcome to Magic Crusade]
+[06:04:08] [Client thread/INFO]: [CHAT] §ENo waypoints exist for this world/server.
+[06:04:10] [Server thread/INFO]: BogdanG has just earned the achievement [You've been installed!]
+[06:04:11] [Server thread/INFO]: Saving and pausing game...
+[06:04:11] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Overworld
+[06:04:18] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Nether
+[06:04:18] [Server thread/INFO]: Saving chunks for level 'UGB 38'/The Last Millenium
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Wyvern Lair
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Tropics
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/SpectreWorld
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeons
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Aether
+[06:04:19] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Mystic Groves
+[06:04:28] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[06:06:18] [Client thread/INFO]: [CHAT] You have the latest version of: Advent of Ascension.
+[06:06:18] [Client thread/INFO]: [CHAT] Current Event: Minigame Madness!
+[06:06:18] [Client thread/INFO]: [CHAT] Welcome, §e§lBogdanG§r to §oBogdanG - UGB 38§r!
+[06:06:18] [Client thread/INFO]: [CHAT] Currently, there are 1/8 players online.
+[06:06:18] [Client thread/INFO]: [CHAT] You are playing on dimension 0 (§oOverworld§r)
+[06:06:18] [Client thread/INFO]: [CHAT] and the local time is 06:04.
+[06:06:18] [Client thread/INFO]: [CHAT] The server is running vChat to display this motd,
+[06:06:18] [Client thread/INFO]: [CHAT] Have a good one! §o~Vic§r
+[06:06:18] [Client thread/INFO]: [CHAT] You are talking on channel "global".
+[06:06:18] [Client thread/INFO]: [CHAT] Currently joined channels: [local, global]
+[06:06:22] [Server thread/INFO]: Changing view distance to 6, from 8
+[06:06:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4790ms behind, skipping 95 tick(s)
+[06:06:59] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [Welcome to Magic Crusade]
+[06:06:59] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [You've been installed!]
+[06:06:59] [Client thread/INFO]: [CHAT] §bThank you for downloading MrCrayfish's Furniture Mod.
+[06:06:59] [Client thread/INFO]: [CHAT] Make sure you check out the wiki! http://mrcrayfishs-furniture-mod.wikia.com/
+[06:07:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.say
+[06:07:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.say
+[06:07:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.say
+[06:07:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.say
+[06:07:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.say
+[06:07:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.say
+[06:07:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 64680ms behind, skipping 1293 tick(s)
+[06:07:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.say
+[06:07:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2844ms behind, skipping 56 tick(s)
+[06:07:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:07:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.death
+[06:07:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.death
+[06:08:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:08:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 110 ms
+[06:08:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:08:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:08:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerLiving
+[06:08:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11398ms behind, skipping 227 tick(s)
+[06:08:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerDeath
+[06:08:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerDeath
+[06:08:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:FacelessRunnerDeath
+[06:08:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3822ms behind, skipping 76 tick(s)
+[06:08:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joustalpha.death
+[06:08:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:08:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:08:47] [Client thread/INFO]: [CHAT] *BogdanG is now AFK (Auto AFK).
+[06:08:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:09:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:09:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerHit
+[06:09:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerHit
+[06:09:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerHit
+[06:09:13] [Client thread/INFO]: [CHAT] You can press §cP§r on your keyboard to see more informations about §eThe living shadow: The Rogue§r and it spells.
+[06:09:13] [Client thread/INFO]: [CHAT] Don't forget to configure your controls!
+[06:09:34] [Client thread/INFO]: [CHAT] Generating report (takes 2 minutes)...
+[06:09:40] [Client thread/INFO]: [CHAT] *BogdanG is no longer AFK.
+[06:09:42] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 210.025256 ms
+[06:09:42] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 237.441951 ms
+[06:09:42] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 238.369334 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root.tick.level.blocks' took aprox 121.432923 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 187.811181 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 525.378014 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root' took aprox 547.342078 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 168.961792 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 130.056883 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root' took aprox 471.637448 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 129.237059 ms
+[06:09:43] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 148.277343 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 191.942733 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 595.320474 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 651.604261 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick.chunkCheck' took aprox 110.032563 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 117.436434 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 125.850614 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 126.466406 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 140.591029 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 246.998631 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 270.824439 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 100.702085 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 134.429826 ms
+[06:09:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 201.787603 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 122.507274 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 233.598179 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 307.776466 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 416.804878 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 175.525722 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.frustrum' took aprox 122.200199 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 197.483217 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 206.201599 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 485.729639 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 174.69235 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 175.173079 ms
+[06:09:45] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 176.031903 ms
+[06:09:46] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 284.632544 ms
+[06:09:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 109.95251 ms
+[06:09:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 432.286706 ms
+[06:09:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.759059 ms
+[06:09:48] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 328.238409 ms
+[06:09:48] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 336.253555 ms
+[06:09:48] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 346.636217 ms
+[06:09:48] [Client thread/WARN]: Something's taking too long! 'root' took aprox 348.565287 ms
+[06:09:50] [Client thread/WARN]: Something's taking too long! 'root' took aprox 116.28244 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 131.441594 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 138.454231 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 150.845606 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 153.658543 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 197.768124 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 219.079859 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 231.74834 ms
+[06:09:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 244.887285 ms
+[06:09:54] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.684206 ms
+[06:09:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText.debug' took aprox 157.877948 ms
+[06:09:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 160.3522 ms
+[06:09:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 162.087912 ms
+[06:09:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 184.087282 ms
+[06:09:54] [Client thread/WARN]: Something's taking too long! 'root' took aprox 185.621835 ms
+[06:09:56] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.508 ms
+[06:09:58] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.770781 ms
+[06:09:58] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 103.538011 ms
+[06:09:58] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 110.241522 ms
+[06:09:58] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 113.997031 ms
+[06:09:58] [Client thread/WARN]: Something's taking too long! 'root' took aprox 130.582359 ms
+[06:10:01] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.714496 ms
+[06:10:03] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.591837 ms
+[06:10:05] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 102.144679 ms
+[06:10:05] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 104.111519 ms
+[06:10:05] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 104.559816 ms
+[06:10:05] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 105.796736 ms
+[06:10:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 182.442707 ms
+[06:10:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.95835 ms
+[06:10:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 112.710847 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 150.657173 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 160.09603 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 163.64915 ms
+[06:10:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 177.404708 ms
+[06:10:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 101.894258 ms
+[06:10:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 105.483093 ms
+[06:10:08] [Client thread/WARN]: Something's taking too long! 'root' took aprox 122.257263 ms
+[06:10:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 135.505409 ms
+[06:10:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 103.453443 ms
+[06:10:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 111.21242 ms
+[06:10:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 113.612777 ms
+[06:10:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 129.609407 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 133.680612 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 134.061582 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 147.548245 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 150.49132 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 166.400508 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 106.593981 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 107.625228 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 117.393329 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 121.231764 ms
+[06:10:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 181.404482 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.weather' took aprox 106.889151 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 125.129317 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 128.417645 ms
+[06:10:13] [Client thread/WARN]: Something's taking too long! 'root' took aprox 144.444244 ms
+[06:10:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 122.932992 ms
+[06:10:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 130.965792 ms
+[06:10:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 134.162162 ms
+[06:10:14] [Client thread/WARN]: Something's taking too long! 'root' took aprox 136.14378 ms
+[06:10:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 101.412709 ms
+[06:10:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 116.89659 ms
+[06:10:14] [Client thread/WARN]: Something's taking too long! 'root' took aprox 134.490173 ms
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 102.326955 ms
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 136.721393 ms
+[06:10:15] [Client thread/WARN]: Something's taking too long! 'root' took aprox 181.057996 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.blockentities' took aprox 115.328784 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 116.234819 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 129.968619 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 133.456464 ms
+[06:10:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 223.537782 ms
+[06:10:17] [Client thread/WARN]: Something's taking too long! 'root' took aprox 158.942447 ms
+[06:10:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 101.539562 ms
+[06:10:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 109.521045 ms
+[06:10:18] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 112.136519 ms
+[06:10:18] [Client thread/WARN]: Something's taking too long! 'root' took aprox 127.991928 ms
+[06:10:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 101.900416 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 118.719744 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 100.536231 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 107.116584 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 111.210778 ms
+[06:10:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 121.18168 ms
+[06:10:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 147.09338 ms
+[06:10:23] [Client thread/WARN]: Something's taking too long! 'root' took aprox 166.561024 ms
+[06:10:23] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 107.855944 ms
+[06:10:23] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 130.751906 ms
+[06:10:23] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 152.885929 ms
+[06:10:23] [Client thread/WARN]: Something's taking too long! 'root' took aprox 180.595331 ms
+[06:10:25] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 102.446007 ms
+[06:10:25] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 106.81074 ms
+[06:10:25] [Client thread/WARN]: Something's taking too long! 'root' took aprox 122.827076 ms
+[06:10:28] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 103.527338 ms
+[06:10:28] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 109.542803 ms
+[06:10:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 121.641471 ms
+[06:10:31] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 100.274315 ms
+[06:10:31] [Client thread/WARN]: Something's taking too long! 'root' took aprox 124.50244 ms
+[06:10:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4021ms behind, skipping 80 tick(s)
+[06:10:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 107.603059 ms
+[06:10:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 114.573413 ms
+[06:10:35] [Client thread/WARN]: Something's taking too long! 'root' took aprox 144.421254 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.tick.particles' took aprox 1298.476367 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1332.052212 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 114.231853 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1523.758482 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 104.938732 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 133.179769 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 148.955945 ms
+[06:10:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 178.821029 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 112.280203 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 119.142588 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 133.169095 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 155.058853 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.58317 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 154.47344 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 177.758583 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 127.559642 ms
+[06:10:45] [Client thread/WARN]: Something's taking too long! 'root' took aprox 158.761815 ms
+[06:10:46] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 112.469867 ms
+[06:10:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 135.301377 ms
+[06:10:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 102.700946 ms
+[06:10:46] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 101.705004 ms
+[06:10:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 150.904722 ms
+[06:10:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.523095 ms
+[06:10:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 119.491536 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick.travel.move' took aprox 144.378149 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick.travel' took aprox 148.296227 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 149.214989 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 163.603992 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 164.003025 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 164.308457 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 236.02522 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 265.925198 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 208.01449 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 233.720105 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 168.887896 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 199.597436 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 208.228375 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root' took aprox 243.512016 ms
+[06:10:47] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 153.222562 ms
+[06:10:48] [Client thread/WARN]: Something's taking too long! 'root' took aprox 181.777241 ms
+[06:10:48] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 359.228339 ms
+[06:10:48] [Client thread/WARN]: Something's taking too long! 'root' took aprox 403.112541 ms
+[06:10:48] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 247.463348 ms
+[06:10:48] [Client thread/WARN]: Something's taking too long! 'root' took aprox 304.376063 ms
+[06:10:48] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 231.574686 ms
+[06:10:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 274.600885 ms
+[06:10:49] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 194.852555 ms
+[06:10:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 228.581117 ms
+[06:10:49] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 231.563192 ms
+[06:10:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 258.613697 ms
+[06:10:49] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 141.304526 ms
+[06:10:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 189.491061 ms
+[06:11:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:11:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:11:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:11:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:11:47] [Server thread/INFO]: BogdanG has just earned the achievement [Taking Inventory]
+[06:11:47] [Client thread/INFO]: [CHAT] BogdanG has just earned the achievement [Taking Inventory]
+[06:12:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerLiving
+[06:12:22] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 278.862575 ms
+[06:12:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 297.797354 ms
+[06:12:22] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 120.165623 ms
+[06:12:22] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 120.550288 ms
+[06:12:22] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 120.932079 ms
+[06:12:22] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 468.044097 ms
+[06:12:22] [Client thread/WARN]: Something's taking too long! 'root' took aprox 492.252928 ms
+[06:12:23] [Client thread/WARN]: Something's taking too long! 'root.tick.particles' took aprox 121.13488 ms
+[06:12:23] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 753.949689 ms
+[06:12:23] [Client thread/WARN]: Something's taking too long! 'root' took aprox 772.682078 ms
+[06:12:24] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 120.496508 ms
+[06:12:24] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 120.76212 ms
+[06:12:24] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 120.972311 ms
+[06:12:24] [Client thread/WARN]: Something's taking too long! 'root.tick.particles' took aprox 120.792089 ms
+[06:12:24] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 1132.077911 ms
+[06:12:24] [Client thread/WARN]: Something's taking too long! 'root' took aprox 1150.438361 ms
+[06:12:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 126304ms behind, skipping 2526 tick(s)
+[06:13:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 27511ms behind, skipping 550 tick(s)
+[06:13:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23069ms behind, skipping 461 tick(s)
+[06:14:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23066ms behind, skipping 461 tick(s)
+[06:14:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17659ms behind, skipping 353 tick(s)
+[06:14:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20864ms behind, skipping 417 tick(s)
+[06:15:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17062ms behind, skipping 341 tick(s)
+[06:15:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15589ms behind, skipping 311 tick(s)
+[06:15:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18134ms behind, skipping 362 tick(s)
+[06:15:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16528ms behind, skipping 330 tick(s)
+[06:16:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15745ms behind, skipping 314 tick(s)
+[06:16:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15849ms behind, skipping 316 tick(s)
+[06:16:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21750ms behind, skipping 435 tick(s)
+[06:17:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13462ms behind, skipping 269 tick(s)
+[06:18:04] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-08-06_06.16.51.png
+[06:18:04] [Client thread/WARN]: Something's taking too long! 'root.tick.keyboard' took aprox 339605.402219 ms
+[06:18:04] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 339619.132325 ms
+[06:18:04] [Client thread/WARN]: Something's taking too long! 'root' took aprox 339646.272735 ms
+[06:18:04] [Client thread/INFO]: [CHAT] Report generated at ugb38server1.srp.
+[06:18:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 102.065448 ms
+[06:18:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 169.29514 ms
+[06:18:05] [Server thread/INFO]: Saving and pausing game...
+[06:18:05] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Overworld
+[06:18:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 100.369147 ms
+[06:18:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 444.461322 ms
+[06:18:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 503.349498 ms
+[06:18:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 509.765228 ms
+[06:18:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 103.160736 ms
+[06:18:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 137.733344 ms
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Nether
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/The Last Millenium
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Wyvern Lair
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Tropics
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/SpectreWorld
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeons
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Aether
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Mystic Groves
+[06:18:06] [Server thread/INFO]: Saving chunks for level 'UGB 38'/CONTROL
+[06:18:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 48711ms behind, skipping 974 tick(s)
+[06:18:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 142.527489 ms
+[06:18:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 147.522382 ms
+[06:18:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 164.047362 ms
+[06:18:08] [Client thread/WARN]: Something's taking too long! 'root' took aprox 168.522937 ms
+[06:18:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 108.94918 ms
+[06:18:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.838064 ms
+[06:18:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 665.086408 ms
+[06:18:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 672.166783 ms
+[06:18:35] [Client thread/WARN]: Something's taking too long! 'root' took aprox 672.640122 ms
+[06:19:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:nevermine:ChargerHit
+[06:19:21] [Client thread/INFO]: [CHAT] *BogdanG is now AFK (Auto AFK).
+[06:19:27] [Client thread/INFO]: [CHAT] *BogdanG is no longer AFK.
+[06:19:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 110.478807 ms
+[06:19:37] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 117.875699 ms
+[06:19:37] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 124.010628 ms
+[06:19:37] [Client thread/WARN]: Something's taking too long! 'root' took aprox 144.361728 ms
+[06:19:37] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 153.02715 ms
+[06:19:37] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 160.543096 ms
+[06:19:37] [Client thread/WARN]: Something's taking too long! 'root' took aprox 161.659321 ms
+[06:19:38] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.082598 ms
+[06:19:40] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.92286 ms
+[06:19:41] [Client thread/WARN]: Something's taking too long! 'root' took aprox 116.43844 ms
+[06:19:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 107.809965 ms
+[06:19:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 114.763897 ms
+[06:19:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 121.115584 ms
+[06:19:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 109.114623 ms
+[06:19:43] [Client thread/WARN]: Something's taking too long! 'root' took aprox 105.178481 ms
+[06:19:44] [Client thread/WARN]: Something's taking too long! 'root.tick.gameMode' took aprox 196.096454 ms
+[06:19:44] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 202.044182 ms
+[06:19:44] [Client thread/WARN]: Something's taking too long! 'root' took aprox 220.756866 ms
+[06:19:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 103.368874 ms
+[06:19:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 108.615421 ms
+[06:19:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 122.799571 ms
+[06:19:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 120.367603 ms
+[06:19:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7021ms behind, skipping 140 tick(s)
+[06:19:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 112.358614 ms
+[06:19:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 101.824057 ms
+[06:19:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 102.306428 ms
+[06:19:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 104.545447 ms
+[06:19:52] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 107.024215 ms
+[06:19:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 123.979838 ms
+[06:19:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 106.011853 ms
+[06:19:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 115.87027 ms
+[06:19:53] [Client thread/WARN]: Something's taking too long! 'root' took aprox 199.185266 ms
+[06:20:04] [Client thread/WARN]: Something's taking too long! 'root' took aprox 102.691093 ms
+[06:20:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 131.145192 ms
+[06:20:05] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 135.332987 ms
+[06:20:05] [Client thread/WARN]: Something's taking too long! 'root' took aprox 137.048583 ms
+[06:20:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 108.428631 ms
+[06:20:07] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 118.488206 ms
+[06:20:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 120.161518 ms
+[06:20:09] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 101.035023 ms
+[06:20:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.156178 ms
+[06:20:16] [Client thread/WARN]: Something's taking too long! 'root.tick.gameMode' took aprox 108.773063 ms
+[06:20:16] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 118.022667 ms
+[06:20:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 140.707209 ms
+[06:20:23] [Client thread/WARN]: Something's taking too long! 'root' took aprox 108.541115 ms
+[06:20:33] [Client thread/WARN]: Something's taking too long! 'root.tick.gameMode' took aprox 162.36584 ms
+[06:20:33] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 176.782758 ms
+[06:20:33] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 112.416088 ms
+[06:20:33] [Client thread/WARN]: Something's taking too long! 'root' took aprox 295.34445 ms
+[06:20:48] [Client thread/WARN]: Something's taking too long! 'root' took aprox 127.236145 ms
+[06:20:48] [Client thread/WARN]: Something's taking too long! 'root' took aprox 212.179296 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 269.605992 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 353.492854 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 116.295167 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 282.057303 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 304.631001 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 108.051766 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 110.974724 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 140.19528 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 217.658201 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 238.714177 ms
+[06:20:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 274.387821 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 104.167762 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 112.173466 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root' took aprox 122.203894 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 102.516618 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 111.933718 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root' took aprox 126.208184 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 114.690413 ms
+[06:20:50] [Client thread/WARN]: Something's taking too long! 'root' took aprox 122.868129 ms
+[06:20:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 173.569557 ms
+[06:20:51] [Client thread/WARN]: Something's taking too long! 'root' took aprox 197.062016 ms
+[06:20:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 102.091721 ms
+[06:20:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 106.194537 ms
+[06:20:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 182.843792 ms
+[06:20:51] [Client thread/WARN]: Something's taking too long! 'root' took aprox 185.57914 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 132.028238 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 132.68344 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick.ai' took aprox 235.591702 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular.tick' took aprox 235.849103 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 238.334439 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 238.443639 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 239.01181 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 249.453998 ms
+[06:20:52] [Client thread/WARN]: Something's taking too long! 'root' took aprox 296.62037 ms
+[06:20:53] [Client thread/WARN]: Something's taking too long! 'root' took aprox 119.532179 ms
+[06:20:53] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 143.874431 ms
+[06:20:53] [Client thread/WARN]: Something's taking too long! 'root' took aprox 169.343993 ms
+[06:20:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 100.588779 ms
+[06:20:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 140.480186 ms
+[06:20:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 147.052738 ms
+[06:20:54] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 156.081067 ms
+[06:20:54] [Client thread/WARN]: Something's taking too long! 'root' took aprox 160.493422 ms
+[06:20:54] [Client thread/WARN]: Something's taking too long! 'root' took aprox 125.736487 ms
+[06:20:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 132.850115 ms
+[06:20:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 140.219911 ms
+[06:20:55] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 148.964977 ms
+[06:20:55] [Client thread/WARN]: Something's taking too long! 'root' took aprox 167.365249 ms
+[06:20:55] [Client thread/WARN]: Something's taking too long! 'root' took aprox 100.970981 ms
+[06:21:03] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 108.51361 ms
+[06:21:03] [Client thread/WARN]: Something's taking too long! 'root' took aprox 118.666786 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 126.37691 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 132.379649 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 133.179358 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText.debug' took aprox 108.175335 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui.forgeHudText' took aprox 110.142585 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 111.011262 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 118.478354 ms
+[06:21:06] [Client thread/WARN]: Something's taking too long! 'root' took aprox 119.152441 ms
+[06:21:07] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 123.028235 ms
+[06:21:07] [Client thread/WARN]: Something's taking too long! 'root' took aprox 138.588063 ms
+[06:21:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.weather' took aprox 207.51693 ms
+[06:21:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 282.148851 ms
+[06:21:08] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 288.62657 ms
+[06:21:08] [Client thread/WARN]: Something's taking too long! 'root' took aprox 303.369449 ms
+[06:21:09] [Client thread/WARN]: Something's taking too long! 'root.tick.textures' took aprox 723.892478 ms
+[06:21:09] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 743.890523 ms
+[06:21:09] [Client thread/WARN]: Something's taking too long! 'root' took aprox 798.245239 ms
+[06:21:10] [Client thread/WARN]: Something's taking too long! 'root' took aprox 229.162835 ms
+[06:21:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 147.949331 ms
+[06:21:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 100.535821 ms
+[06:21:11] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 106.130906 ms
+[06:21:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 130.826212 ms
+[06:21:14] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 105.669883 ms
+[06:21:14] [Client thread/WARN]: Something's taking too long! 'root' took aprox 152.904813 ms
+[06:21:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 203.579557 ms
+[06:21:14] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 211.642325 ms
+[06:21:14] [Client thread/WARN]: Something's taking too long! 'root' took aprox 220.232211 ms
+[06:21:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 109.178665 ms
+[06:21:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 115.292657 ms
+[06:21:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 136.098622 ms
+[06:21:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.prepareterrain' took aprox 120.780594 ms
+[06:21:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 129.772798 ms
+[06:21:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 136.843731 ms
+[06:21:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 178.215091 ms
+[06:21:24] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.hand' took aprox 123.173561 ms
+[06:21:24] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 162.774725 ms
+[06:21:24] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 168.635832 ms
+[06:21:24] [Client thread/WARN]: Something's taking too long! 'root' took aprox 195.549631 ms
+[06:21:28] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.434332 ms
+[06:21:31] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 230.437934 ms
+[06:21:31] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 239.492948 ms
+[06:21:31] [Client thread/WARN]: Something's taking too long! 'root' took aprox 241.345661 ms
+[06:21:31] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 101.509593 ms
+[06:21:31] [Client thread/WARN]: Something's taking too long! 'root' took aprox 147.361044 ms
+[06:21:33] [Client thread/WARN]: Something's taking too long! 'root' took aprox 109.441403 ms
+[06:21:34] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.gui' took aprox 193.088927 ms
+[06:21:34] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 224.865019 ms
+[06:21:34] [Client thread/WARN]: Something's taking too long! 'root' took aprox 240.175657 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 111.998991 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 114.114031 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 120.243213 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 124.173196 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root' took aprox 176.189956 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root' took aprox 110.049395 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 142.421162 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 146.083072 ms
+[06:21:35] [Client thread/WARN]: Something's taking too long! 'root' took aprox 161.502499 ms
+[06:21:36] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 150.549205 ms
+[06:21:36] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 150.813995 ms
+[06:21:36] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 197.992272 ms
+[06:21:36] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 204.667045 ms
+[06:21:36] [Client thread/WARN]: Something's taking too long! 'root' took aprox 222.69661 ms
+[06:21:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 106.98193 ms
+[06:21:41] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 109.873689 ms
+[06:21:41] [Client thread/WARN]: Something's taking too long! 'root' took aprox 111.24362 ms
+[06:21:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 116.964326 ms
+[06:21:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 121.272817 ms
+[06:21:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 154.001333 ms
+[06:21:42] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 158.490045 ms
+[06:21:42] [Client thread/WARN]: Something's taking too long! 'root' took aprox 159.938388 ms
+[06:21:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 110.902061 ms
+[06:21:46] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 113.772883 ms
+[06:21:46] [Client thread/WARN]: Something's taking too long! 'root' took aprox 127.938149 ms
+[06:21:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 142.254078 ms
+[06:21:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 142.570184 ms
+[06:21:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 146.815042 ms
+[06:21:49] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 149.408757 ms
+[06:21:49] [Client thread/WARN]: Something's taking too long! 'root' took aprox 150.655941 ms
+[06:21:50] [Client thread/WARN]: Something's taking too long! 'root.render' took aprox 508.054968 ms
+[06:21:50] [Client thread/WARN]: Something's taking too long! 'root' took aprox 517.4889 ms
+[06:21:50] [Client thread/WARN]: Something's taking too long! 'root' took aprox 109.388445 ms
+[06:21:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 501.167131 ms
+[06:21:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 501.391689 ms
+[06:21:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 506.712952 ms
+[06:21:51] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 510.157281 ms
+[06:21:51] [Client thread/WARN]: Something's taking too long! 'root' took aprox 512.121657 ms
+[06:21:53] [Client thread/WARN]: Something's taking too long! 'root' took aprox 529.805558 ms
+[06:22:10] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.sortchunks' took aprox 123.912511 ms
+[06:22:10] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 125.557497 ms
+[06:22:10] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 137.13931 ms
+[06:22:10] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 137.653291 ms
+[06:22:10] [Client thread/WARN]: Something's taking too long! 'root' took aprox 156.908692 ms
+[06:22:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 160.207694 ms
+[06:22:11] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.blockEntities' took aprox 168.495022 ms
+[06:22:11] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 246.082743 ms
+[06:22:11] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 264.083981 ms
+[06:22:11] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 265.430102 ms
+[06:22:11] [Client thread/WARN]: Something's taking too long! 'root' took aprox 286.24674 ms
+[06:22:12] [Client thread/WARN]: Something's taking too long! 'root' took aprox 202.403394 ms
+[06:22:13] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 115.781185 ms
+[06:22:13] [Client thread/WARN]: Something's taking too long! 'root' took aprox 154.870421 ms
+[06:22:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities.entities' took aprox 311.422775 ms
+[06:22:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.entities' took aprox 312.603043 ms
+[06:22:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 334.570391 ms
+[06:22:13] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 335.206709 ms
+[06:22:13] [Client thread/WARN]: Something's taking too long! 'root' took aprox 357.387531 ms
+[06:22:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 124.201113 ms
+[06:22:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 132.108291 ms
+[06:22:15] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 159.409628 ms
+[06:22:15] [Client thread/WARN]: Something's taking too long! 'root' took aprox 174.408675 ms
+[06:22:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 112.862332 ms
+[06:22:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 122.586506 ms
+[06:22:16] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 123.078729 ms
+[06:22:16] [Client thread/WARN]: Something's taking too long! 'root' took aprox 136.924194 ms
+[06:22:17] [Client thread/WARN]: Something's taking too long! 'root' took aprox 113.246586 ms
+[06:22:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.occ.bb' took aprox 125.55216 ms
+[06:22:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain.occ' took aprox 125.989783 ms
+[06:22:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 129.709987 ms
+[06:22:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 145.873702 ms
+[06:22:19] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 148.838124 ms
+[06:22:19] [Client thread/WARN]: Something's taking too long! 'root' took aprox 158.356213 ms
+[06:22:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 128424ms behind, skipping 2568 tick(s)
+[06:22:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 106.259401 ms
+[06:22:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain' took aprox 108.010713 ms
+[06:22:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 117.942205 ms
+[06:22:20] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 121.814714 ms
+[06:22:20] [Client thread/WARN]: Something's taking too long! 'root' took aprox 138.50801 ms
+[06:22:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2928ms behind, skipping 58 tick(s)
+[06:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
+[06:22:23] [Client thread/WARN]: Something's taking too long! 'root.tick.level.chunkCache' took aprox 152.082936 ms
+[06:22:23] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 157.191956 ms
+[06:22:23] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 158.474035 ms
+[06:22:23] [Client thread/WARN]: Something's taking too long! 'root' took aprox 178.157206 ms
+[06:22:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level.updatechunks' took aprox 138.007987 ms
+[06:22:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 154.100681 ms
+[06:22:26] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 157.646 ms
+[06:22:26] [Client thread/WARN]: Something's taking too long! 'root' took aprox 170.289438 ms
+[06:22:26] [Client thread/WARN]: Something's taking too long! 'root' took aprox 104.685437 ms
+[06:22:27] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities.regular' took aprox 101.967742 ms
+[06:22:27] [Client thread/WARN]: Something's taking too long! 'root.tick.level.entities' took aprox 102.51005 ms
+[06:22:27] [Client thread/WARN]: Something's taking too long! 'root.tick.level' took aprox 109.860552 ms
+[06:22:27] [Client thread/WARN]: Something's taking too long! 'root.tick' took aprox 116.007386 ms
+[06:22:27] [Client thread/WARN]: Something's taking too long! 'root' took aprox 161.400689 ms
+[06:22:30] [Client thread/WARN]: Something's taking too long! 'root' took aprox 108.935632 ms
+[06:22:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:22:34] [Client thread/WARN]: Something's taking too long! 'root' took aprox 107.857175 ms
+[06:22:36] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 158.184613 ms
+[06:22:36] [Client thread/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 187.292273 ms
+[06:22:36] [Client thread/WARN]: Something's taking too long! 'root' took aprox 189.044406 ms
+[06:22:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:22:40] [Server thread/INFO]: Saving and pausing game...
+[06:22:40] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Overworld
+[06:22:42] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Nether
+[06:22:42] [Server thread/INFO]: Saving chunks for level 'UGB 38'/The Last Millenium
+[06:22:42] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Wyvern Lair
+[06:22:42] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Tropics
+[06:22:42] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:22:42] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:22:42] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeon
+[06:22:43] [Server thread/INFO]: Saving chunks for level 'UGB 38'/SpectreWorld
+[06:22:43] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Dungeons
+[06:22:43] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Aether
+[06:22:43] [Server thread/INFO]: Saving chunks for level 'UGB 38'/Mystic Groves
+[06:22:43] [Server thread/INFO]: Saving chunks for level 'UGB 38'/CONTROL
+[06:22:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3707ms behind, skipping 74 tick(s)
+[06:23:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2292ms behind, skipping 45 tick(s)
+[06:23:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:23:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:23:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:23:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:23:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:23:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.say
+[06:23:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.death
+[06:23:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.death
+[06:23:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:forestmobs:entity.spriggan.death
+[06:23:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:plainsmobs:entity.maka.death
+[06:23:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:plainsmobs:entity.maka.death
+[06:23:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:plainsmobs:entity.maka.death
+[06:23:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:plainsmobs:entity.maka.say
+[06:23:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2110ms behind, skipping 42 tick(s)
+[06:23:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:plainsmobs:entity.maka.death
+[06:23:47] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-08-06_06.23.46.png
+[06:24:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19503ms behind, skipping 390 tick(s)
+[06:24:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5915ms behind, skipping 118 tick(s)
+[06:24:55] [Client thread/INFO]: [CHAT] Generating report (takes 2 minutes)...
+[06:25:10] [Server thread/INFO]: [CHAT] 0,3 tps
+[06:25:10] [Server thread/INFO]: [CHAT] total period 3924,8 ms (avg 327,6 ms, min 20,3 ms, max 3924,8 ms)
+[06:25:10] [Server thread/INFO]: [CHAT] active period 3924,7 ms (avg 295,7 ms, min 16,3 ms, max 3924,7 ms)
+[06:25:19] [Client thread/INFO]: [CHAT] Dim -112 : Mean tick time: 0,254 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim -17 : Mean tick time: 0,053 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim -127 : Mean tick time: 0,076 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 44 : Mean tick time: 0,073 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 43 : Mean tick time: 0,057 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 42 : Mean tick time: 0,053 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 222 : Mean tick time: 0,047 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 301 : Mean tick time: 0,068 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 300 : Mean tick time: 0,066 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim -1 : Mean tick time: 0,050 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 2 : Mean tick time: 0,044 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim -2147483648 : Mean tick time: 2,265 ms. Mean TPS: 20,000
+[06:25:19] [Client thread/INFO]: [CHAT] Dim 0 : Mean tick time: 203,395 ms. Mean TPS: 4,917
+[06:25:19] [Client thread/INFO]: [CHAT] Overall : Mean tick time: 446,323 ms. Mean TPS: 2,241
+[06:26:52] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-08-06_06.26.51.png
+[06:27:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:19] [Client thread/INFO]: [CHAT] Report generated at ugb38server2.srp.
+[06:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:33] [Client thread/INFO]: [CHAT] Dim -112 : Mean tick time: 0,105 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim -17 : Mean tick time: 0,044 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim -127 : Mean tick time: 0,048 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 44 : Mean tick time: 0,057 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 43 : Mean tick time: 0,040 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 42 : Mean tick time: 0,032 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 222 : Mean tick time: 0,029 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 301 : Mean tick time: 0,047 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 300 : Mean tick time: 0,056 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim -1 : Mean tick time: 0,073 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 2 : Mean tick time: 0,032 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim -2147483648 : Mean tick time: 2,791 ms. Mean TPS: 20,000
+[06:27:33] [Client thread/INFO]: [CHAT] Dim 0 : Mean tick time: 91,429 ms. Mean TPS: 10,937
+[06:27:33] [Client thread/INFO]: [CHAT] Overall : Mean tick time: 26,808 ms. Mean TPS: 20,000
+[06:27:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.say
+[06:27:39] [Client thread/INFO]: [CHAT] Generating report (takes 2 minutes)...
+[06:27:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:27:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:desertmobs:entity.joust.death
+[06:29:46] [Client thread/INFO]: [CHAT] Oliver was slain by Creeper
+[06:29:46] [Client thread/INFO]: [CHAT] Had lived 71 days
+[06:29:58] [Client thread/INFO]: [CHAT] Report generated at ugb38server3.srp.
+[06:30:38] [Client thread/INFO]: [CHAT] Generating report (takes 2 minutes)...
+[06:31:27] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-08-06_06.31.26.png
+[06:33:02] [Client thread/INFO]: [CHAT] Report generated at ugb38server3.srp.
+[06:33:18] [Client thread/INFO]: [CHAT] §bNether fortress portal at: X:-1434 Y:40 Z:-817§r
