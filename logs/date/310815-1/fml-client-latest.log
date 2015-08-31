@@ -1,0 +1,1197 @@
+[15:26:49] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:26:49] [main/INFO] [FML/]: Forge Mod Loader version 7.99.30.1492 for Minecraft 1.7.10 loading
+[15:26:49] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.7.0_80, running on Windows 7:amd64:6.1, installed at D:\nmine\zulu1.7.0_80\jre
+[15:26:49] [main/DEBUG] [FML/]: Java classpath at launch is .\\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1492-1.7.10\forge-1.7.10-10.13.4.1492-1.7.10.jar;.\\libraries2\launchwrapper-1.12.jar;.\\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;.\\libraries2\akka-actor_2.11-2.3.12.jar;.\\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;.\\libraries2\scala-actors-migration_2.11-1.1.0.jar;.\\libraries2\scala-compiler-2.11.7.jar;.\\libraries2\scala-continuations-library_2.11-1.0.2.jar;.\\libraries2\scala-continuations-plugin_2.11.1-1.0.2.jar;.\\libraries2\scala-library-2.11.7.jar;.\\libraries2\scala-parser-combinators_2.11-1.0.3.jar;.\\libraries2\scala-reflect-2.11.7.jar;.\\libraries2\scala-swing_2.11-1.0.2.jar;.\\libraries2\scala-xml_2.11-1.0.4.jar;.\\libraries2\jopt-simple-4.9.jar;.\\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;.\\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar;.\\libraries2\commons-compress-1.9.jar;.\\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;.\\libraries2\commons-logging-1.2.jar;.\\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;.\\libraries2\vecmath-1.5.2.jar;.\\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;.\\libraries2\icu4j-55.1.jar;.\\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;.\\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;.\\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;.\\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;.\\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;.\\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar;.\\libraries2\guava-18.0.jar;.\\libraries2\commons-lang3-3.4.jar;.\\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;.\\libraries2\commons-codec-1.10.jar;.\\libraries2\jinput.jar;.\\libraries2\jutils-1.0.0.jar;.\\libraries2\gson-2.3.1.jar;.\\libraries2\authlib-1.5.21.jar;.\\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;.\\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;.\\libraries2\lwjgl.jar;.\\libraries2\lwjgl_util.jar;.\\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar;.\\versions\1.7.10-Forge10.13.4.1492-1.7.10\1.7.10-Forge10.13.4.1492-1.7.10.jar
+[15:26:49] [main/DEBUG] [FML/]: Java library path at launch is .\\versions\1.7.10-Forge10.13.4.1492-1.7.10\natives
+[15:26:49] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[15:26:49] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[15:26:49] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[15:26:49] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[15:26:49] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[15:26:49] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[15:26:49] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[15:26:49] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[15:26:49] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to D:\nmine\.
+[15:26:49] [main/DEBUG] [FML/]: Discovering coremods
+[15:26:49] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10]bspkrsCore-universal-6.16.jar
+[15:26:49] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10]bspkrsCore-universal-6.16.jar
+[15:26:49] [main/DEBUG] [FML/]: Examining for coremod candidacy Baubles-1.7.10-1.0.1.10-ci.jar
+[15:26:49] [main/DEBUG] [FML/]: Not found coremod data in Baubles-1.7.10-1.0.1.10-ci.jar
+[15:26:49] [main/DEBUG] [FML/]: Examining for coremod candidacy BetterFps-1.0.1.jar
+[15:26:49] [main/INFO] [FML/]: Loading tweaker me.guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.0.1.jar
+[15:26:49] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenCore-1.7.10-1.0.7.46-universal.jar
+[15:26:49] [main/TRACE] [FML/]: Adding CodeChickenCore-1.7.10-1.0.7.46-universal.jar to the list of known coremods, it will not be examined again
+[15:26:49] [main/DEBUG] [FML/]: Instantiating coremod class CodeChickenCorePlugin
+[15:26:50] [main/WARN] [FML/]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:26:52] [main/INFO] [STDERR/]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of CodeChickenLib, 1.1.3.140 is newer than request 1.1.3.138
+[15:26:53] [main/DEBUG] [FML/]: Added access transformer class codechicken.core.asm.CodeChickenAccessTransformer to enqueued access transformers
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod CodeChickenCorePlugin
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenLib-1.7.10-1.1.3.140-universal.jar
+[15:26:53] [main/DEBUG] [FML/]: Not found coremod data in CodeChickenLib-1.7.10-1.1.3.140-universal.jar
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy DragonAPI 1.7.10 V8a.jar
+[15:26:53] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in DragonAPI 1.7.10 V8a.jar, it will be examined later for regular @Mod instances
+[15:26:53] [main/DEBUG] [FML/]: Instantiating coremod class DragonAPIASMHandler
+[15:26:53] [main/DEBUG] [FML/]: The coremod Reika.DragonAPI.Auxiliary.DragonAPIASMHandler requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[15:26:53] [main/DEBUG] [FML/]: Added access transformer class  to enqueued access transformers
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod DragonAPIASMHandler
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy ExtendedPotions-MC1.7.10-1.2.jar
+[15:26:53] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ExtendedPotions-MC1.7.10-1.2.jar, it will be examined later for regular @Mod instances
+[15:26:53] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[15:26:53] [main/WARN] [FML/]: The coremod lumien.extendedpotions.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy fastcraft-1.21.jar
+[15:26:53] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in fastcraft-1.21.jar, it will be examined later for regular @Mod instances
+[15:26:53] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[15:26:53] [main/WARN] [FML/]: The coremod fastcraft.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:26:53] [main/DEBUG] [FastCraft-core/]: FastCraft loading...
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[15:26:53] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ForgeMultipart-1.7.10-1.2.0.345-universal.jar, it will be examined later for regular @Mod instances
+[15:26:53] [main/DEBUG] [FML/]: Instantiating coremod class DepLoader
+[15:26:53] [main/WARN] [FML/]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod DepLoader
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy FPSPlus-1.7.10.jar
+[15:26:53] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in FPSPlus-1.7.10.jar, it will be examined later for regular @Mod instances
+[15:26:53] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[15:26:53] [main/WARN] [FML/]: The coremod atomicstryker.fpsplus.FMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy GeoStrata 1.7.10 V8a.jar
+[15:26:53] [main/DEBUG] [FML/]: Not found coremod data in GeoStrata 1.7.10 V8a.jar
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy liteloader-1.7.10.jar
+[15:26:53] [main/INFO] [FML/]: Loading tweaker com.mumfrey.liteloader.launch.LiteLoaderTweaker from liteloader-1.7.10.jar
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+[15:26:53] [main/TRACE] [FML/]: Adding NotEnoughItems-1.7.10-1.0.5.111-universal.jar to the list of known coremods, it will not be examined again
+[15:26:53] [main/DEBUG] [FML/]: Instantiating coremod class NEICorePlugin
+[15:26:53] [main/WARN] [FML/]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod NEICorePlugin
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy OptiFine_1.7.10_HD_U_C1.jar
+[15:26:53] [main/INFO] [FML/]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_U_C1.jar
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy sampler-1.45.jar
+[15:26:53] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in sampler-1.45.jar, it will be examined later for regular @Mod instances
+[15:26:53] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[15:26:53] [main/WARN] [FML/]: The coremod sampler.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:26:53] [main/INFO] [sampler-core/]: startup sampling started
+[15:26:53] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy shadowworld-1.3.3.jar
+[15:26:53] [main/DEBUG] [FML/]: Not found coremod data in shadowworld-1.3.3.jar
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy vChat-0.2r14.jar
+[15:26:53] [main/DEBUG] [FML/]: Not found coremod data in vChat-0.2r14.jar
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Waila-1.5.10_1.7.10.jar
+[15:26:53] [main/DEBUG] [FML/]: Not found coremod data in Waila-1.5.10_1.7.10.jar
+[15:26:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Wawla-1.3.1-1.7.10.jar
+[15:26:53] [main/DEBUG] [FML/]: Not found coremod data in Wawla-1.3.1-1.7.10.jar
+[15:26:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:26:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[15:26:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[15:26:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name optifine.OptiFineForgeTweaker
+[15:26:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:26:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:26:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:26:53] [main/INFO] [LaunchWrapper/]: Calling tweak class optifine.OptiFineForgeTweaker
+[15:26:53] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: acceptOptions
+[15:26:53] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: injectIntoClassLoader
+[15:26:53] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:179]: OptiFine ClassTransformer
+[15:26:53] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:179]: OptiFine URL: file:/D:/nmine/mods/OptiFine_1.7.10_HD_U_C1.jar
+[15:26:53] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:179]: OptiFine ZIP file: java.util.zip.ZipFile@3db0ab45
+[15:26:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:53] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[15:26:53] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[15:26:53] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[15:26:53] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:26:53] [main/DEBUG] [FML/]: Injection complete
+[15:26:53] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[15:26:53] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[15:26:55] [main/DEBUG] [FML/]: Read 527 binary patches
+[15:26:58] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:26:58] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[15:26:58] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin} class transformers
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin CCCDeobfPlugin
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class LoadPlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin} class transformers
+[15:26:58] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[15:26:58] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+[15:26:58] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.TweakTransformer
+[15:26:58] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DelegatedTransformer
+[15:26:58] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DefaultImplementationTransformer
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin CodeChickenCorePlugin
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class CodeChickenCorePlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod LoadingPlugin {fastcraft.LoadingPlugin} class transformers
+[15:26:58] [main/TRACE] [FML/]: Registering transformer fastcraft.asm.FastCraftTransformer
+[15:26:58] [main/DEBUG] [FastCraft-core/]: ColoredLights was not detected.
+[15:26:58] [main/DEBUG] [FastCraft-core/]: ShadersMod was not detected.
+[15:26:58] [main/DEBUG] [FastCraft-core/]: Optifine was detected, some functionality will be disabled for compatibility.
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for LoadingPlugin {fastcraft.LoadingPlugin}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin LoadingPlugin
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod DepLoader {codechicken.core.launch.DepLoader} class transformers
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for DepLoader {codechicken.core.launch.DepLoader}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin DepLoader
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class DepLoader run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {atomicstryker.fpsplus.FMLCorePlugin} class transformers
+[15:26:58] [main/TRACE] [FML/]: Registering transformer atomicstryker.fpsplus.Transformer
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {atomicstryker.fpsplus.FMLCorePlugin}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod NEICorePlugin {codechicken.nei.asm.NEICorePlugin} class transformers
+[15:26:58] [main/TRACE] [FML/]: Registering transformer codechicken.nei.asm.NEITransformer
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for NEICorePlugin {codechicken.nei.asm.NEICorePlugin}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin NEICorePlugin
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class NEICorePlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:26:58] [main/DEBUG] [FML/]: Injecting coremod LoadingPlugin {sampler.LoadingPlugin} class transformers
+[15:26:58] [main/DEBUG] [FML/]: Injection complete
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin for LoadingPlugin {sampler.LoadingPlugin}
+[15:26:58] [main/DEBUG] [FML/]: Running coremod plugin LoadingPlugin
+[15:26:58] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[15:26:58] [main/INFO] [LaunchWrapper/]: Calling tweak class com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[15:26:58] [main/INFO] [LiteLoader/]: Bootstrapping LiteLoader 1.7.10
+[15:26:59] [main/INFO] [LiteLoader/]: Registering API provider class com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient
+[15:26:59] [main/INFO] [LiteLoader/]: Spawning API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' ...
+[15:26:59] [main/INFO] [LiteLoader/]: API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' provides API 'liteloader'
+[15:26:59] [main/INFO] [LiteLoader/]: Initialising API 'liteloader' ...
+[15:26:59] [main/INFO] [LiteLoader/]: LiteLoader begin PREINIT...
+[15:26:59] [main/INFO] [LiteLoader/]: Initialising Loader properties...
+[15:26:59] [main/INFO] [LiteLoader/]: Setting up logger...
+[15:26:59] [main/INFO] [LiteLoader/]: LiteLoader 1.7.10_04 starting up...
+[15:26:59] [main/INFO] [LiteLoader/]: Java reports OS="windows 7"
+[15:26:59] [main/INFO] [LiteLoader/]: Enumerating class path...
+[15:26:59] [main/INFO] [LiteLoader/]: Class path separator=";"
+[15:26:59] [main/INFO] [LiteLoader/]: Class path entries=(
+   classpathEntry=.\\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1492-1.7.10\forge-1.7.10-10.13.4.1492-1.7.10.jar
+   classpathEntry=.\\libraries2\launchwrapper-1.12.jar
+   classpathEntry=.\\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+   classpathEntry=.\\libraries2\akka-actor_2.11-2.3.12.jar
+   classpathEntry=.\\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=.\\libraries2\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=.\\libraries2\scala-compiler-2.11.7.jar
+   classpathEntry=.\\libraries2\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=.\\libraries2\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=.\\libraries2\scala-library-2.11.7.jar
+   classpathEntry=.\\libraries2\scala-parser-combinators_2.11-1.0.3.jar
+   classpathEntry=.\\libraries2\scala-reflect-2.11.7.jar
+   classpathEntry=.\\libraries2\scala-swing_2.11-1.0.2.jar
+   classpathEntry=.\\libraries2\scala-xml_2.11-1.0.4.jar
+   classpathEntry=.\\libraries2\jopt-simple-4.9.jar
+   classpathEntry=.\\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=.\\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar
+   classpathEntry=.\\libraries2\commons-compress-1.9.jar
+   classpathEntry=.\\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=.\\libraries2\commons-logging-1.2.jar
+   classpathEntry=.\\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=.\\libraries2\vecmath-1.5.2.jar
+   classpathEntry=.\\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=.\\libraries2\icu4j-55.1.jar
+   classpathEntry=.\\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=.\\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=.\\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=.\\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=.\\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=.\\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar
+   classpathEntry=.\\libraries2\guava-18.0.jar
+   classpathEntry=.\\libraries2\commons-lang3-3.4.jar
+   classpathEntry=.\\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+   classpathEntry=.\\libraries2\commons-codec-1.10.jar
+   classpathEntry=.\\libraries2\jinput.jar
+   classpathEntry=.\\libraries2\jutils-1.0.0.jar
+   classpathEntry=.\\libraries2\gson-2.3.1.jar
+   classpathEntry=.\\libraries2\authlib-1.5.21.jar
+   classpathEntry=.\\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar
+   classpathEntry=.\\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar
+   classpathEntry=.\\libraries2\lwjgl.jar
+   classpathEntry=.\\libraries2\lwjgl_util.jar
+   classpathEntry=.\\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar
+   classpathEntry=.\\versions\1.7.10-Forge10.13.4.1492-1.7.10\1.7.10-Forge10.13.4.1492-1.7.10.jar
+)
+[15:26:59] [main/INFO] [LiteLoader/]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[15:26:59] [main/INFO] [LiteLoader/]: Registering discovery module EnumeratorModuleFolder: [D:\nmine\.\mods]
+[15:26:59] [main/INFO] [LiteLoader/]: Registering discovery module EnumeratorModuleFolder: [D:\nmine\.\mods\1.7.10]
+[15:26:59] [main/INFO] [LiteLoader/]: Adding supported mod class prefix 'LiteMod'
+[15:26:59] [main/INFO] [LiteLoader/]: Discovering tweaks on class path...
+[15:26:59] [main/INFO] [LiteLoader/]: Discovering valid mod files in folder .\mods
+[15:26:59] [main/INFO] [LiteLoader/]: Discovering valid mod files in folder .\mods\1.7.10
+[15:26:59] [main/INFO] [LiteLoader/]: Searching for tweaks in 'Baubles-1.7.10-1.0.1.10-ci.jar'
+[15:26:59] [main/WARN] [LiteLoader/]: Error parsing manifest entries in 'D:\nmine\.\mods\1.7.10\Baubles-1.7.10-1.0.1.10-ci.jar'
+[15:26:59] [main/INFO] [LiteLoader/]: Searching for tweaks in 'CodeChickenLib-1.7.10-1.1.3.140-universal.jar'
+[15:26:59] [main/WARN] [LiteLoader/]: Error parsing manifest entries in 'D:\nmine\.\mods\1.7.10\CodeChickenLib-1.7.10-1.1.3.140-universal.jar'
+[15:26:59] [main/INFO] [LiteLoader/]: Searching for tweaks in 'ForgeMultipart-1.7.10-1.2.0.345-universal.jar'
+[15:26:59] [main/WARN] [LiteLoader/]: Error parsing manifest entries in 'D:\nmine\.\mods\1.7.10\ForgeMultipart-1.7.10-1.2.0.345-universal.jar'
+[15:26:59] [main/INFO] [LiteLoader/]: Searching for tweaks in 'liteloader-1.7.10.jar'
+[15:26:59] [main/WARN] [LiteLoader/]: Error parsing manifest entries in 'D:\nmine\.\mods\1.7.10\liteloader-1.7.10.jar'
+[15:26:59] [main/INFO] [LiteLoader/]: Considering valid mod file: D:\nmine\.\mods\1.7.10\mod_voxelMap_1.5.17_for_1.7.10.litemod
+[15:26:59] [main/INFO] [LiteLoader/]: Considering valid mod file: D:\nmine\.\mods\1.7.10\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod
+[15:26:59] [main/INFO] [LiteLoader/]: Considering valid mod file: D:\nmine\.\mods\1.7.10\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod
+[15:26:59] [main/INFO] [LiteLoader/]: Searching for tweaks in '[1.7.10]bspkrsCore-universal-6.16.jar'
+[15:26:59] [main/WARN] [LiteLoader/]: Error parsing manifest entries in 'D:\nmine\.\mods\1.7.10\[1.7.10]bspkrsCore-universal-6.16.jar'
+[15:27:00] [main/INFO] [LiteLoader/]: Adding newest valid mod file 'D:\nmine\.\mods\1.7.10\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod' at revision 1727,0000
+[15:27:00] [main/INFO] [LiteLoader/]: Adding newest valid mod file 'D:\nmine\.\mods\1.7.10\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod' at revision 37,0000
+[15:27:00] [main/INFO] [LiteLoader/]: Adding newest valid mod file 'D:\nmine\.\mods\1.7.10\mod_voxelMap_1.5.17_for_1.7.10.litemod' at revision 1517,0000
+[15:27:00] [main/INFO] [LiteLoader/]: Mod file 'liteloader-1.7.10.jar' provides tweakClass 'com.mumfrey.liteloader.launch.LiteLoaderTweaker', adding to Launch queue with priority 1000
+[15:27:00] [main/INFO] [LiteLoader/]: Mod file 'mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod' provides classTransformer 'com.mumfrey.worldeditwrapper.asm.InteractionTransformer', adding to class loader
+[15:27:00] [main/INFO] [LiteLoader/]: classTransformer 'com.mumfrey.worldeditwrapper.asm.InteractionTransformer' was successfully added
+[15:27:00] [main/INFO] [LiteLoader/]: Mod file 'mod_voxelMap_1.5.17_for_1.7.10.litemod' provides classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer', adding to class loader
+[15:27:00] [main/INFO] [LiteLoader/]: classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer' was successfully added
+[15:27:00] [main/INFO] [LiteLoader/]: LiteLoader PREINIT complete
+[15:27:00] [main/INFO] [LiteLoader/]: Sorting registered packet transformers by priority
+[15:27:00] [main/INFO] [LiteLoader/]: Added 0 packet transformer classes to the transformer list
+[15:27:00] [main/INFO] [LiteLoader/]: Injecting required class transformer 'com.mumfrey.liteloader.transformers.event.EventProxyTransformer'
+[15:27:00] [main/INFO] [LiteLoader/]: Injecting required class transformer 'com.mumfrey.liteloader.launch.LiteLoaderTransformer'
+[15:27:00] [main/INFO] [LiteLoader/]: Injecting required class transformer 'com.mumfrey.liteloader.client.transformers.CrashReportTransformer'
+[15:27:00] [main/INFO] [LiteLoader/]: Queuing required class transformer 'com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer'
+[15:27:00] [main/INFO] [LiteLoader/]: Queuing required class transformer 'com.mumfrey.liteloader.client.transformers.LiteLoaderEventInjectionTransformer'
+[15:27:00] [main/INFO] [LiteLoader/]: Queuing required class transformer 'com.mumfrey.liteloader.client.transformers.MinecraftOverlayTransformer'
+[15:27:00] [main/INFO] [LaunchWrapper/]: Calling tweak class me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[15:27:00] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:27:00] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[15:27:00] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
+[15:27:00] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[15:27:00] [main/ERROR] [LaunchWrapper/]: A critical problem occurred registering the ASM transformer class 
+java.lang.ClassNotFoundException: 
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425) ~[?:1.7.0_80]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358) ~[?:1.7.0_80]
+	at net.minecraft.launchwrapper.LaunchClassLoader.registerTransformer(LaunchClassLoader.java:88) [launchwrapper-1.12.jar:?]
+	at cpw.mods.fml.common.launcher.FMLDeobfTweaker.injectIntoClassLoader(FMLDeobfTweaker.java:32) [forge-1.7.10-10.13.4.1492-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 6
+	at org.objectweb.asm.ClassReader.readShort(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at cpw.mods.fml.common.asm.transformers.DeobfuscationTransformer.transform(DeobfuscationTransformer.java:34) ~[forge-1.7.10-10.13.4.1492-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	... 6 more
+[15:27:00] [main/DEBUG] [FML/]: Loaded 11 rules from AccessTransformer mod jar file D:\nmine\mods\NotEnoughItems-1.7.10-1.0.5.111-universal.jar!META-INF/nei_at.cfg
+
+[15:27:00] [main/DEBUG] [FML/]: Loaded 67 rules from AccessTransformer mod jar file D:\nmine\mods\DragonAPI 1.7.10 V8a.jar!META-INF/DragonAPI_at.cfg
+
+[15:27:00] [main/DEBUG] [FML/]: Validating minecraft
+[15:27:03] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[15:27:03] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:27:03] [main/DEBUG] [FML/]: Injecting coremod DragonAPIASMHandler {Reika.DragonAPI.Auxiliary.DragonAPIASMHandler} class transformers
+[15:27:03] [main/TRACE] [FML/]: Registering transformer Reika.DragonAPI.ASM.InterfaceInjector
+[15:27:03] [main/TRACE] [FML/]: Registering transformer Reika.DragonAPI.ASM.APIStripper
+[15:27:03] [main/TRACE] [FML/]: Registering transformer Reika.DragonAPI.ASM.DragonAPIClassTransfomer
+[15:27:04] [main/INFO] [FML/]: 88 Java arguments present: [-XX:+TieredCompilation, -XX:-OmitStackTraceInFastThrow, -Dnetworkaddress.cache.ttl=0, -XX:+CMSScavengeBeforeRemark, -XX:CMSInitiatingOccupancyFraction=85, -Dfastcraft.debug.fwel, -XX:ReservedCodeCacheSize=256m, -Xmx2800m, -XX:-UseGCOverheadLimit, -XX:+PrintPLAB, -XX:+UseTLAB, -Dfastcraft.distantWrsPerPass=2, -XX:+ParallelRefProcEnabled, -Djava.net.preferIPv4Stack=true, -XX:PermSize=286m, -XX:MaxGCPauseMillis=10, -XX:Tier0ProfilingStartPercentage=0, -XX:+PrintTLE, -Xcomp, -XX:+UseNewLongLShift, -XX:CompileThreshold=10000, -XX:+PrintGCApplicationStoppedTime, -XX:+ResizeTLAB, -XX:Tier3MinInvocationThreshold=2, -XX:Tier3DelayOn=50, -Xnoclassgc, -Xloggc:.\gc_BCCSF1492_0.log, -XX:CICompilerCount=1, -XX:+EagerXrunInit, -XX:SoftRefLRUPolicyMSPerMB=1000, -XX:Tier4MinInvocationThreshold=3, -XX:-DontCompileHugeMethods, -XX:+ExplicitGCInvokesConcurrentAndUnloadsClasses, -DJINTEGRA_NATIVE_MODE, -XX:+ResizeTLE, -Xincgc, -XX:+UseThreadPriorities, -XX:+ExplicitGCInvokesConcurrent, -XX:+UseSpinning, -XX:Tier3BackEdgeThreshold=10, -XX:+PrintHeapAtGC, -XX:+UnlinkSymbolsALot, -XX:Tier4CompileThreshold=2, -Dfml.ignoreInvalidMinecraftCertificates=true, -XX:AllocatePrefetchDistance=256, -XX:+BackgroundCompilation, -XX:Tier4InvocationThreshold=4, -DJINTEGRA_COINIT_VALUE=0, -XX:Tier3DelayOff=25, -Dfml.ignorePatchDiscrepancies=true, -Xrs, -XX:+PrintAdaptiveSizePolicy, -XX:NewSize=286m, -XX:Tier4BackEdgeThreshold=8, -XX:Tier3InvocationThreshold=3, -XX:+DebugNonSafepoints, -XX:+AggressiveOpts, -XX:Tier3CompileThreshold=2, -Dsun.net.inetaddr.ttl=0, -XX:+DisableExplicitGC, -XX:+DoEscapeAnalysis, -XX:MaxNewSize=286m, -XX:+UseCompressedOops, -XX:+PrintTenuringDistribution, -Djline.terminal=jline.UnsupportedTerminal, -XX:+PrintCommandLineFlags, -XX:ThreadPriorityPolicy=42, -XX:+CMSIncrementalPacing, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+OptimizeStringConcat, -XX:MaxPermSize=286m, -XX:+UnlockDiagnosticVMOptions, -XX:+AlwaysCompileLoopMethods, -verbose:gc, -XX:HeapSizePerGCThread=128m, -XX:+PrintGCDetails, -XX:+CICompilerCountPerCPU, -XX:TieredCompileTaskTimeout=15000, -XX:+CITime, -Djava.library.path=.\\versions\1.7.10-Forge10.13.4.1492-1.7.10\natives, -XX:ParallelGCThreads=2, -XX:TargetSurvivorRatio=90, -Dsun.io.useCanonCaches=false, -XX:+UseTLE, -XX:+BindGCTaskThreadsToCPUs, -XX:+PrintFlagsFinal, -XX:+EliminateLocks, -XX:+CMSPermGenSweepingEnabled]
+[15:27:04] [main/TRACE] [FML/]: Registering transformer Reika.DragonAPI.ASM.FMLItemBlockPatch
+[15:27:04] [main/TRACE] [FML/]: Registering transformer Reika.DragonAPI.ASM.DependentMethodStripper
+[15:27:04] [main/DEBUG] [FML/]: Injection complete
+[15:27:04] [main/DEBUG] [FML/]: Running coremod plugin for DragonAPIASMHandler {Reika.DragonAPI.Auxiliary.DragonAPIASMHandler}
+[15:27:04] [main/DEBUG] [FML/]: Running coremod plugin DragonAPIASMHandler
+[15:27:04] [main/DEBUG] [FML/]: Coremod plugin class DragonAPIASMHandler run successfully
+[15:27:04] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:27:04] [main/DEBUG] [FML/]: Injecting coremod LoadingPlugin {lumien.extendedpotions.asm.LoadingPlugin} class transformers
+[15:27:04] [main/TRACE] [FML/]: Registering transformer lumien.extendedpotions.asm.ClassTransformer
+[15:27:04] [main/DEBUG] [ExtendedPotionsCore/]: Starting Class Transformation
+[15:27:04] [main/DEBUG] [FML/]: Injection complete
+[15:27:04] [main/DEBUG] [FML/]: Running coremod plugin for LoadingPlugin {lumien.extendedpotions.asm.LoadingPlugin}
+[15:27:04] [main/DEBUG] [FML/]: Running coremod plugin LoadingPlugin
+[15:27:04] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[15:27:04] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[15:27:04] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[15:27:04] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: getLaunchArguments
+[15:27:04] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[15:27:04] [main/INFO] [LiteLoader/]: Injecting downstream transformers
+[15:27:04] [main/INFO] [LiteLoader/]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.LiteLoaderEventInjectionTransformer'
+[15:27:04] [main/INFO] [LiteLoader/]: Injecting additional class transformer class 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer'
+[15:27:04] [main/INFO] [LiteLoader/]: Injecting additional class transformer class 'com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer'
+[15:27:04] [main/INFO] [LiteLoader/]: Injecting additional class transformer class 'com.mumfrey.worldeditwrapper.asm.InteractionTransformer'
+[15:27:04] [main/INFO] [LiteLoader/]: Injecting additional class transformer class 'com.mumfrey.liteloader.client.transformers.MinecraftOverlayTransformer'
+[15:27:05] [main/INFO] [me.guichaguri.betterfps.transformers.EventTransformer/]: Patching Game Start...
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting onstartupcomplete[x1] in func_71384_a in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting prerenderfbo[x1] in func_71411_J in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting postrenderfbo[x1] in func_71411_J in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting ontimerupdate[x1] in func_71411_J in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting onrender[x1] in func_71411_J in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting ontick[x1] in func_71411_J in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting shutdown[x1] in func_71400_g in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting updateframebuffersize[x1] in func_147119_ah in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting newtick[x1] in func_71407_l in Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: Applying overlay com.mumfrey.liteloader.client.overlays.MinecraftOverlay to net.minecraft.client.Minecraft
+[15:27:06] [main/INFO] [LiteLoader/]: MinecraftOverlayTransformer found INIT injection point, this is good.
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting onc00handshake[x1] in func_148833_a in C00Handshake
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting onc00packetloginstart[x1] in func_148833_a in C00PacketLoginStart
+[15:27:06] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.entity.player.EntityPlayer
+[15:27:06] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied GUIEVENT ASM handler 1!
+[15:27:06] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied GUIEVENT ASM handler 2!
+[15:27:06] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.entity.player.EntityPlayer
+[15:27:06] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied PLAYERRENDERPASS ASM handler!
+[15:27:06] [main/DEBUG] [FastCraft-core/]: 1 / 19 applied
+[15:27:06] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.entity.Entity
+[15:27:06] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied PUSHENTITYOUT ASM handler!
+[15:27:06] [main/INFO] [LiteLoader/]: Injecting onoutboundchat[x1] in func_71165_d in EntityClientPlayerMP
+[15:27:07] [main/INFO] [LiteLoader/]: Injecting onc16packetclientstatus[x1] in func_148833_a in C16PacketClientStatus
+[15:27:07] [main/DEBUG] [CCL ASM/]: Inserted super call into [bfo.e()V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.a(Lbao;II)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.l()V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.l()V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.l()V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.k()V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.public_func_73869_a(CI)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.public_func_146984_a(Laay;III)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.a(IIF)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.a(IIF)V] @ 138 - 140
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.a(IIF)V] @ 220 - 225
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIF)V] @ 444 - 470
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Ladd;IILjava/lang/String;)V] @ 9 - 10
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Ladd;IILjava/lang/String;)V] @ 14 - 15
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Laay;)V] @ 298 - 323
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.a(III)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(III)V] @ 259 - 260
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(III)V] @ 331 - 332
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIIJ)V] @ 98 - 99
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIIJ)V] @ 107 - 108
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIIJ)V] @ 118 - 119
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 158 - 159
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 168 - 169
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 287 - 288
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 295 - 296
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 314 - 315
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 424 - 425
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 454 - 455
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 468 - 469
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 497 - 498
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 557 - 559
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(CI)V] @ 54 - 55
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(CI)V] @ 84 - 85
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(I)Z] @ 41 - 42
+[15:27:07] [main/DEBUG] [CCL ASM/]: Writing method [bex.managerHandleMouseClick(Laay;III)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.a(IIIJ)V] @ 14 - 15
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.b(III)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: NEI: Injecting mouseUp call
+[15:27:07] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Laay;III)V] @ 10 - 26
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.a(CI)V]
+[15:27:07] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.e()V] @ 0 - 4
+[15:27:07] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.gui.inventory.GuiContainer
+[15:27:07] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied ITEMRENDEREVENT ASM handler!
+[15:27:07] [main/DEBUG] [FastCraft-core/]: 2 / 19 applied
+[15:27:07] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.world.World
+[15:27:07] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied ICECANCEL ASM handler!
+[15:27:07] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.world.World
+[15:27:07] [main/INFO] [LiteLoader/]: Injecting onrenderchat[x1] in func_73830_a in GuiIngame
+[15:27:07] [main/INFO] [LiteLoader/]: Injecting postrenderchat[x1] in func_73830_a in GuiIngame
+[15:27:09] [main/INFO] [LiteLoader/]: Injecting ons03packettimeupdate[x1] in func_148833_a in S03PacketTimeUpdate
+[15:27:10] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.profiler.Profiler
+[15:27:10] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied PROFILER ASM handler!
+[15:27:12] [main/DEBUG] [CCL ASM/]: Writing method [aji.canBeReplacedByLeaves(Lahl;III)Z]
+[15:27:12] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.entity.item.EntityItem
+[15:27:12] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied ITEMUPDATE ASM handler!
+[15:27:13] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.block.BlockFire
+[15:27:13] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied BURNBLOCK ASM handler 1!
+[15:27:13] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied BURNBLOCK ASM handler 2!
+[15:27:13] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied BURNBLOCK ASM handler 3!
+[15:27:14] [main/DEBUG] [CCL ASM/]: Writing method [ama.a(Lahb;IIILsv;Ladd;)V]
+[15:27:14] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.tileentity.TileEntityFurnace
+[15:27:14] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied FURNACEUPDATE ASM handler!
+[15:27:15] [main/DEBUG] [CCL ASM/]: Injecting before method [dh.toString()Ljava/lang/String;] @ 51 - 55
+[15:27:16] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.item.ItemBlock
+[15:27:16] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied BLOCKPLACE ASM handler!
+[15:27:16] [main/DEBUG] [ExtendedPotionsCore/]: Found Potion Class: net/minecraft/potion/Potion
+[15:27:16] [main/DEBUG] [ExtendedPotionsCore/]:  - Found Constructor
+[15:27:16] [main/DEBUG] [CCL ASM/]: Injecting before method [dq.toString()Ljava/lang/String;] @ 56 - 60
+[15:27:16] [main/DEBUG] [FastCraft-core/]: 3 / 19 applied
+[15:27:17] [main/DEBUG] [FastCraft-core/]: 4 / 19 applied
+[15:27:17] [main/INFO] [LiteLoader/]: Injecting ons34packetmaps[x1] in func_148833_a in S34PacketMaps
+[15:27:18] [main/INFO] [STDOUT/]: [atomicstryker.fpsplus.Transformer:readClassFile:44]: FPS+ Transformer got resource: sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@23231d61
+[15:27:18] [main/INFO] [STDOUT/]: [atomicstryker.fpsplus.Transformer:readClassFile:50]: FPS+ Transformer got inputstream byte length: 7224
+[15:27:19] [main/INFO] [BetterFps/]: Patching Minecraft using Riven's "Half" Algorithm
+[15:27:19] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.entity.monster.EntityCreeper
+[15:27:19] [main/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied CREEPERBOMBEVENT ASM handler!
+[15:27:20] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.settings.GameSettings
+[15:27:20] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied CLOUDRENDEREVENT ASM handler!
+[15:27:20] [Client thread/INFO] [LiteLoader/]: Injecting onc15packetclientsettings[x1] in func_148833_a in C15PacketClientSettings
+[15:27:20] [Client thread/INFO] [me.guichaguri.betterfps.transformers.EventTransformer/]: Patching Key Event...
+[15:27:21] [Client thread/DEBUG] [FastCraft-core/]: 5 / 19 applied
+[15:27:23] [Client thread/INFO] [LiteLoader/]: Injecting ons23packetblockchange[x1] in func_148833_a in S23PacketBlockChange
+[15:27:23] [Client thread/INFO] [LiteLoader/]: Injecting onclickedair[x1] in func_147346_a in NetHandlerPlayServer
+[15:27:23] [Client thread/INFO] [LiteLoader/]: Injecting onclickedair[x1] in func_147350_a in NetHandlerPlayServer
+[15:27:24] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.audio.SoundManager
+[15:27:24] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied SOUNDEVENTS ASM handler 1!
+[15:27:24] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied SOUNDEVENTS ASM handler 2!
+[15:27:24] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.renderer.RenderGlobal
+[15:27:24] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied WORLDRENDER ASM handler!
+[15:27:24] [Client thread/DEBUG] [FastCraft-core/]: 6 / 19 applied
+[15:27:24] [Client thread/DEBUG] [FastCraft-core/]: 7 / 19 applied
+[15:27:24] [Client thread/DEBUG] [CCL ASM/]: Replacing method [bny.a(IIIII)V] @ 7 - 16
+[15:27:25] [Client thread/INFO] [LiteLoader/]: Injecting oncreateintegratedserver[x1] in <init> in IntegratedServer
+[15:27:25] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.network.NetHandlerPlayClient
+[15:27:25] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied POTIONPACKETID2 ASM handler!
+[15:27:25] [Client thread/DEBUG] [ExtendedPotionsCore/]: Found NetHandlerPlayClient Class: net/minecraft/client/network/NetHandlerPlayClient
+[15:27:25] [Client thread/DEBUG] [ExtendedPotionsCore/]:  - Found handleEffect
+[15:27:25] [Client thread/DEBUG] [ExtendedPotionsCore/]:  - Changed handleEffect to refer to proper method
+[15:27:25] [Client thread/DEBUG] [FastCraft-core/]: 8 / 19 applied
+[15:27:25] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.world.chunk.Chunk
+[15:27:25] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied SETBLOCK ASM handler 1!
+[15:27:25] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied SETBLOCK ASM handler 2!
+[15:27:25] [Client thread/INFO] [LiteLoader/]: Injecting constructchunkfrompacket[x1] in func_76607_a in Chunk
+[15:27:26] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.renderer.EntityRenderer
+[15:27:26] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied HELDRENDEREVENT ASM handler!
+[15:27:26] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.renderer.EntityRenderer
+[15:27:26] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied NIGHTVISEVENT ASM handler!
+[15:27:26] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.client.renderer.EntityRenderer
+[15:27:26] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied FARCLIPEVENT ASM handler!
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting prerendergui[x1] in func_78480_b in EntityRenderer
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting onrenderhud[x1] in func_78480_b in EntityRenderer
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting postrenderhud[x1] in func_78480_b in EntityRenderer
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting onrenderworld[x1] in func_78471_a in EntityRenderer
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting onsetupcameratransform[x1] in func_78471_a in EntityRenderer
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting postrenderentities[x1] in func_78471_a in EntityRenderer
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting postrender[x1] in func_78471_a in EntityRenderer
+[15:27:26] [Client thread/INFO] [LiteLoader/]: Injecting postrender[x1] in func_78471_a in EntityRenderer
+[15:27:27] [Client thread/INFO] [LiteLoader/]: Injecting ons35packetupdatetileentity[x1] in func_148833_a in S35PacketUpdateTileEntity
+[15:27:27] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Patching class net.minecraft.potion.PotionEffect
+[15:27:27] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied POTIONEFFECTID ASM handler 1!
+[15:27:27] [Client thread/INFO] [Reika.DragonAPI.Libraries.Java.ReikaASMHelper/]: DragonAPI: Successfully applied POTIONEFFECTID ASM handler 2!
+[15:27:27] [Client thread/DEBUG] [ExtendedPotionsCore/]: Found PotionEffect Class: net/minecraft/potion/PotionEffect
+[15:27:27] [Client thread/DEBUG] [ExtendedPotionsCore/]:  - Found readCustomPotionEffectFromNBT
+[15:27:27] [Client thread/DEBUG] [ExtendedPotionsCore/]:  - Found writeCustomPotionEffectToNBT
+[15:27:31] [Client thread/INFO] [LiteLoader/]: Injecting renderfbo[x1] in func_147615_c in Framebuffer
+[15:27:31] [Client thread/DEBUG] [FastCraft-core/]: 9 / 19 applied
+[15:27:31] [Client thread/DEBUG] [FastCraft-core/]: 10 / 19 applied
+[15:27:31] [Client thread/DEBUG] [FastCraft-core/]: 11 / 19 applied
+[15:27:32] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0,027s
+[15:27:32] [Client thread/INFO] [FML/]: Forge Mod Loader has detected optifine OptiFine_1.7.10_HD_U_C1, enabling compatibility features
+[15:27:32] [Client thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[15:27:32] [Client thread/INFO] [FML/]: MinecraftForge v10.13.4.1492 Initialized
+[15:27:32] [Client thread/INFO] [FML/]: Replaced 183 ore recipies
+[15:27:33] [Client thread/INFO] [LiteLoader/]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[15:27:33] [Client thread/INFO] [LiteLoader/]: Successfully generated event handler proxy class with 33 handlers(s) and 33 total invokations
+[15:27:33] [Client thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[15:27:33] [Client thread/DEBUG] [FML/]: File D:\nmine\config\injectedDependencies.json not found. No dependencies injected
+[15:27:33] [Client thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, codechicken.core.asm.CodeChickenCoreModContainer, codechicken.nei.NEIModContainer, Reika.DragonAPI.ASM.APIStripper$AnnotationDummyContainer]
+[15:27:34] [Client thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1492-1.7.10\forge-1.7.10-10.13.4.1492-1.7.10.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\launchwrapper-1.12.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-actors-migration_2.11-1.1.0.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-compiler-2.11.7.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-continuations-library_2.11-1.0.2.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-library-2.11.7.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-parser-combinators_2.11-1.0.3.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-reflect-2.11.7.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-swing_2.11-1.0.2.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\scala-xml_2.11-1.0.4.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\jopt-simple-4.9.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\commons-compress-1.9.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\commons-logging-1.2.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\vecmath-1.5.2.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\icu4j-55.1.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\guava-18.0.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\commons-lang3-3.4.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar, examining for mod candidates
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\libraries2\jinput.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\jutils-1.0.0.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\gson-2.3.1.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries2\authlib-1.5.21.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar, examining for mod candidates
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\libraries2\lwjgl.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\libraries2\lwjgl_util.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\versions\1.7.10-Forge10.13.4.1492-1.7.10\1.7.10-Forge10.13.4.1492-1.7.10.jar, examining for mod candidates
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\BetterFps-1.0.1.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\CodeChickenCore-1.7.10-1.0.7.46-universal.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\.\mods\1.7.10\CodeChickenLib-1.7.10-1.1.3.140-universal.jar, examining for mod candidates
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\DragonAPI 1.7.10 V8a.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\ExtendedPotions-MC1.7.10-1.2.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\fastcraft-1.21.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\1.7.10\ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\FPSPlus-1.7.10.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\1.7.10\liteloader-1.7.10.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\OptiFine_1.7.10_HD_U_C1.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping known library file D:\nmine\mods\sampler-1.45.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\.\mods\1.7.10\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a minecraft related file at D:\nmine\.\mods\1.7.10\mod_voxelMap_1.5.17_for_1.7.10.litemod, examining for mod candidates
+[15:27:34] [Client thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[15:27:34] [Client thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[15:27:34] [Client thread/INFO] [FML/]: Searching D:\nmine\mods for mods
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate mod directory 1.7.10
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker BetterFps-1.0.1.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker CodeChickenCore-1.7.10-1.0.7.46-universal.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file DragonAPI 1.7.10 V8a.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ExtendedPotions-MC1.7.10-1.2.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file fastcraft-1.21.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file FPSPlus-1.7.10.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file GeoStrata 1.7.10 V8a.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker OptiFine_1.7.10_HD_U_C1.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file sampler-1.45.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file shadowworld-1.3.3.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file vChat-0.2r14.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate mod directory VoxelMods
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Waila-1.5.10_1.7.10.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Wawla-1.3.1-1.7.10.jar
+[15:27:34] [Client thread/INFO] [FML/]: Also searching D:\nmine\mods\1.7.10 for mods
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file [1.7.10]bspkrsCore-universal-6.16.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file Baubles-1.7.10-1.0.1.10-ci.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file CodeChickenLib-1.7.10-1.1.3.140-universal.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[15:27:34] [Client thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker liteloader-1.7.10.jar
+[15:27:34] [Client thread/DEBUG] [FML/]: Ignoring unknown file mod_voxelMap_1.5.17_for_1.7.10.litemod in mods directory
+[15:27:34] [Client thread/DEBUG] [FML/]: Ignoring unknown file mod_worldeditcui_1.7.10_00_mc1.7.10.litemod in mods directory
+[15:27:34] [Client thread/DEBUG] [FML/]: Ignoring unknown file mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod in mods directory
+[15:27:34] [Client thread/DEBUG] [FML/]: Found a candidate mod directory WorldEdit
+[15:27:34] [Client thread/DEBUG] [FML/]: Examining file forge-1.7.10-10.13.4.1492-1.7.10.jar for potential mods
+[15:27:34] [Client thread/DEBUG] [FML/]: The mod container forge-1.7.10-10.13.4.1492-1.7.10.jar appears to be missing an mcmod.info file
+[15:27:36] [Client thread/DEBUG] [FML/]: Examining file launchwrapper-1.12.jar for potential mods
+[15:27:36] [Client thread/DEBUG] [FML/]: The mod container launchwrapper-1.12.jar appears to be missing an mcmod.info file
+[15:27:36] [Client thread/DEBUG] [FML/]: Examining file asm-all-5.0.3.jar for potential mods
+[15:27:36] [Client thread/DEBUG] [FML/]: The mod container asm-all-5.0.3.jar appears to be missing an mcmod.info file
+[15:27:36] [Client thread/DEBUG] [FML/]: Examining file config-1.2.1.jar for potential mods
+[15:27:36] [Client thread/DEBUG] [FML/]: The mod container config-1.2.1.jar appears to be missing an mcmod.info file
+[15:27:36] [Client thread/DEBUG] [FML/]: Examining file scala-actors-migration_2.11-1.1.0.jar for potential mods
+[15:27:36] [Client thread/DEBUG] [FML/]: The mod container scala-actors-migration_2.11-1.1.0.jar appears to be missing an mcmod.info file
+[15:27:36] [Client thread/DEBUG] [FML/]: Examining file scala-compiler-2.11.7.jar for potential mods
+[15:27:36] [Client thread/DEBUG] [FML/]: The mod container scala-compiler-2.11.7.jar appears to be missing an mcmod.info file
+[15:27:44] [Client thread/DEBUG] [FML/]: Examining file scala-continuations-library_2.11-1.0.2.jar for potential mods
+[15:27:44] [Client thread/DEBUG] [FML/]: The mod container scala-continuations-library_2.11-1.0.2.jar appears to be missing an mcmod.info file
+[15:27:44] [Client thread/DEBUG] [FML/]: Examining file scala-library-2.11.7.jar for potential mods
+[15:27:44] [Client thread/DEBUG] [FML/]: The mod container scala-library-2.11.7.jar appears to be missing an mcmod.info file
+[15:27:45] [Client thread/DEBUG] [FML/]: Examining file scala-parser-combinators_2.11-1.0.3.jar for potential mods
+[15:27:45] [Client thread/DEBUG] [FML/]: The mod container scala-parser-combinators_2.11-1.0.3.jar appears to be missing an mcmod.info file
+[15:27:46] [Client thread/DEBUG] [FML/]: Examining file scala-reflect-2.11.7.jar for potential mods
+[15:27:46] [Client thread/DEBUG] [FML/]: The mod container scala-reflect-2.11.7.jar appears to be missing an mcmod.info file
+[15:27:47] [Client thread/DEBUG] [FML/]: Examining file scala-swing_2.11-1.0.2.jar for potential mods
+[15:27:47] [Client thread/DEBUG] [FML/]: The mod container scala-swing_2.11-1.0.2.jar appears to be missing an mcmod.info file
+[15:27:47] [Client thread/DEBUG] [FML/]: Examining file scala-xml_2.11-1.0.4.jar for potential mods
+[15:27:47] [Client thread/DEBUG] [FML/]: The mod container scala-xml_2.11-1.0.4.jar appears to be missing an mcmod.info file
+[15:27:47] [Client thread/DEBUG] [FML/]: Examining file jopt-simple-4.9.jar for potential mods
+[15:27:47] [Client thread/DEBUG] [FML/]: The mod container jopt-simple-4.9.jar appears to be missing an mcmod.info file
+[15:27:47] [Client thread/DEBUG] [FML/]: Examining file lzma-0.0.1.jar for potential mods
+[15:27:47] [Client thread/DEBUG] [FML/]: The mod container lzma-0.0.1.jar appears to be missing an mcmod.info file
+[15:27:47] [Client thread/DEBUG] [FML/]: Examining file realms-1.3.5.jar for potential mods
+[15:27:47] [Client thread/DEBUG] [FML/]: The mod container realms-1.3.5.jar appears to be missing an mcmod.info file
+[15:27:47] [Client thread/DEBUG] [FML/]: Examining file commons-compress-1.9.jar for potential mods
+[15:27:47] [Client thread/DEBUG] [FML/]: The mod container commons-compress-1.9.jar appears to be missing an mcmod.info file
+[15:27:48] [Client thread/DEBUG] [FML/]: Examining file httpclient-4.3.3.jar for potential mods
+[15:27:48] [Client thread/DEBUG] [FML/]: The mod container httpclient-4.3.3.jar appears to be missing an mcmod.info file
+[15:27:48] [Client thread/DEBUG] [FML/]: Examining file commons-logging-1.2.jar for potential mods
+[15:27:48] [Client thread/DEBUG] [FML/]: The mod container commons-logging-1.2.jar appears to be missing an mcmod.info file
+[15:27:48] [Client thread/DEBUG] [FML/]: Examining file httpcore-4.3.2.jar for potential mods
+[15:27:48] [Client thread/DEBUG] [FML/]: The mod container httpcore-4.3.2.jar appears to be missing an mcmod.info file
+[15:27:48] [Client thread/DEBUG] [FML/]: Examining file vecmath-1.5.2.jar for potential mods
+[15:27:48] [Client thread/DEBUG] [FML/]: The mod container vecmath-1.5.2.jar appears to be missing an mcmod.info file
+[15:27:48] [Client thread/DEBUG] [FML/]: Examining file trove4j-3.0.3.jar for potential mods
+[15:27:48] [Client thread/DEBUG] [FML/]: The mod container trove4j-3.0.3.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file icu4j-55.1.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container icu4j-55.1.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file codecjorbis-20101023.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container codecjorbis-20101023.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file codecwav-20101023.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container codecwav-20101023.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file libraryjavasound-20101123.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file librarylwjglopenal-20100824.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container librarylwjglopenal-20100824.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file soundsystem-20120107.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container soundsystem-20120107.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file netty-all-4.0.10.Final.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container netty-all-4.0.10.Final.jar appears to be missing an mcmod.info file
+[15:27:49] [Client thread/DEBUG] [FML/]: Examining file guava-18.0.jar for potential mods
+[15:27:49] [Client thread/DEBUG] [FML/]: The mod container guava-18.0.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file commons-lang3-3.4.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container commons-lang3-3.4.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file commons-io-2.4.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container commons-io-2.4.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file jutils-1.0.0.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container jutils-1.0.0.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file gson-2.3.1.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container gson-2.3.1.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file authlib-1.5.21.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container authlib-1.5.21.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file log4j-api-2.0-beta9.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container log4j-api-2.0-beta9.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file log4j-core-2.0-beta9.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container log4j-core-2.0-beta9.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file twitch-5.16.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container twitch-5.16.jar appears to be missing an mcmod.info file
+[15:27:51] [Client thread/DEBUG] [FML/]: Examining file 1.7.10-Forge10.13.4.1492-1.7.10.jar for potential mods
+[15:27:51] [Client thread/DEBUG] [FML/]: The mod container 1.7.10-Forge10.13.4.1492-1.7.10.jar appears to be missing an mcmod.info file
+[15:27:52] [Client thread/DEBUG] [FML/]: Examining file CodeChickenLib-1.7.10-1.1.3.140-universal.jar for potential mods
+[15:27:52] [Client thread/DEBUG] [FML/]: The mod container CodeChickenLib-1.7.10-1.1.3.140-universal.jar appears to be missing an mcmod.info file
+[15:27:52] [Client thread/DEBUG] [FML/]: Examining file mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod for potential mods
+[15:27:52] [Client thread/DEBUG] [FML/]: The mod container mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod appears to be missing an mcmod.info file
+[15:27:52] [Client thread/DEBUG] [FML/]: Examining file mod_voxelMap_1.5.17_for_1.7.10.litemod for potential mods
+[15:27:52] [Client thread/DEBUG] [FML/]: The mod container mod_voxelMap_1.5.17_for_1.7.10.litemod appears to be missing an mcmod.info file
+[15:27:52] [Client thread/DEBUG] [FML/]: Examining directory 1.7.10 for potential mods
+[15:27:52] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory 1.7.10
+[15:27:52] [Client thread/TRACE] [FML/]: Recursing into package WorldEdit
+[15:27:52] [Client thread/DEBUG] [FML/]: Examining file DragonAPI 1.7.10 V8a.jar for potential mods
+[15:27:52] [Client thread/TRACE] [FML/]: Located mcmod.info file in file DragonAPI 1.7.10 V8a.jar
+[15:27:52] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (Reika.DragonAPI.DragonAPIInit) - loading
+[15:27:52] [Client thread/TRACE] [DragonAPI/]: Parsed dependency info : [Forge@[10.13.0.1291,)] [Forge@[10.13.0.1291,), BuildCraft|Energy, IC2, ThermalExpansion, Thaumcraft, powersuits, GalacticCraft, Mystcraft, UniversalElectricity, Forestry, MagicBees, BinnieCore, Natura, TConstruct, ProjRed|Core, bluepower, Waila, funkylocomotion, chisel] []
+[15:27:52] [Client thread/INFO] [DragonAPI/]: Mod DragonAPI is missing the required element 'name'. Substituting DragonAPI
+[15:27:52] [Client thread/DEBUG] [DragonAPI/]: Attempting to load the file version.properties from DragonAPI 1.7.10 V8a.jar to locate a version number for DragonAPI
+[15:27:52] [Client thread/WARN] [DragonAPI/]: Mod DragonAPI is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[15:27:53] [Client thread/DEBUG] [FML/]: Examining file ExtendedPotions-MC1.7.10-1.2.jar for potential mods
+[15:27:53] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ExtendedPotions-MC1.7.10-1.2.jar
+[15:27:53] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (lumien.extendedpotions.ExtendedPotions) - loading
+[15:27:53] [Client thread/TRACE] [ExtendedPotions/]: Parsed dependency info : [] [] [*]
+[15:27:53] [Client thread/DEBUG] [FML/]: Examining file fastcraft-1.21.jar for potential mods
+[15:27:53] [Client thread/TRACE] [FML/]: Located mcmod.info file in file fastcraft-1.21.jar
+[15:27:53] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (fastcraft.a) - loading
+[15:27:53] [Client thread/TRACE] [FastCraft/]: Parsed dependency info : [] [] []
+[15:27:53] [Client thread/DEBUG] [FML/]: Examining file FPSPlus-1.7.10.jar for potential mods
+[15:27:53] [Client thread/TRACE] [FML/]: Located mcmod.info file in file FPSPlus-1.7.10.jar
+[15:27:53] [Client thread/DEBUG] [FML/]: Examining file GeoStrata 1.7.10 V8a.jar for potential mods
+[15:27:53] [Client thread/TRACE] [FML/]: Located mcmod.info file in file GeoStrata 1.7.10 V8a.jar
+[15:27:53] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (Reika.GeoStrata.GeoStrata) - loading
+[15:27:53] [Client thread/TRACE] [GeoStrata/]: Parsed dependency info : [DragonAPI] [DragonAPI] []
+[15:27:53] [Client thread/DEBUG] [GeoStrata/]: Attempting to load the file version.properties from GeoStrata 1.7.10 V8a.jar to locate a version number for GeoStrata
+[15:27:53] [Client thread/WARN] [GeoStrata/]: Mod GeoStrata is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[15:27:53] [Client thread/DEBUG] [FML/]: Examining file sampler-1.45.jar for potential mods
+[15:27:53] [Client thread/TRACE] [FML/]: Located mcmod.info file in file sampler-1.45.jar
+[15:27:53] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (sampler.c) - loading
+[15:27:53] [Client thread/TRACE] [Sampler/]: Parsed dependency info : [] [] []
+[15:27:53] [Client thread/DEBUG] [FML/]: Examining file shadowworld-1.3.3.jar for potential mods
+[15:27:53] [Client thread/TRACE] [FML/]: Located mcmod.info file in file shadowworld-1.3.3.jar
+[15:27:53] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (jajo_11.ShadowWorld.ShadowWorld) - loading
+[15:27:53] [Client thread/TRACE] [shadowworld/]: Parsed dependency info : [] [] []
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining file vChat-0.2r14.jar for potential mods
+[15:27:54] [Client thread/DEBUG] [FML/]: The mod container vChat-0.2r14.jar appears to be missing an mcmod.info file
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (vic.mod.chat.VChat) - loading
+[15:27:54] [Client thread/TRACE] [vchat/]: Parsed dependency info : [] [] []
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining directory VoxelMods for potential mods
+[15:27:54] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory VoxelMods
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World SF
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World SF.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 24
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 24.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 25
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 25.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 26
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 26.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 27
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 27.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 28
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 28.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 29
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 29.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 31
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 31.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 32
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.New World UGB 32.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.SW 1
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.SW 1.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.SW 1.Shadow World (dimension -45)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.UGB  33
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.UGB  33.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.UGB 34
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.UGB 34.Overworld (dimension 0)
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.UGB 38
+[15:27:54] [Client thread/TRACE] [FML/]: Recursing into package voxelMap.cache.UGB 38.Overworld (dimension 0)
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining file Waila-1.5.10_1.7.10.jar for potential mods
+[15:27:54] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Waila-1.5.10_1.7.10.jar
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (mcp.mobius.waila.Waila) - loading
+[15:27:54] [Client thread/TRACE] [Waila/]: Parsed dependency info : [] [NotEnoughItems@[1.0.4.0,)] []
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining file Wawla-1.3.1-1.7.10.jar for potential mods
+[15:27:54] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Wawla-1.3.1-1.7.10.jar
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (net.darkhax.wawla.Wawla) - loading
+[15:27:54] [Client thread/TRACE] [wawla/]: Parsed dependency info : [Waila] [Waila] []
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining file [1.7.10]bspkrsCore-universal-6.16.jar for potential mods
+[15:27:54] [Client thread/TRACE] [FML/]: Located mcmod.info file in file [1.7.10]bspkrsCore-universal-6.16.jar
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (bspkrs.bspkrscore.fml.bspkrsCoreMod) - loading
+[15:27:54] [Client thread/TRACE] [bspkrsCore/]: Using mcmod dependency info : [Forge@[10.13.2.1291,)] [Forge@[10.13.2.1291,)] []
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining file Baubles-1.7.10-1.0.1.10-ci.jar for potential mods
+[15:27:54] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Baubles-1.7.10-1.0.1.10-ci.jar
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (baubles.common.Baubles) - loading
+[15:27:54] [Client thread/TRACE] [Baubles/]: Parsed dependency info : [Forge@[10.13.2,)] [Forge@[10.13.2,)] []
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining file CodeChickenLib-1.7.10-1.1.3.140-universal.jar for potential mods
+[15:27:54] [Client thread/DEBUG] [FML/]: The mod container CodeChickenLib-1.7.10-1.1.3.140-universal.jar appears to be missing an mcmod.info file
+[15:27:54] [Client thread/DEBUG] [FML/]: Examining file ForgeMultipart-1.7.10-1.2.0.345-universal.jar for potential mods
+[15:27:54] [Client thread/TRACE] [FML/]: Located mcmod.info file in file ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (codechicken.microblock.handler.MicroblockMod) - loading
+[15:27:54] [Client thread/TRACE] [ForgeMicroblock/]: Parsed dependency info : [ForgeMultipart] [ForgeMultipart, *] []
+[15:27:54] [Client thread/DEBUG] [ForgeMicroblock/]: Attempting to load the file version.properties from ForgeMultipart-1.7.10-1.2.0.345-universal.jar to locate a version number for ForgeMicroblock
+[15:27:54] [Client thread/WARN] [ForgeMicroblock/]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (codechicken.multipart.handler.MultipartMod) - loading
+[15:27:54] [Client thread/TRACE] [ForgeMultipart/]: Parsed dependency info : [] [] []
+[15:27:54] [Client thread/DEBUG] [ForgeMultipart/]: Attempting to load the file version.properties from ForgeMultipart-1.7.10-1.2.0.345-universal.jar to locate a version number for ForgeMultipart
+[15:27:54] [Client thread/WARN] [ForgeMultipart/]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[15:27:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (codechicken.multipart.minecraft.MinecraftMultipartMod) - loading
+[15:27:54] [Client thread/TRACE] [McMultipart/]: Parsed dependency info : [] [] []
+[15:27:54] [Client thread/DEBUG] [McMultipart/]: Attempting to load the file version.properties from ForgeMultipart-1.7.10-1.2.0.345-universal.jar to locate a version number for McMultipart
+[15:27:54] [Client thread/WARN] [McMultipart/]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[15:27:55] [Client thread/DEBUG] [FML/]: Examining directory WorldEdit for potential mods
+[15:27:55] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory WorldEdit
+[15:27:55] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 20 mods to load
+[15:27:55] [Client thread/DEBUG] [FML/]: Found API minechem.api (owned by minechem providing minechemAPI) embedded in DragonAPI
+[15:27:55] [Client thread/DEBUG] [FML/]: Found API cofh.api (owned by CoFHLib providing CoFHAPI) embedded in DragonAPI
+[15:27:55] [Client thread/DEBUG] [FML/]: Found API mcp.mobius.waila.api (owned by Waila providing WailaAPI) embedded in Waila
+[15:27:55] [Client thread/DEBUG] [FML/]: Found API appeng.api (owned by appliedenergistics2 providing appliedenergistics2|API) embedded in DragonAPI
+[15:27:55] [Client thread/DEBUG] [FML/]: Found API baubles.api (owned by Baubles providing Baubles|API) embedded in Baubles
+[15:27:55] [Client thread/DEBUG] [FML/]: Found API cofh.api.energy (owned by CoFHAPI providing CoFHAPI|energy) embedded in DragonAPI
+[15:27:55] [Client thread/DEBUG] [FML/]: Creating API container dummy for API Baubles|API: owner: Baubles, dependents: []
+[15:27:55] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI: owner: CoFHLib, dependents: [DragonAPI]
+[15:27:55] [Client thread/DEBUG] [FML/]: Creating API container dummy for API appliedenergistics2|API: owner: appliedenergistics2, dependents: [DragonAPI]
+[15:27:55] [Client thread/DEBUG] [FML/]: Creating API container dummy for API minechemAPI: owner: minechem, dependents: [DragonAPI]
+[15:27:55] [Client thread/DEBUG] [FML/]: Creating API container dummy for API WailaAPI: owner: Waila, dependents: []
+[15:27:55] [Client thread/TRACE] [FML/]: Removing upstream parent CoFHLib from APIContainer{CoFHAPI|energy:1.7.10R1.0.2}
+[15:27:55] [Client thread/DEBUG] [FML/]: Creating API container dummy for API CoFHAPI|energy: owner: CoFHAPI, dependents: [DragonAPI]
+[15:27:55] [Client thread/TRACE] [FML/]: Received a system property request ''
+[15:27:55] [Client thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[15:27:55] [Client thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1492-1.7.10.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1492-1.7.10.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in NotEnoughItems-1.7.10-1.0.5.111-universal.jar [cs_CZ, fr_FR, et_EE, zh_CN, it_IT, zh_TW, de_DE, tr_TR, ru_RU, pt_BR, sk_SK, ko_KR, pl_PL, en_US]
+[15:27:55] [Client thread/DEBUG] [DragonAPI/]: Enabling mod DragonAPI
+[15:27:55] [Client thread/DEBUG] [ExtendedPotions/]: Enabling mod ExtendedPotions
+[15:27:55] [Client thread/DEBUG] [FastCraft/]: Enabling mod FastCraft
+[15:27:55] [Client thread/DEBUG] [GeoStrata/]: Enabling mod GeoStrata
+[15:27:55] [Client thread/DEBUG] [Sampler/]: Enabling mod Sampler
+[15:27:55] [Client thread/DEBUG] [shadowworld/]: Enabling mod shadowworld
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in shadowworld-1.3.3.jar [en_US]
+[15:27:55] [Client thread/DEBUG] [vchat/]: Enabling mod vchat
+[15:27:55] [Client thread/DEBUG] [Waila/]: Enabling mod Waila
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in Waila-1.5.10_1.7.10.jar [de_DE, ru_RU, en_US, it_IT, zh_CN, fr_FR, et_EE, nl_NL]
+[15:27:55] [Client thread/DEBUG] [wawla/]: Enabling mod wawla
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in Wawla-1.3.1-1.7.10.jar [en_US, es_MX, ru_RU, zh_CN]
+[15:27:55] [Client thread/DEBUG] [bspkrsCore/]: Enabling mod bspkrsCore
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in [1.7.10]bspkrsCore-universal-6.16.jar [en_US, cs_CZ, pl_PL, de_DE, ru_RU]
+[15:27:55] [Client thread/DEBUG] [Baubles/]: Enabling mod Baubles
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in Baubles-1.7.10-1.0.1.10-ci.jar [ar_SA, cs_CZ, da_DK, de_DE, en_US, et_EE, fi_FI, fr_FR, it_IT, ko_KR, nl_NL, no_NO, pl_PL, pt_BR, ru_RU, zh_CN, zh_TW]
+[15:27:55] [Client thread/DEBUG] [ForgeMicroblock/]: Enabling mod ForgeMicroblock
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in ForgeMultipart-1.7.10-1.2.0.345-universal.jar [pl_PL, en_US, fr_CA, cs_CZ, pt_BR, hr_HR, tr_TR, es_ES, fr_FR, ru_RU, de_DE, zh_TW, it_IT, ko_KR, zh_CN, nl_NL]
+[15:27:55] [Client thread/DEBUG] [ForgeMultipart/]: Enabling mod ForgeMultipart
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in ForgeMultipart-1.7.10-1.2.0.345-universal.jar [pl_PL, en_US, fr_CA, cs_CZ, pt_BR, hr_HR, tr_TR, es_ES, fr_FR, ru_RU, de_DE, zh_TW, it_IT, ko_KR, zh_CN, nl_NL]
+[15:27:55] [Client thread/DEBUG] [McMultipart/]: Enabling mod McMultipart
+[15:27:55] [Client thread/DEBUG] [FML/]: Found translations in ForgeMultipart-1.7.10-1.2.0.345-universal.jar [pl_PL, en_US, fr_CA, cs_CZ, pt_BR, hr_HR, tr_TR, es_ES, fr_FR, ru_RU, de_DE, zh_TW, it_IT, ko_KR, zh_CN, nl_NL]
+[15:27:55] [Client thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[15:27:55] [Client thread/TRACE] [FML/]: All mod requirements are satisfied
+[15:27:55] [Client thread/TRACE] [FML/]: Sorting mods into an ordered list
+[15:27:55] [Client thread/TRACE] [FML/]: Mod sorting completed successfully
+[15:27:55] [Client thread/DEBUG] [FML/]: Mod sorting data
+[15:27:55] [Client thread/DEBUG] [FML/]: 	ExtendedPotions(Extended Potions:1.2): ExtendedPotions-MC1.7.10-1.2.jar (before:*)
+[15:27:55] [Client thread/DEBUG] [FML/]: 	Waila(Waila:1.5.10): Waila-1.5.10_1.7.10.jar (after:NotEnoughItems@[1.0.4.0,))
+[15:27:55] [Client thread/DEBUG] [FML/]: 	CoFHAPI(API: CoFHAPI:1.7.10R1.0.2): DragonAPI 1.7.10 V8a.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	appliedenergistics2|API(API: appliedenergistics2|API:rv2): DragonAPI 1.7.10 V8a.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	minechemAPI(API: minechemAPI:1.7.10R1): DragonAPI 1.7.10 V8a.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	CoFHAPI|energy(API: CoFHAPI|energy:1.7.10R1.0.2): DragonAPI 1.7.10 V8a.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	DragonAPI(DragonAPI:1.0): DragonAPI 1.7.10 V8a.jar (required-after:Forge@[10.13.0.1291,);after:BuildCraft|Energy;after:IC2;after:ThermalExpansion;after:Thaumcraft;after:powersuits;after:GalacticCraft;after:Mystcraft;after:UniversalElectricity;after:Forestry;after:MagicBees;after:BinnieCore;after:Natura;after:TConstruct;after:ProjRed|Core;after:bluepower;after:Waila;after:funkylocomotion;after:chisel)
+[15:27:55] [Client thread/DEBUG] [FML/]: 	FastCraft(FastCraft:1.21): fastcraft-1.21.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	GeoStrata(GeoStrata:1.0): GeoStrata 1.7.10 V8a.jar (required-after:DragonAPI)
+[15:27:55] [Client thread/DEBUG] [FML/]: 	Sampler(Sampler:1.45): sampler-1.45.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	shadowworld(Shadow World:1.3.3): shadowworld-1.3.3.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	vchat(vChat:0.2r14): vChat-0.2r14.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	wawla(What Are We Looking At:1.3.1): Wawla-1.3.1-1.7.10.jar (required-after:Waila)
+[15:27:55] [Client thread/DEBUG] [FML/]: 	bspkrsCore(bspkrsCore:6.16): [1.7.10]bspkrsCore-universal-6.16.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	Baubles(Baubles:1.0.1.10): Baubles-1.7.10-1.0.1.10-ci.jar (required-after:Forge@[10.13.2,);)
+[15:27:55] [Client thread/DEBUG] [FML/]: 	ForgeMultipart(Forge Multipart:1.2.0.345): ForgeMultipart-1.7.10-1.2.0.345-universal.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	McMultipart(Minecraft Multipart Plugin:1.2.0.345): ForgeMultipart-1.7.10-1.2.0.345-universal.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	Baubles|API(API: Baubles|API:1.0.1.10): Baubles-1.7.10-1.0.1.10-ci.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	WailaAPI(API: WailaAPI:1.2): Waila-1.5.10_1.7.10.jar ()
+[15:27:55] [Client thread/DEBUG] [FML/]: 	ForgeMicroblock(Forge Microblocks:1.2.0.345): ForgeMultipart-1.7.10-1.2.0.345-universal.jar (required-after:ForgeMultipart;after:*)
+[15:27:55] [Client thread/INFO] [FML/]: FML has found a non-mod file FPSPlus-1.7.10.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:27:55] [Client thread/INFO] [FML/]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.140-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:27:55] [Client thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[15:27:55] [Client thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[15:27:55] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0,005s
+[15:27:55] [Client thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[15:27:57] [Client thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[15:27:57] [Client thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[15:27:57] [Client thread/TRACE] [FML/FML]: The mod FML accepts its own version (7.10.99.99)
+[15:27:57] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, NotEnoughItems, <DragonAPI ASM>, DragonAPI, ExtendedPotions, FastCraft, GeoStrata, Sampler, shadowworld, vchat, Waila, wawla, bspkrsCore, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart] at CLIENT
+[15:27:57] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, CodeChickenCore, NotEnoughItems, <DragonAPI ASM>, DragonAPI, ExtendedPotions, FastCraft, GeoStrata, Sampler, shadowworld, vchat, Waila, wawla, bspkrsCore, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart] at SERVER
+[15:28:00] [Client thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[15:28:00] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 4,801s
+[15:28:00] [Client thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[15:28:00] [Client thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[15:28:00] [Client thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[15:28:00] [Client thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (10.13.4.1492)
+[15:28:00] [Client thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[15:28:00] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0,127s
+[15:28:00] [Client thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLConstructionEvent to mod CodeChickenCore
+[15:28:00] [Client thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLConstructionEvent to mod CodeChickenCore
+[15:28:00] [Client thread/DEBUG] [FML/]: Bar Step: Construction - CodeChicken Core took 0,001s
+[15:28:00] [Client thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sending event FMLConstructionEvent to mod NotEnoughItems
+[15:28:00] [Client thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sent event FMLConstructionEvent to mod NotEnoughItems
+[15:28:00] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Not Enough Items took 0,053s
+[15:28:00] [Client thread/TRACE] [<DragonAPI ASM>/<DragonAPI ASM>]: Sending event FMLConstructionEvent to mod <DragonAPI ASM>
+[15:28:00] [Client thread/TRACE] [<DragonAPI ASM>/<DragonAPI ASM>]: Sent event FMLConstructionEvent to mod <DragonAPI ASM>
+[15:28:00] [Client thread/DEBUG] [FML/]: Bar Step: Construction - DragonAPI ASM Data Initialization took 0,022s
+[15:28:00] [Client thread/TRACE] [ExtendedPotions/ExtendedPotions]: Sending event FMLConstructionEvent to mod ExtendedPotions
+[15:28:00] [Client thread/TRACE] [FML/ExtendedPotions]: Mod ExtendedPotions is using network checker : Accepting version 1.2
+[15:28:00] [Client thread/TRACE] [FML/ExtendedPotions]: Testing mod ExtendedPotions to verify it accepts its own version in a remote connection
+[15:28:00] [Client thread/TRACE] [FML/ExtendedPotions]: The mod ExtendedPotions accepts its own version (1.2)
+[15:28:00] [Client thread/DEBUG] [FML/ExtendedPotions]: Attempting to inject @SidedProxy classes into ExtendedPotions
+[15:28:00] [Client thread/TRACE] [ExtendedPotions/ExtendedPotions]: Sent event FMLConstructionEvent to mod ExtendedPotions
+[15:28:00] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Extended Potions took 0,059s
+[15:28:00] [Client thread/TRACE] [Waila/Waila]: Sending event FMLConstructionEvent to mod Waila
+[15:28:01] [Client thread/TRACE] [FML/Waila]: Mod Waila is using network checker : No network checking performed
+[15:28:01] [Client thread/TRACE] [FML/Waila]: Testing mod Waila to verify it accepts its own version in a remote connection
+[15:28:01] [Client thread/TRACE] [FML/Waila]: The mod Waila accepts its own version (1.5.10)
+[15:28:01] [Client thread/DEBUG] [FML/Waila]: Attempting to inject @SidedProxy classes into Waila
+[15:28:01] [Client thread/TRACE] [Waila/Waila]: Sent event FMLConstructionEvent to mod Waila
+[15:28:01] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Waila took 0,135s
+[15:28:01] [Client thread/TRACE] [DragonAPI/DragonAPI]: Sending event FMLConstructionEvent to mod DragonAPI
+[15:28:01] [Client thread/INFO] [LiteLoader/DragonAPI]: Injecting ons04packetentityequipment[x1] in func_148833_a in S04PacketEntityEquipment
+[15:28:01] [Client thread/INFO] [LiteLoader/DragonAPI]: Injecting ons0dpacketcollectitem[x1] in func_148833_a in S0DPacketCollectItem
+[15:28:01] [Client thread/INFO] [LiteLoader/DragonAPI]: Injecting ons0bpacketanimation[x1] in func_148833_a in S0BPacketAnimation
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Registering reflexive method access to class net.minecraft.entity.EntityLivingBase.dropFewItems (obfuscated as func_70628_a)
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Registering reflexive method access to class net.minecraft.entity.EntityLivingBase.dropEquipment (obfuscated as func_82160_b)
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Registering reflexive method access to class net.minecraft.entity.EntityLivingBase.dropRareDrop (obfuscated as func_70600_l)
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Registering reflexive method access to class net.minecraft.client.resources.AbstractResourcePack.getInputStreamByName (obfuscated as func_110591_a)
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Registering reflexive field access to class net.minecraft.potion.Potion.potionTypes (obfuscated as field_76425_a)
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DragonAPI is not running in a deobfuscated environment.
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: Registered DRAGONAPI as version v8a
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Constructed; Active Classloader is: net.minecraft.launchwrapper.LaunchClassLoader@46f7ba12
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Completed loading phase CONSTRUCT in 146 ms (0h:0m:0s:146ms).
+[15:28:01] [Client thread/ERROR] [DragonAPI/DragonAPI]: The mod DragonAPI is expecting signature 32:F5:F4:E8:44:C0:EA:C8:6F:46:8A:8E:F3:05:05:7B:6F:90:0F:78 for source DragonAPI 1.7.10 V8a.jar, however there is no signature matching that description
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DragonAPI is not running in a deobfuscated environment.
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: Registered DRAGONAPI as version v8a
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Constructed; Active Classloader is: net.minecraft.launchwrapper.LaunchClassLoader@46f7ba12
+[15:28:01] [Client thread/INFO] [FML/DragonAPI]: DRAGONAPI: Completed loading phase CONSTRUCT in 2 ms (0h:0m:0s:2ms).
+[15:28:01] [Client thread/TRACE] [FML/DragonAPI]: Mod DragonAPI is using network checker : Accepting version 1.0
+[15:28:01] [Client thread/TRACE] [FML/DragonAPI]: Testing mod DragonAPI to verify it accepts its own version in a remote connection
+[15:28:01] [Client thread/TRACE] [FML/DragonAPI]: The mod DragonAPI accepts its own version (1.0)
+[15:28:01] [Client thread/DEBUG] [FML/DragonAPI]: Attempting to inject @SidedProxy classes into DragonAPI
+[15:28:01] [Client thread/TRACE] [DragonAPI/DragonAPI]: Sent event FMLConstructionEvent to mod DragonAPI
+[15:28:01] [Client thread/DEBUG] [FML/]: Bar Step: Construction - DragonAPI took 0,872s
+[15:28:01] [Client thread/TRACE] [FastCraft/FastCraft]: Sending event FMLConstructionEvent to mod FastCraft
+[15:28:01] [Client thread/TRACE] [FML/FastCraft]: Mod FastCraft is using network checker : No network checking performed
+[15:28:01] [Client thread/TRACE] [FML/FastCraft]: Testing mod FastCraft to verify it accepts its own version in a remote connection
+[15:28:01] [Client thread/TRACE] [FML/FastCraft]: The mod FastCraft accepts its own version (1.21)
+[15:28:01] [Client thread/DEBUG] [FML/FastCraft]: Attempting to inject @SidedProxy classes into FastCraft
+[15:28:01] [Client thread/TRACE] [FastCraft/FastCraft]: Sent event FMLConstructionEvent to mod FastCraft
+[15:28:01] [Client thread/DEBUG] [FML/]: Bar Step: Construction - FastCraft took 0,047s
+[15:28:01] [Client thread/TRACE] [GeoStrata/GeoStrata]: Sending event FMLConstructionEvent to mod GeoStrata
+[15:28:02] [Client thread/TRACE] [GeoStrata/GeoStrata]: Sent event FMLConstructionEvent to mod GeoStrata
+[15:28:02] [Client thread/DEBUG] [FML/]: Bar Step: Construction - GeoStrata took 0,203s
+[15:28:02] [Client thread/TRACE] [Sampler/Sampler]: Sending event FMLConstructionEvent to mod Sampler
+[15:28:02] [Client thread/TRACE] [FML/Sampler]: Mod Sampler is using network checker : Invoking method a
+[15:28:02] [Client thread/TRACE] [FML/Sampler]: Testing mod Sampler to verify it accepts its own version in a remote connection
+[15:28:02] [Client thread/TRACE] [FML/Sampler]: The mod Sampler accepts its own version (1.45)
+[15:28:02] [Client thread/DEBUG] [FML/Sampler]: Attempting to inject @SidedProxy classes into Sampler
+[15:28:02] [Client thread/TRACE] [Sampler/Sampler]: Sent event FMLConstructionEvent to mod Sampler
+[15:28:02] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Sampler took 0,037s
+[15:28:02] [Client thread/TRACE] [shadowworld/shadowworld]: Sending event FMLConstructionEvent to mod shadowworld
+[15:28:02] [Client thread/TRACE] [FML/shadowworld]: Mod shadowworld is using network checker : Accepting version 1.3.3
+[15:28:02] [Client thread/TRACE] [FML/shadowworld]: Testing mod shadowworld to verify it accepts its own version in a remote connection
+[15:28:02] [Client thread/TRACE] [FML/shadowworld]: The mod shadowworld accepts its own version (1.3.3)
+[15:28:02] [Client thread/DEBUG] [FML/shadowworld]: Attempting to inject @SidedProxy classes into shadowworld
+[15:28:04] [Client thread/TRACE] [shadowworld/shadowworld]: Sent event FMLConstructionEvent to mod shadowworld
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Shadow World took 1,786s
+[15:28:04] [Client thread/TRACE] [vchat/vchat]: Sending event FMLConstructionEvent to mod vchat
+[15:28:04] [Client thread/TRACE] [FML/vchat]: Mod vchat is using network checker : No network checking performed
+[15:28:04] [Client thread/TRACE] [FML/vchat]: Testing mod vchat to verify it accepts its own version in a remote connection
+[15:28:04] [Client thread/TRACE] [FML/vchat]: The mod vchat accepts its own version (0.2r14)
+[15:28:04] [Client thread/DEBUG] [FML/vchat]: Attempting to inject @SidedProxy classes into vchat
+[15:28:04] [Client thread/TRACE] [vchat/vchat]: Sent event FMLConstructionEvent to mod vchat
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - vChat took 0,100s
+[15:28:04] [Client thread/TRACE] [wawla/wawla]: Sending event FMLConstructionEvent to mod wawla
+[15:28:04] [Client thread/TRACE] [FML/wawla]: Mod wawla is using network checker : No network checking performed
+[15:28:04] [Client thread/TRACE] [FML/wawla]: Testing mod wawla to verify it accepts its own version in a remote connection
+[15:28:04] [Client thread/TRACE] [FML/wawla]: The mod wawla accepts its own version (1.3.1)
+[15:28:04] [Client thread/DEBUG] [FML/wawla]: Attempting to inject @SidedProxy classes into wawla
+[15:28:04] [Client thread/TRACE] [wawla/wawla]: Sent event FMLConstructionEvent to mod wawla
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - What Are We Looking At took 0,023s
+[15:28:04] [Client thread/TRACE] [bspkrsCore/bspkrsCore]: Sending event FMLConstructionEvent to mod bspkrsCore
+[15:28:04] [Client thread/TRACE] [FML/bspkrsCore]: Mod bspkrsCore is using network checker : Accepting version 6.16
+[15:28:04] [Client thread/TRACE] [FML/bspkrsCore]: Testing mod bspkrsCore to verify it accepts its own version in a remote connection
+[15:28:04] [Client thread/TRACE] [FML/bspkrsCore]: The mod bspkrsCore accepts its own version (6.16)
+[15:28:04] [Client thread/DEBUG] [FML/bspkrsCore]: Attempting to inject @SidedProxy classes into bspkrsCore
+[15:28:04] [Client thread/TRACE] [bspkrsCore/bspkrsCore]: Sent event FMLConstructionEvent to mod bspkrsCore
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - bspkrsCore took 0,062s
+[15:28:04] [Client thread/TRACE] [Baubles/Baubles]: Sending event FMLConstructionEvent to mod Baubles
+[15:28:04] [Client thread/TRACE] [FML/Baubles]: Mod Baubles is using network checker : Accepting version 1.0.1.10
+[15:28:04] [Client thread/TRACE] [FML/Baubles]: Testing mod Baubles to verify it accepts its own version in a remote connection
+[15:28:04] [Client thread/TRACE] [FML/Baubles]: The mod Baubles accepts its own version (1.0.1.10)
+[15:28:04] [Client thread/DEBUG] [FML/Baubles]: Attempting to inject @SidedProxy classes into Baubles
+[15:28:04] [Client thread/TRACE] [Baubles/Baubles]: Sent event FMLConstructionEvent to mod Baubles
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Baubles took 0,108s
+[15:28:04] [Client thread/TRACE] [ForgeMultipart/ForgeMultipart]: Sending event FMLConstructionEvent to mod ForgeMultipart
+[15:28:04] [Client thread/TRACE] [FML/ForgeMultipart]: Mod ForgeMultipart is using network checker : Accepting version 1.2.0.345
+[15:28:04] [Client thread/TRACE] [FML/ForgeMultipart]: Testing mod ForgeMultipart to verify it accepts its own version in a remote connection
+[15:28:04] [Client thread/TRACE] [FML/ForgeMultipart]: The mod ForgeMultipart accepts its own version (1.2.0.345)
+[15:28:04] [Client thread/DEBUG] [FML/ForgeMultipart]: Attempting to inject @SidedProxy classes into ForgeMultipart
+[15:28:04] [Client thread/TRACE] [ForgeMultipart/ForgeMultipart]: Sent event FMLConstructionEvent to mod ForgeMultipart
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Forge Multipart took 0,198s
+[15:28:04] [Client thread/TRACE] [McMultipart/McMultipart]: Sending event FMLConstructionEvent to mod McMultipart
+[15:28:04] [Client thread/TRACE] [FML/McMultipart]: Mod McMultipart is using network checker : Accepting version 1.2.0.345
+[15:28:04] [Client thread/TRACE] [FML/McMultipart]: Testing mod McMultipart to verify it accepts its own version in a remote connection
+[15:28:04] [Client thread/TRACE] [FML/McMultipart]: The mod McMultipart accepts its own version (1.2.0.345)
+[15:28:04] [Client thread/DEBUG] [FML/McMultipart]: Attempting to inject @SidedProxy classes into McMultipart
+[15:28:04] [Client thread/TRACE] [McMultipart/McMultipart]: Sent event FMLConstructionEvent to mod McMultipart
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Multipart Plugin took 0,011s
+[15:28:04] [Client thread/TRACE] [ForgeMicroblock/ForgeMicroblock]: Sending event FMLConstructionEvent to mod ForgeMicroblock
+[15:28:04] [Client thread/TRACE] [FML/ForgeMicroblock]: Mod ForgeMicroblock is using network checker : Accepting version 1.2.0.345
+[15:28:04] [Client thread/TRACE] [FML/ForgeMicroblock]: Testing mod ForgeMicroblock to verify it accepts its own version in a remote connection
+[15:28:04] [Client thread/TRACE] [FML/ForgeMicroblock]: The mod ForgeMicroblock accepts its own version (1.2.0.345)
+[15:28:04] [Client thread/DEBUG] [FML/ForgeMicroblock]: Attempting to inject @SidedProxy classes into ForgeMicroblock
+[15:28:04] [Client thread/TRACE] [ForgeMicroblock/ForgeMicroblock]: Sent event FMLConstructionEvent to mod ForgeMicroblock
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Forge Microblocks took 0,331s
+[15:28:04] [Client thread/DEBUG] [FML/]: Bar Finished: Construction took 8,980s
+[15:28:04] [Client thread/DEBUG] [FML/]: Mod signature data
+[15:28:04] [Client thread/DEBUG] [FML/]:  	Valid Signatures:
+[15:28:04] [Client thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	7.10.99.99)	forge-1.7.10-10.13.4.1492-1.7.10.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	10.13.4.1492)	forge-1.7.10-10.13.4.1492-1.7.10.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		(33d120ed244004016981caddbb21dce75419f453) FastCraft	(FastCraft	1.21)	fastcraft-1.21.jar
+[15:28:04] [Client thread/DEBUG] [FML/]:  	Missing Signatures:
+[15:28:04] [Client thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		CodeChickenCore	(CodeChicken Core	1.0.7.46)	minecraft.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		NotEnoughItems	(Not Enough Items	1.0.5.111)	NotEnoughItems-1.7.10-1.0.5.111-universal.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		<DragonAPI ASM>	(DragonAPI ASM Data Initialization	0)	minecraft.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		ExtendedPotions	(Extended Potions	1.2)	ExtendedPotions-MC1.7.10-1.2.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		Waila	(Waila	1.5.10)	Waila-1.5.10_1.7.10.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		DragonAPI	(DragonAPI	1.0)	DragonAPI 1.7.10 V8a.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		GeoStrata	(GeoStrata	1.0)	GeoStrata 1.7.10 V8a.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		Sampler	(Sampler	1.45)	sampler-1.45.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		shadowworld	(Shadow World	1.3.3)	shadowworld-1.3.3.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		vchat	(vChat	0.2r14)	vChat-0.2r14.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		wawla	(What Are We Looking At	1.3.1)	Wawla-1.3.1-1.7.10.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		bspkrsCore	(bspkrsCore	6.16)	[1.7.10]bspkrsCore-universal-6.16.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		Baubles	(Baubles	1.0.1.10)	Baubles-1.7.10-1.0.1.10-ci.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		ForgeMultipart	(Forge Multipart	1.2.0.345)	ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		McMultipart	(Minecraft Multipart Plugin	1.2.0.345)	ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[15:28:04] [Client thread/DEBUG] [FML/]: 		ForgeMicroblock	(Forge Microblocks	1.2.0.345)	ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+[15:28:04] [Client thread/ERROR] [FML/]: Fatal errors were detected during the transition from CONSTRUCTING to PREINITIALIZATION. Loading cannot continue
+[15:28:04] [Client thread/ERROR] [FML/]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UC	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UC	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1492-1.7.10.jar) 
+	UC	Forge{10.13.4.1492} [Minecraft Forge] (forge-1.7.10-10.13.4.1492-1.7.10.jar) 
+	UC	CodeChickenCore{1.0.7.46} [CodeChicken Core] (minecraft.jar) 
+	UC	NotEnoughItems{1.0.5.111} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.111-universal.jar) 
+	UC	<DragonAPI ASM>{0} [DragonAPI ASM Data Initialization] (minecraft.jar) 
+	UC	ExtendedPotions{1.2} [Extended Potions] (ExtendedPotions-MC1.7.10-1.2.jar) 
+	UC	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UC	DragonAPI{1.0} [DragonAPI] (DragonAPI 1.7.10 V8a.jar) 
+	UC	FastCraft{1.21} [FastCraft] (fastcraft-1.21.jar) 
+	UE	GeoStrata{1.0} [GeoStrata] (GeoStrata 1.7.10 V8a.jar) 
+	UC	Sampler{1.45} [Sampler] (sampler-1.45.jar) 
+	UC	shadowworld{1.3.3} [Shadow World] (shadowworld-1.3.3.jar) 
+	UC	vchat{0.2r14} [vChat] (vChat-0.2r14.jar) 
+	UC	wawla{1.3.1} [What Are We Looking At] (Wawla-1.3.1-1.7.10.jar) 
+	UC	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) 
+	UC	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10-ci.jar) 
+	UC	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UC	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UC	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+[15:28:04] [Client thread/ERROR] [FML/]: The following problems were captured during this phase
+[15:28:04] [Client thread/ERROR] [FML/]: Caught exception from GeoStrata
+java.lang.NoClassDefFoundError: com/cricketcraft/chisel/api/carving/ICarvingGroup
+	at java.lang.Class.forName0(Native Method) ~[?:1.7.0_80]
+	at java.lang.Class.forName(Class.java:278) ~[?:1.7.0_80]
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:440) ~[forge-1.7.10-10.13.4.1492-1.7.10.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_80]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-18.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[forge-1.7.10-10.13.4.1492-1.7.10.jar:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[forge-1.7.10-10.13.4.1492-1.7.10.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_80]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-18.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-18.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_80]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.ClassNotFoundException: com.cricketcraft.chisel.api.carving.ICarvingGroup
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425) ~[?:1.7.0_80]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358) ~[?:1.7.0_80]
+	... 35 more
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 6
+	at org.objectweb.asm.ClassReader.readShort(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at cpw.mods.fml.common.asm.transformers.DeobfuscationTransformer.transform(DeobfuscationTransformer.java:34) ~[forge-1.7.10-10.13.4.1492-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425) ~[?:1.7.0_80]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358) ~[?:1.7.0_80]
+	... 35 more
+[15:28:05] [Client thread/INFO] [STDOUT/]: [net.minecraft.client.Minecraft:func_71377_b:349]: ---- Minecraft Crash Report ----
+// I bet Cylons wouldn't have this problem.
+
+Time: 31.08.15 15:28
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: com/cricketcraft/chisel/api/carving/ICarvingGroup
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:544)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.NoClassDefFoundError: com/cricketcraft/chisel/api/carving/ICarvingGroup
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:278)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:440)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: com.cricketcraft.chisel.api.carving.ICarvingGroup
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	... 35 more
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 6
+	at org.objectweb.asm.ClassReader.readShort(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at cpw.mods.fml.common.asm.transformers.DeobfuscationTransformer.transform(DeobfuscationTransformer.java:34)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+	... 37 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_80, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (compiled mode), Azul Systems, Inc.
+	Memory: 262786920 bytes (250 MB) / 471322624 bytes (449 MB) up to 2906062848 bytes (2771 MB)
+	Mod Pack: ~~ERROR~~ NullPointerException: null
+	LiteLoader Mods: ~~ERROR~~ NullPointerException: null
+	LaunchWrapper: 38 active transformer(s)
+          - Transformer: cpw.mods.fml.common.asm.transformers.PatchingTransformer
+          - Transformer: optifine.OptiFineClassTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.MarkerTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.SideTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+          - Transformer: net.minecraftforge.classloading.FluidIdTransformer
+          - Transformer: codechicken.lib.asm.ClassHeirachyManager
+          - Transformer: codechicken.core.asm.InterfaceDependancyTransformer
+          - Transformer: codechicken.core.asm.TweakTransformer
+          - Transformer: codechicken.core.asm.DelegatedTransformer
+          - Transformer: codechicken.core.asm.DefaultImplementationTransformer
+          - Transformer: fastcraft.asm.FastCraftTransformer
+          - Transformer: atomicstryker.fpsplus.Transformer
+          - Transformer: codechicken.nei.asm.NEITransformer
+          - Transformer: com.mumfrey.liteloader.transformers.event.EventProxyTransformer
+          - Transformer: com.mumfrey.liteloader.launch.LiteLoaderTransformer
+          - Transformer: com.mumfrey.liteloader.client.transformers.CrashReportTransformer
+          - Transformer: me.guichaguri.betterfps.transformers.MathTransformer
+          - Transformer: me.guichaguri.betterfps.transformers.EventTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.DeobfuscationTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.AccessTransformer
+          - Transformer: net.minecraftforge.transformers.ForgeAccessTransformer
+          - Transformer: codechicken.core.asm.CodeChickenAccessTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.ModAccessTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.ItemStackTransformer
+          - Transformer: Reika.DragonAPI.ASM.InterfaceInjector
+          - Transformer: Reika.DragonAPI.ASM.APIStripper
+          - Transformer: Reika.DragonAPI.ASM.DragonAPIClassTransfomer
+          - Transformer: Reika.DragonAPI.ASM.FMLItemBlockPatch
+          - Transformer: Reika.DragonAPI.ASM.DependentMethodStripper
+          - Transformer: lumien.extendedpotions.asm.ClassTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.TerminalTransformer
+          - Transformer: com.mumfrey.liteloader.client.transformers.LiteLoaderEventInjectionTransformer
+          - Transformer: com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer
+          - Transformer: com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer
+          - Transformer: com.mumfrey.worldeditwrapper.asm.InteractionTransformer
+          - Transformer: com.mumfrey.liteloader.client.transformers.MinecraftOverlayTransformer
+          - Transformer: cpw.mods.fml.common.asm.transformers.ModAPITransformer
+	JVM Flags: 76 total; -XX:+CMSIncrementalPacing -XX:MaxGCPauseMillis=10 -XX:TargetSurvivorRatio=90 -XX:+PrintAdaptiveSizePolicy -XX:+UseNewLongLShift -XX:HeapSizePerGCThread=128m -XX:+UnlinkSymbolsALot -XX:ReservedCodeCacheSize=256m -XX:-OmitStackTraceInFastThrow -Xcomp -XX:+EagerXrunInit -XX:+PrintPLAB -XX:+PrintTLE -XX:+ResizeTLAB -XX:+ResizeTLE -XX:+BackgroundCompilation -XX:+UseTLE -XX:+PrintGCDetails -XX:+PrintHeapAtGC -XX:+PrintTenuringDistribution -Xloggc:.\gc_BCCSF1492_0.log -XX:+PrintGCApplicationStoppedTime -XX:+CMSPermGenSweepingEnabled -XX:+BindGCTaskThreadsToCPUs -XX:Tier0ProfilingStartPercentage=0 -XX:Tier3InvocationThreshold=3 -XX:Tier3MinInvocationThreshold=2 -XX:Tier3CompileThreshold=2 -XX:Tier3BackEdgeThreshold=10 -XX:Tier4InvocationThreshold=4 -XX:Tier4MinInvocationThreshold=3 -XX:Tier4CompileThreshold=2 -XX:Tier4BackEdgeThreshold=8 -XX:TieredCompileTaskTimeout=15000 -XX:Tier3DelayOn=50 -XX:Tier3DelayOff=25 -XX:-DontCompileHugeMethods -XX:+AlwaysCompileLoopMethods -XX:+CICompilerCountPerCPU -Xincgc -XX:+UseTLAB -XX:+UseSpinning -XX:+CITime -XX:CICompilerCount=1 -XX:ThreadPriorityPolicy=42 -XX:CompileThreshold=10000 -XX:+UseThreadPriorities -Xrs -XX:+OptimizeStringConcat -XX:+TieredCompilation -XX:+ResizeTLAB -XX:AllocatePrefetchDistance=256 -XX:+DisableExplicitGC -XX:+DoEscapeAnalysis -XX:-UseGCOverheadLimit -Xnoclassgc -XX:+ExplicitGCInvokesConcurrent -XX:+ExplicitGCInvokesConcurrentAndUnloadsClasses -XX:+UseCompressedOops -XX:+EliminateLocks -XX:+UnlockDiagnosticVMOptions -XX:+DebugNonSafepoints -XX:+ParallelRefProcEnabled -XX:ParallelGCThreads=2 -XX:NewSize=286m -XX:MaxNewSize=286m -XX:+AggressiveOpts -XX:+PrintCommandLineFlags -XX:+PrintFlagsFinal -XX:+UseCMSInitiatingOccupancyOnly -XX:CMSInitiatingOccupancyFraction=85 -XX:+CMSScavengeBeforeRemark -XX:SoftRefLRUPolicyMSPerMB=1000 -XX:PermSize=286m -XX:MaxPermSize=286m -Xmx2800m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1492 Optifine OptiFine_1.7.10_HD_U_C1 20 mods loaded, 20 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UC	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UC	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1492-1.7.10.jar) 
+	UC	Forge{10.13.4.1492} [Minecraft Forge] (forge-1.7.10-10.13.4.1492-1.7.10.jar) 
+	UC	CodeChickenCore{1.0.7.46} [CodeChicken Core] (minecraft.jar) 
+	UC	NotEnoughItems{1.0.5.111} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.111-universal.jar) 
+	UC	<DragonAPI ASM>{0} [DragonAPI ASM Data Initialization] (minecraft.jar) 
+	UC	ExtendedPotions{1.2} [Extended Potions] (ExtendedPotions-MC1.7.10-1.2.jar) 
+	UC	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UC	DragonAPI{1.0} [DragonAPI] (DragonAPI 1.7.10 V8a.jar) 
+	UC	FastCraft{1.21} [FastCraft] (fastcraft-1.21.jar) 
+	UE	GeoStrata{1.0} [GeoStrata] (GeoStrata 1.7.10 V8a.jar) 
+	UC	Sampler{1.45} [Sampler] (sampler-1.45.jar) 
+	UC	shadowworld{1.3.3} [Shadow World] (shadowworld-1.3.3.jar) 
+	UC	vchat{0.2r14} [vChat] (vChat-0.2r14.jar) 
+	UC	wawla{1.3.1} [What Are We Looking At] (Wawla-1.3.1-1.7.10.jar) 
+	UC	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) 
+	UC	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10-ci.jar) 
+	UC	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UC	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UC	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+[15:28:05] [Client thread/INFO] [STDOUT/]: [net.minecraft.client.Minecraft:func_71377_b:359]: #@!@# Game crashed! Crash report saved to: #@!@# D:\nmine\.\crash-reports\crash-2015-08-31_15.28.05-client.txt
